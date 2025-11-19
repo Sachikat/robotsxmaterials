@@ -3,7 +3,7 @@ import config
 import time
 
 #parent_path = os.getcwd() + "/PAIR_Lab/Robotics_Videos/"
-file_name = "D1.mp4" #change to get the other video
+file_name = "D2.mp4" #change to get the other video
 #full_path = parent_path + file_name
 
 client = genai.Client(api_key=config.API_KEY)
