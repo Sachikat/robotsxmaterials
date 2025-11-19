@@ -1,0 +1,217 @@
+- task: "Prepare for Liquid Sample Weighing"
+  actions:
+    - id: 1
+      action_type: "Move"
+      target_location: "pre_ceramic_materials_cabinet"
+      description: "Robot moves to the cabinet containing ceramic materials."
+    - id: 2
+      action_type: "Open"
+      object: "cabinet_door"
+      effector: "robot_gripper"
+      description: "Robot opens the cabinet door labeled 'PRE CERAMIC MATERIALS'."
+    - id: 3
+      action_type: "Grasp"
+      object: "liquid_bottle_red_cap"
+      effector: "robot_gripper"
+      description: "Robot grasps the liquid bottle with a red cap from the cabinet."
+    - id: 4
+      action_type: "Move"
+      target_location: "workbench_area_1"
+      object: "liquid_bottle_red_cap"
+      description: "Robot moves the liquid bottle to the main workbench area."
+    - id: 5
+      action_type: "Close"
+      object: "cabinet_door"
+      effector: "robot_gripper"
+      description: "Robot closes the cabinet door."
+    - id: 6
+      action_type: "Move"
+      target_location: "drawer_pipettes_area"
+      description: "Robot moves to the drawer containing pipettes."
+    - id: 7
+      action_type: "Open"
+      object: "drawer_pipettes"
+      effector: "robot_gripper"
+      description: "Robot opens the drawer to access pipettes."
+    - id: 8
+      action_type: "Grasp"
+      object: "plastic_pipette"
+      effector: "robot_gripper"
+      description: "Robot grasps a plastic pipette from the drawer."
+    - id: 9
+      action_type: "Move"
+      target_location: "workbench_area_1"
+      object: "plastic_pipette"
+      description: "Robot moves the pipette to the main workbench area."
+    - id: 10
+      action_type: "Close"
+      object: "drawer_pipettes"
+      effector: "robot_gripper"
+      description: "Robot closes the pipette drawer."
+    - id: 11
+      action_type: "Move"
+      target_location: "drawer_cups_area"
+      description: "Robot moves to the drawer containing plastic cups."
+    - id: 12
+      action_type: "Open"
+      object: "drawer_cups"
+      effector: "robot_gripper"
+      description: "Robot opens the drawer to access cups."
+    - id: 13
+      action_type: "Grasp"
+      object: "plastic_cup_1"
+      effector: "robot_gripper"
+      description: "Robot grasps a plastic cup (Cup 1) from the drawer."
+    - id: 14
+      action_type: "Move"
+      target_location: "workbench_area_1"
+      object: "plastic_cup_1"
+      description: "Robot moves Cup 1 to the main workbench area."
+    - id: 15
+      action_type: "Grasp"
+      object: "plastic_cup_2"
+      effector: "robot_gripper"
+      description: "Robot grasps another plastic cup (Cup 2) from the drawer."
+    - id: 16
+      action_type: "Move"
+      target_location: "workbench_area_1"
+      object: "plastic_cup_2"
+      description: "Robot moves Cup 2 to the main workbench area."
+    - id: 17
+      action_type: "Close"
+      object: "drawer_cups"
+      effector: "robot_gripper"
+      description: "Robot closes the cup drawer."
+
+- task: "Perform Liquid Sample Weighing"
+  actions:
+    - id: 18
+      action_type: "Move"
+      target_location: "weighing_station"
+      objects_held: ["liquid_bottle_red_cap", "plastic_cup_1", "plastic_cup_2", "plastic_pipette"]
+      description: "Robot moves all gathered items (bottle, cups, pipette) to the weighing station."
+    - id: 19
+      action_type: "Place"
+      object: "plastic_cup_1"
+      target_location: "scale_platform"
+      effector: "robot_gripper"
+      description: "Robot places plastic cup 1 onto the scale platform."
+    - id: 20
+      action_type: "WaitForSensor"
+      sensor: "scale_stability_sensor"
+      threshold: "stable"
+      timeout: 5
+      description: "Robot waits for the scale reading to stabilize."
+    - id: 21
+      action_type: "Tare"
+      object: "scale"
+      effector: "robot_gripper"
+      description: "Robot presses the 'TARE' button on the scale to zero its reading."
+    - id: 22
+      action_type: "Open"
+      object: "liquid_bottle_cap"
+      effector: "robot_gripper"
+      description: "Robot opens the cap of the liquid bottle."
+    - id: 23
+      action_type: "Place"
+      object: "liquid_bottle_cap"
+      target_location: "metal_tray"
+      effector: "robot_gripper"
+      description: "Robot places the bottle cap onto the metal tray."
+    - id: 24
+      action_type: "Grasp"
+      object: "plastic_pipette"
+      effector: "robot_gripper"
+      description: "Robot grasps the plastic pipette."
+    - id: 25
+      action_type: "Squeeze"
+      object: "plastic_pipette_bulb"
+      effector: "robot_gripper"
+      description: "Robot squeezes the bulb of the pipette to expel air."
+    - id: 26
+      action_type: "Dip"
+      object: "plastic_pipette_tip"
+      target_location: "liquid_bottle_opening"
+      description: "Robot dips the tip of the pipette into the liquid bottle."
+    - id: 27
+      action_type: "ReleasePressure"
+      object: "plastic_pipette_bulb"
+      effector: "robot_gripper"
+      description: "Robot gently releases pressure on the pipette bulb to draw liquid into the pipette."
+    - id: 28
+      action_type: "Lift"
+      object: "plastic_pipette"
+      description: "Robot lifts the pipette, now containing liquid, from the bottle."
+    - id: 29
+      action_type: "Move"
+      target_location: "plastic_cup_1_on_scale"
+      object: "plastic_pipette"
+      description: "Robot moves the pipette over plastic cup 1 on the scale."
+    - id: 30
+      action_type: "DispenseLiquid"
+      object: "plastic_pipette"
+      target_location: "plastic_cup_1_on_scale"
+      method: "drop_by_drop"
+      effector: "robot_gripper"
+      sensor_feedback: "scale_display"
+      target_value: 1.0 # grams
+      description: "Robot dispenses liquid from the pipette drop by drop into Cup 1, monitoring the scale for a target weight of 1.0 gram."
+      # This step implicitly includes squeezing the pipette and monitoring the scale until 1.0g is reached.
+    - id: 31
+      action_type: "ConditionalAction"
+      condition: "liquid_remaining_in_pipette"
+      sub_actions:
+        - id: 31.1
+          action_type: "Move"
+          target_location: "plastic_cup_2_on_tray"
+          object: "plastic_pipette"
+          description: "If liquid remains in the pipette, robot moves pipette over Cup 2."
+        - id: 31.2
+          action_type: "DispenseLiquid"
+          object: "plastic_pipette"
+          target_location: "plastic_cup_2_on_tray"
+          description: "Robot dispenses remaining liquid into Cup 2."
+    - id: 32
+      action_type: "Place"
+      object: "plastic_pipette"
+      target_location: "metal_tray"
+      effector: "robot_gripper"
+      description: "Robot places the used pipette onto the metal tray."
+    - id: 33
+      action_type: "Grasp"
+      object: "liquid_bottle_cap"
+      effector: "robot_gripper"
+      description: "Robot grasps the liquid bottle cap from the metal tray."
+    - id: 34
+      action_type: "Close"
+      object: "liquid_bottle_red_cap"
+      effector: "robot_gripper"
+      description: "Robot closes the liquid bottle with its cap."
+    - id: 35
+      action_type: "LogMeasurement"
+      value_source: "scale_display"
+      value_unit: "grams"
+      description: "Robot logs the final measured weight (1.0g indicated on scale)."
+
+- task: "Cleanup Weighing Station"
+  actions:
+    - id: 36
+      action_type: "Move"
+      target_location: "liquid_bottle_red_cap_original_cabinet"
+      object: "liquid_bottle_red_cap"
+      description: "Robot moves the liquid bottle back to its original cabinet location."
+    - id: 37
+      action_type: "Move"
+      target_location: "plastic_pipette_storage_drawer"
+      object: "plastic_pipette"
+      description: "Robot moves the pipette to its storage drawer or disposal."
+    - id: 38
+      action_type: "Move"
+      target_location: "plastic_cup_1_disposal_area" # Assuming these are disposable or need washing
+      object: "plastic_cup_1"
+      description: "Robot moves plastic cup 1 to a disposal/washing area."
+    - id: 39
+      action_type: "Move"
+      target_location: "plastic_cup_2_disposal_area"
+      object: "plastic_cup_2"
+      description: "Robot moves plastic cup 2 to a disposal/washing area."

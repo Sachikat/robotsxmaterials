@@ -1,0 +1,21 @@
+```json
+[
+  {"task_id": "0", "action": "open_cabinet", "object": "cabinet", "robot_effector": "right_hand", "start_time": "00:05", "end_time": "00:06"},
+  {"task_id": "1", "action": "grasp", "object": "powder_bottle", "robot_effector": "right_hand", "start_time": "00:07", "end_time": "00:08"},
+  {"task_id": "2", "action": "close_cabinet", "object": "cabinet", "robot_effector": "left_hand", "start_time": "00:08", "end_time": "00:09"},
+  {"task_id": "3", "action": "place", "object": "powder_bottle", "location": "tray", "robot_effector": "right_hand", "start_time": "00:15", "end_time": "00:16"},
+  {"task_id": "4", "action": "grasp", "object": "small_paper", "robot_effector": "right_hand", "start_time": "00:18", "end_time": "00:19"},
+  {"task_id": "5", "action": "place", "object": "small_paper", "location": "scale", "robot_effector": "right_hand", "start_time": "00:19", "end_time": "00:20"},
+  {"task_id": "6", "action": "press_button", "object": "tare_button", "robot_effector": "right_hand_finger", "start_time": "00:24", "end_time": "00:26"},
+  {"task_id": "7", "action": "open_lid", "object": "powder_bottle_lid", "robot_effector": "both_hands", "start_time": "00:29", "end_time": "00:32"},
+  {"task_id": "8", "action": "grasp", "object": "spoon", "robot_effector": "right_hand", "start_time": "00:34", "end_time": "00:35"},
+  {"task_id": "9", "action": "scoop_powder", "object": "powder", "tool": "spoon", "robot_effector": "right_hand", "start_time": "00:37", "end_time": "00:38"},
+  {"task_id": "10", "action": "dispense_powder", "object": "powder", "tool": "spoon", "location": "paper_on_scale", "robot_effector": "right_hand", "start_time": "00:40", "end_time": "00:58", "note": "Adjusting weight to 0.50g"},
+  {"task_id": "11", "action": "grasp", "object": "small_paper", "robot_effector": "left_hand", "start_time": "01:02", "end_time": "01:03"},
+  {"task_id": "12", "action": "transfer_powder", "object": "excess_powder", "from_location": "paper_on_scale", "to_location": "new_small_paper", "tool": "spoon", "robot_effector": "right_hand", "start_time": "01:04", "end_time": "01:07"},
+  {"task_id": "13", "action": "place", "object": "new_small_paper_with_powder", "location": "tray_side", "robot_effector": "left_hand", "start_time": "01:06", "end_time": "01:07"},
+  {"task_id": "14", "action": "adjust_powder", "object": "powder", "tool": "spoon", "location": "paper_on_scale", "robot_effector": "right_hand", "start_time": "01:08", "end_time": "01:12", "note": "Fine-tuning weight to 0.50g"},
+  {"task_id": "15", "action": "close_lid", "object": "powder_bottle_lid", "robot_effector": "both_hands", "start_time": "01:23", "end_time": "01:26"},
+  {"task_id": "16", "action": "place", "object": "spoon", "location": "tray", "robot_effector": "right_hand", "start_time": "01:20", "end_time": "01:22"}
+]
+```
