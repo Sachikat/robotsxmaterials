@@ -1,0 +1,136 @@
+The video demonstrates the process of weighing powder samples in a lab setting. The actions performed involve retrieving the powder, preparing the weighing area, accurately measuring a specific amount of powder using a scale and spoon, and then tidying up.
+
+Here is a breakdown of the actions:
+
+**Task Graph / Code Representation:**
+
+```yaml
+- task: Weigh Powder Sample
+  steps:
+    - action: Open Cabinet Door
+      description: Robot opens the top-right cabinet door.
+      object: Cabinet Door
+      robot_action: Gripper opens door
+    - action: Grasp Powder Bottle
+      description: Robot grasps the powder bottle from inside the cabinet.
+      object: Powder Bottle
+      robot_action: Gripper grasps bottle
+    - action: Close Cabinet Door
+      description: Robot closes the cabinet door.
+      object: Cabinet Door
+      robot_action: Gripper pushes door closed
+    - action: Move Powder Bottle to Weighing Area
+      description: Robot moves the powder bottle to the designated weighing area.
+      object: Powder Bottle
+      robot_action: Arm moves bottle
+    - action: Place Powder Bottle on Tray
+      description: Robot places the powder bottle onto a metal tray.
+      object: Powder Bottle
+      location: Tray
+      robot_action: Gripper releases bottle
+    - action: Grasp Weighing Paper
+      description: Robot grasps a small square piece of weighing paper.
+      object: Weighing Paper
+      robot_action: Gripper grasps paper
+    - action: Place Weighing Paper on Scale
+      description: Robot places the weighing paper onto the scale's pan.
+      object: Weighing Paper
+      location: Scale
+      robot_action: Gripper releases paper
+    - action: Tare Scale
+      description: Robot presses the "TARE" button on the Fisher Scientific scale to zero it.
+      object: Scale
+      robot_action: Finger/tool presses button
+    - action: Unscrew Bottle Lid
+      description: Robot unscrews the lid from the powder bottle.
+      object: Powder Bottle Lid
+      robot_action: Gripper twists lid
+    - action: Place Lid on Tray
+      description: Robot places the unscrewed lid onto the metal tray.
+      object: Powder Bottle Lid
+      location: Tray
+      robot_action: Gripper releases lid
+    - action: Grasp Spoon
+      description: Robot grasps the metal spoon (spatula).
+      object: Spoon
+      robot_action: Gripper grasps spoon
+    - action: Scoop Powder from Bottle
+      description: Robot uses the spoon to scoop powder from the powder bottle.
+      object: Powder
+      source: Powder Bottle
+      tool: Spoon
+      robot_action: Spoon enters bottle, scoops powder
+    - action: Dispense Powder to Scale
+      description: Robot taps the spoon to dispense powder onto the weighing paper on the scale, monitoring the weight display. (Initially dispensed 0.51g)
+      object: Powder
+      destination: Weighing Paper on Scale
+      tool: Spoon
+      robot_action: Spoon taps over paper, arm monitors scale sensor
+    - action: Grasp New Weighing Paper
+      description: Robot grasps another clean piece of weighing paper, to collect excess.
+      object: New Weighing Paper
+      robot_action: Gripper grasps paper
+    - action: Scoop Excess Powder from Scale
+      description: Robot uses the spoon to carefully scoop a small amount of excess powder from the paper on the scale.
+      object: Excess Powder
+      source: Weighing Paper on Scale
+      tool: Spoon
+      robot_action: Spoon removes powder
+    - action: Place Excess Powder on New Paper
+      description: Robot places the scooped excess powder onto the new weighing paper, setting it aside.
+      object: Excess Powder
+      destination: New Weighing Paper
+      location: Tray (side)
+      robot_action: Spoon deposits powder, gripper places paper
+    - action: Confirm Weight (0.50g)
+      description: Robot confirms that the scale now displays the target weight of 0.50g.
+      object: Scale
+      target_weight: 0.50g
+      robot_action: Read digital display
+    - action: Place Spoon on Tray
+      description: Robot places the spoon back onto the tray.
+      object: Spoon
+      location: Tray
+      robot_action: Gripper releases spoon
+    - action: Grasp Bottle Lid
+      description: Robot grasps the powder bottle lid from the tray.
+      object: Powder Bottle Lid
+      robot_action: Gripper grasps lid
+    - action: Screw Lid onto Bottle
+      description: Robot screws the lid back onto the powder bottle.
+      object: Powder Bottle Lid
+      robot_action: Gripper twists lid onto bottle
+    - action: Remove Weighed Powder from Scale
+      description: Robot removes the weighing paper containing the 0.50g of powder from the scale.
+      object: Weighing Paper with Powder
+      source: Scale
+      robot_action: Gripper lifts paper
+```
+
+**Task Graph (Visual):**
+
+```mermaid
+graph TD
+    A[Start] --> B(Open Cabinet Door);
+    B --> C(Grasp Powder Bottle);
+    C --> D(Close Cabinet Door);
+    D --> E(Move Powder Bottle to Tray);
+    E --> F(Place Powder Bottle on Tray);
+    F --> G(Grasp Weighing Paper);
+    G --> H(Place Weighing Paper on Scale);
+    H --> I(Tare Scale);
+    I --> J(Unscrew Bottle Lid);
+    J --> K(Place Lid on Tray);
+    K --> L(Grasp Spoon);
+    L --> M(Scoop Powder from Bottle);
+    M --> N(Dispense Powder to Scale);
+    N -- If weight > 0.50g --> O(Grasp New Weighing Paper);
+    N -- If weight = 0.50g --> Q(Confirm Weight 0.50g);
+    O --> P(Scoop Excess Powder from Scale);
+    P --> Q;
+    Q --> R(Place Spoon on Tray);
+    R --> S(Grasp Bottle Lid);
+    S --> T(Screw Lid onto Bottle);
+    T --> U(Remove Weighed Powder from Scale);
+    U --> V[End];
+```

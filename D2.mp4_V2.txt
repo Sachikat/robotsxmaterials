@@ -1,0 +1,70 @@
+Here's a task graph and its textual representation for the robot actions derived from the video:
+
+```mermaid
+graph TD
+    A[Start] --> B(Robot opens PRE CERAMIC MATERIALS cabinet with gripper);
+    B --> C(Robot grasps Liquid Bottle with gripper);
+    C --> D(Robot places Liquid Bottle on counter);
+    D --> E(Robot opens Drawer 1 with gripper);
+    E --> F(Robot grasps Plastic Pipette from bag with gripper);
+    F --> G(Robot closes Drawer 1 with gripper);
+    G --> H(Robot opens Drawer 2 with gripper);
+    H --> I(Robot grasps Two Plastic Cups with gripper);
+    I --> J(Robot closes Drawer 2 with gripper);
+    J --> K(Robot moves Liquid Bottle, Pipette, and Cups to Scaling Station);
+    K --> L(Robot places Liquid Bottle, Pipette, and Cups on Metal Tray);
+    L --> M(Robot presses TARE button on scale);
+    M --> N(Robot grasps Plastic Cup 1 with gripper);
+    N --> O(Robot places Plastic Cup 1 on Scale);
+    O --> P(Robot presses TARE button on scale);
+    P --> Q(Robot unscrews Red Cap from Liquid Bottle with gripper);
+    Q --> R(Robot grasps Plastic Pipette with gripper);
+    R --> S(Robot squeezes Pipette Bulb);
+    S --> T(Robot inserts Pipette into Liquid Bottle);
+    T --> U(Robot releases Pipette Bulb to draw liquid);
+    U --> V(Robot moves Pipette over Plastic Cup 1 on Scale);
+    V --> W(Robot dispenses Liquid drop by drop into Cup 1, observing scale reading);
+    W --> X{Is 1.00g reached?};
+    X -- No --> W;
+    X -- Yes --> Y(Robot moves Pipette over Plastic Cup 2);
+    Y --> Z(Robot dispenses remaining liquid into Cup 2);
+    Z --> AA(Robot places Plastic Pipette on Metal Tray);
+    AA --> BB(Robot screws Red Cap onto Liquid Bottle with gripper);
+    BB --> CC(Robot verifies Scale reads 1.00g using vision sensor);
+    CC --> DD[End];
+```
+
+## Task Graph Text Description:
+
+This task graph outlines the steps a robot would take to weigh liquid samples, specifically aiming for 1.00 gram. The robot uses its gripper for object manipulation and a vision system to read the scale.
+
+1.  **Open Cabinet:** The robot opens the "PRE CERAMIC MATERIALS" cabinet using its gripper.
+2.  **Grasp Liquid Bottle:** The robot grasps a white liquid bottle with a red cap from the cabinet using its gripper.
+3.  **Place Liquid Bottle:** The robot places the liquid bottle onto the lab counter.
+4.  **Open Drawer 1:** The robot opens the first drawer using its gripper.
+5.  **Grasp Plastic Pipette:** The robot grasps a plastic pipette from a plastic bag inside the open drawer using its gripper.
+6.  **Close Drawer 1:** The robot closes the first drawer.
+7.  **Open Drawer 2:** The robot opens the second drawer using its gripper.
+8.  **Grasp Two Plastic Cups:** The robot grasps two plastic cups from the second drawer using its gripper.
+9.  **Close Drawer 2:** The robot closes the second drawer.
+10. **Move Items to Scaling Station:** The robot moves the liquid bottle, pipette, and two plastic cups to the scaling station.
+11. **Place All Items on Metal Tray:** The robot places all gathered items (bottle, pipette, cups) onto a metal tray at the scaling station.
+12. **Tare Scale (Initial):** The robot presses the "TARE" button on the scale to zero it, if not already at zero.
+13. **Grasp Plastic Cup 1:** The robot grasps one of the plastic cups (Cup 1) using its gripper.
+14. **Place Plastic Cup 1 on Scale:** The robot places Plastic Cup 1 onto the scale.
+15. **Tare Scale (Cup Weight):** Once the scale reading is stable, the robot presses the "TARE" button again to zero the scale, effectively negating the weight of the cup.
+16. **Unscrew Red Cap:** The robot unscrews the red cap from the liquid bottle using its gripper.
+17. **Grasp Plastic Pipette:** The robot grasps the plastic pipette.
+18. **Squeeze Pipette Bulb:** The robot squeezes the bulb of the plastic pipette.
+19. **Insert Pipette into Liquid Bottle:** The robot dips the tip of the pipette into the liquid inside the bottle.
+20. **Draw Liquid:** The robot gently releases the pipette bulb to draw liquid into the pipette.
+21. **Move Pipette over Cup 1:** The robot moves the pipette over Plastic Cup 1, which is on the scale.
+22. **Dispense Liquid Drop by Drop:** The robot carefully dispenses the liquid from the pipette into Cup 1, observing the scale reading increase using its vision sensor.
+23. **Check Weight:** The robot continuously checks if the scale reading has reached 1.00 gram.
+    *   **If not 1.00g:** Continue dispensing liquid drop by drop (loop back to step 22).
+    *   **If 1.00g is reached:** Proceed to the next step.
+24. **Move Pipette over Plastic Cup 2:** If any liquid remains in the pipette after reaching 1.00g in Cup 1, the robot moves the pipette over Plastic Cup 2 (the unused cup).
+25. **Dispense Remaining Liquid:** The robot dispenses any remaining liquid from the pipette into Plastic Cup 2 to avoid re-introducing it to the source bottle.
+26. **Place Pipette:** The robot places the plastic pipette back on the metal tray.
+27. **Screw Red Cap:** The robot screws the red cap back onto the liquid bottle.
+28. **Verify Measurement:** The robot performs a final check using its vision sensor to ensure the scale still displays 1.00g.
