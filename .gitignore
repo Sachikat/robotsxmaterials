@@ -1,1 +1,5 @@
 config.py
+.DS_Store
+PAIR_Lab/
+*.mp4
+.gitattributes
