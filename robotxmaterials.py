@@ -23,11 +23,13 @@ response = client.models.generate_content(
     model=config.MODEL,
     contents=[myfile, 
     "Convert the videos into task graphs/code."
-    "Segment the video into tasks that robot could perform."
-    "Break the video into actions that it is doing such as grasping an object, moving an object, moving to something, pushing something, open/close, and other actions that are detected in the image to complete the overall task."
-    "Include details about what the robot is doing and what it is using like its gripper or sensors. Include what objects it is using/affecting and the actions it is taking."
+    "Segment the video into tasks that human is performing."
+    "If there is audio, listen for the audio as it tells the exact steps. Do not make up steps."
+    "There might be multiple processes in the video, so more than one procedure with various tasks for each procedure."
+    "Break the video into actions."
     "Also in addition create or generacte an image/picture/graph of a task graph of the actions segements that were detected."
-    "Return both the text and the generated image."]
+    "Should be like a robot graph."
+    "Return both the text and the generated image."]"]
 )
 
 for part in response.parts:
