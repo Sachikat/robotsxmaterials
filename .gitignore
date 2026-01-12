@@ -1,5 +1,9 @@
-config.py
 .DS_Store
 PAIR_Lab/
 *.mp4
 .gitattributes
+.env
+*.pt
+Testing/
+Videos/
+_pycache_
