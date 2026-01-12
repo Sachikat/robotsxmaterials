@@ -17,7 +17,7 @@ clips = clip_video(f"Videos/{video_file_name}.mp4", audio_merged)
 process_clips(clips)
 
 # Clean json to get full actions
-all_clips, json_file_name = clean_clip_json("d1_json")
+all_clips, json_file_name = clean_clip_json("") #name file
 
 # Create final task graph
 generate_task_graph(video_file_name, json_file_name)
