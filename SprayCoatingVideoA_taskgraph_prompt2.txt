@@ -1,0 +1,43 @@
+```mermaid
+graph TD
+    A[Start] --> B(Introduction to Task);
+
+    B --> C(Prepare Ceramic Sheets for Heating);
+    C --> C1[Inspect and Handle Ceramic Sheets];
+    C1 --> C2[Place Ceramic Sheets on Heated Plate];
+    C2 --> C3[Activate Heated Plate and Arrange Sheets];
+    C3 --> C4[Wait for Ceramic Sheets to Warm];
+
+    C4 --> D(Prepare Slurry Solution);
+    D --> D1[Grab and Shake Slurry Bottle];
+    D1 --> D2[Unscrew Slurry Container Lid];
+
+    D2 --> E(Prepare Spray Gun for Slurry Loading);
+    E --> E1[Pick up Spray Gun and Small Glass Bottle];
+    E1 --> E2[Unscrew Container from Spray Gun];
+
+    E2 --> F(Load Slurry into Spray Gun);
+    F --> F1[Pour Slurry from Bottle into Spray Gun];
+
+    F1 --> G(Assemble and Secure Spray Gun);
+    G --> G1[Screw Lid onto Slurry Bottle and Place Aside];
+    G1 --> G2[Put Lid Back on Spray Gun];
+    G2 --> G3[State Spray Gun is Ready and Intention to Spray];
+
+    G3 --> H(Final Work Area Setup & Safety);
+    H --> H1[Move Black Plastic Bag and Point at Ceramic Sheets];
+    H1 --> H2[Pick Up and Hold Spray Gun];
+    H2 --> H3[Shake Spray Gun];
+    H3 --> H4[Put on Safety Mask];
+    H4 --> H5[Turn on Ventilation Fan];
+
+    H5 --> I(Apply Slurry Spray to Ceramic Sheets);
+    I --> I1[Position Spray Gun and Pull Trigger];
+    I1 --> I2[Spray Substance onto Surface];
+    I2 --> I3[Continue Spraying];
+
+    I3 --> J(Post-Spraying Handling);
+    J --> J1[Grasp and Manipulate Black Sheet-like Object];
+
+    J1 --> K[End];
+```

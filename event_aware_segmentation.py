@@ -3,8 +3,9 @@ import numpy as np
 from ultralytics import YOLO
 import ffmpeg
 
-def detect_objects(frame):
-    model = YOLO("yolov8n.pt")
+model = YOLO("yolov8n.pt")
+
+def detect_objects(frame, model):
     results = model.predict(frame, verbose=False)
     predicted_objects = set()
     for result in results:
@@ -59,7 +60,7 @@ def process_video(video_path):
             if prev_frame is not None:
                 motion_change = detect_motion(frame_size, prev_frame, frame)
             
-            objects = detect_objects(frame)
+            objects = detect_objects(frame, model)
             object_change = (objects != prev_objects)
 
             if motion_change or object_change:

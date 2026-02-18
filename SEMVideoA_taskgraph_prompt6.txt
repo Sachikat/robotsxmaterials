@@ -1,0 +1,165 @@
+```mermaid
+graph TD
+  A[A hand wearing a blue glove appears on the left side of the frame.]
+  B[A hand wearing a blue glove enters the frame from the left.]
+  C[The hand picks up a stub (a small gold and silver object).]
+  D[The hand holds the stub.]
+  E[The hand rotates the stub to show different angles.]
+  F[hold sample holder with gloved hand]
+  G[place sample holder on brown surface]
+  H[pick up piece of carbon tape with gloved hand]
+  I[cut piece of carbon tape with scissors]
+  J[hold cut piece of carbon tape with gloved hand]
+  K[A gloved hand picks up tweezers.]
+  L[The gloved hand sets down the tweezers.]
+  M[A gloved hand points to a pair of scissors.]
+  N[A gloved hand points to a black strip of material.]
+  O[A gloved hand points to a small round object.]
+  P[A gloved hand picks up a small clear plastic bag.]
+  Q[A gloved hand holds the plastic bag containing a small, crescent-shaped white sample.]
+  R[A gloved hand holds a clear plastic bag containing a white sample.]
+  S[A gloved hand holds a sample holder.]
+  T[A gloved hand picks up a strip of carbon tape.]
+  U[A gloved hand holds the carbon tape above the tweezers.]
+  V[hold carbon tape]
+  W[hold scissors]
+  X[cut a small piece from the carbon tape with scissors]
+  Y[hold the small piece of carbon tape]
+  Z[grab the stub]
+  AA[stick the sticky part of the carbon tape onto the stub]
+  AB[hold a metallic object with a white surface on top]
+  AC[press firmly on the white surface with a gloved thumb]
+  AD[rotate the metallic object]
+  AE[press firmly on the white surface again with a gloved thumb]
+  AF[grab tweezers]
+  AG[use tweezers to remove white protective film from object]
+  AH[remove white protective film from object]
+  AI[hold a small metallic object with a black carbon tape surface in a gloved hand]
+  AJ[touch the black carbon tape on the metallic object with tweezers using the other gloved hand]
+  AK[place the metallic object onto the brown surface]
+  AL[pick up a clear plastic bag containing a white circular sample with gloved hands]
+  AM[manipulate the clear plastic bag]
+  AN[remove a white object from a clear plastic bag]
+  AO[hold the white object in the left gloved hand]
+  AP[break the white object in half using both gloved hands]
+  AQ[hold one half of the white object in the left gloved hand]
+  AR[place the other half of the white object on the table]
+  AS[hold a small white rectangular sample with tweezers in the right hand]
+  AT[hold a metallic sample holder in the left hand]
+  AU[place the white sample onto the carbon tape on the metallic sample holder using tweezers]
+  AV[press the white sample onto the carbon tape on the metallic sample holder using the back of the tweezers]
+  AW[A gloved hand holds a sample holder with a white circular sample attached.]
+  AX[A gloved hand uses tweezers to hold a small white rectangular piece.]
+  AY[The tweezers are used to place the small white rectangular piece onto the sample holder.]
+  AZ[hold a round, metallic sample in the right hand, wearing a blue glove]
+  BA[gesture with the left hand, wearing a blue glove]
+  BB[open the lid of the auto-carbon coater chamber]
+  BC[pick up a small, round, metallic sample]
+  BD[place the sample into the chamber]
+  BE[point at the sample inside the chamber]
+  BF[close the lid on the machine]
+  BG[turn on the vacuum valve with the left hand]
+  BH[press down on the lid with the right hand]
+  BI[place a gloved hand on a red object resting on a silver cylinder of an equipment]
+  BJ[remove the gloved hand from the red object]
+  BK[move the gloved hand to the side of the equipment]
+  BL[point the gloved index finger at the red power button on the equipment]
+  BM[press the red power button on the equipment with the gloved index finger]
+  BN[A hand wearing a blue glove points to a meter on a machine.]
+  BO[A hand wearing a blue glove presses a start button on the machine.]
+  BP[presses button on machine]
+  BQ[waits for countdown to complete]
+  BR[A hand wearing a blue glove reaches towards the equipment.]
+  BS[The hand presses a red button on the front panel of the equipment.]
+  BT[The hand moves away from the equipment.]
+  BU[turn a blue valve]
+  BV[place a red rectangular object on a silver cylindrical chamber]
+  BW[press down on red object]
+  BX[lift red object and metal lid]
+  BY[reach into metal cylinder]
+  BZ[pick up sample]
+  CA[hold a circular metal object with the left hand]
+  CB[hold a small, circular, metallic sample with the right hand]
+  CC[move the metallic sample closer to the camera]
+
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+  F --> G
+  G --> H
+  H --> I
+  I --> J
+  J --> K
+  K --> L
+  L --> M
+  M --> N
+  N --> O
+  O --> P
+  P --> Q
+  Q --> R
+  R --> S
+  S --> T
+  T --> U
+  U --> V
+  V --> W
+  W --> X
+  X --> Y
+  Y --> Z
+  Z --> AA
+  AA --> AB
+  AB --> AC
+  AC --> AD
+  AD --> AE
+  AE --> AF
+  AF --> AG
+  AG --> AH
+  AH --> AI
+  AI --> AJ
+  AJ --> AK
+  AK --> AL
+  AL --> AM
+  AM --> AN
+  AN --> AO
+  AO --> AP
+  AP --> AQ
+  AQ --> AR
+  AR --> AS
+  AS --> AT
+  AT --> AU
+  AU --> AV
+  AV --> AW
+  AW --> AX
+  AX --> AY
+  AY --> AZ
+  AZ --> BA
+  BA --> BB
+  BB --> BC
+  BC --> BD
+  BD --> BE
+  BE --> BF
+  BF --> BG
+  BG --> BH
+  BH --> BI
+  BI --> BJ
+  BJ --> BK
+  BK --> BL
+  BL --> BM
+  BM --> BN
+  BN --> BO
+  BO --> BP
+  BP --> BQ
+  BQ --> BR
+  BR --> BS
+  BS --> BT
+  BT --> BU
+  BU --> BV
+  BV --> BW
+  BW --> BX
+  BX --> BY
+  BY --> BZ
+  BZ --> CA
+  CA --> CB
+  CB --> CC
+```

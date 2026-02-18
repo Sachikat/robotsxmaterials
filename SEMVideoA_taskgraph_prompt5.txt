@@ -1,0 +1,71 @@
+```mermaid
+graph TD
+    A1["pick up a stub"] --> A2
+    A2["hold sample holder"] --> A3
+    A3["place sample holder on surface"] --> A4
+    A4["pick up carbon tape"] --> A5
+    A5["cut carbon tape"] --> A6
+    A6["place cut carbon tape on surface"] --> A7
+    A7["pick up tweezers"] --> A8
+    A8["place tweezers down"] --> A9
+    A9["point to scissors"] --> A10
+    A10["point to black strip"] --> A11
+    A11["pick up plastic bag with sample"] --> A12
+    A12["A gloved hand holds a clear plastic bag containing a white, crescent-shaped object."] --> A13
+    A13["Another gloved hand holds the open end of the plastic bag."] --> A14
+    A14["A gloved hand picks up a piece of carbon tape."] --> A15
+    A15["A gloved hand reaches for scissors while holding the carbon tape."] --> A16
+    A16["hold carbon tape"] --> A17
+    A17["cut a small piece from the carbon tape with scissors"] --> A18
+    A18["pick up a stub"] --> A19
+    A19["stick the carbon tape onto the stub"] --> A20
+    A20["firmly press the white piece onto the metallic stub"] --> A21
+    A21["grab tweezers"] --> A22
+    A22["remove white protective film from the object using tweezers"] --> A23
+    A23["hold the sample holder with a black sample attached to carbon tape"] --> A24
+    A24["touch the side of the sample holder with tweezers"] --> A25
+    A25["place the sample holder on the surface"] --> A26
+    A26["pick up a plastic bag containing a white sample"] --> A27
+    A27["open the plastic bag"] --> A28
+    A28["hold a clear plastic bag containing a white rectangular object"] --> A29
+    A29["transfer the white rectangular object from the bag to the left hand"] --> A30
+    A30["hold the white rectangular object in the left hand"] --> A31
+    A31["break the white rectangular object with fingers"] --> A32
+    A32["hold a piece of the broken white rectangular object in the left hand"] --> A33
+    A33["drop a piece of the broken white rectangular object onto the surface"] --> A34
+    A34["pick up the dropped piece of the white rectangular object with tweezers"] --> A35
+    A35["hold sample"] --> A36
+    A36["stick sample"] --> A37
+    A37["gently press sample"] --> A38
+    A38["hold object"] --> A39
+    A39["pick up and place piece"] --> A40
+    A40["adjust piece"] --> A41
+    A41["hold sample"] --> A42
+    A42["open the lid of the chamber"] --> A43
+    A43["hold the lid with the left hand"] --> A44
+    A44["hold a sample with the right hand"] --> A45
+    A45["carefully place the sample into the chamber"] --> A46
+    A46["point at the sample in the chamber with the right index finger"] --> A47
+    A47["place lid onto the chamber"] --> A48
+    A48["turn vacuum valve on"] --> A49
+    A49["press down on the lid"] --> A50
+    A50["press on a red block"] --> A51
+    A51["move hand"] --> A52
+    A52["turn on equipment"] --> A53
+    A53["watch pressure gauge"] --> A54
+    A54["point to a dial on the machine"] --> A55
+    A55["press the start button on the machine"] --> A56
+    A56["press button"] --> A57
+    A57["wait for countdown to complete"] --> A58
+    A58["A hand wearing a blue glove presses a red button on the equipment."] --> A59
+    A59["The equipment is turned off."] --> A60
+    A60["turn off vacuum valve"] --> A61
+    A61["press a red rectangular object"] --> A62
+    A62["lift lid"] --> A63
+    A63["reach into container"] --> A64
+    A64["pick up sample"] --> A65
+    A65["hold a metallic, cylindrical object (part of a chamber) in the left hand"] --> A66
+    A66["hold a small, round, gold-coated sample in the right hand"] --> A67
+    A67["state 'Here is the final version of my sample'"] --> A68
+    A68["state 'coated with gold on top'"]
+```

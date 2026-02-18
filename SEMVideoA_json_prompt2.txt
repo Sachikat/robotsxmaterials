@@ -1,0 +1,135 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand places a pair of scissors on a brown surface.\"\n  },\n  {\n    \"action\": \"A hand places a pair of tweezers next to two clear plastic bags on the brown surface.\"\n  },\n  {\n    \"action\": \"A hand places a small, curved black strip on the brown surface.\"\n  },\n  {\n    \"action\": \"A hand places a small, golden, curved object on the brown surface.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  \"holding a metallic stub in a gloved hand\",\n  \"holding tweezers in a gloved hand\",\n  \"pressing a white circular sample onto carbon tape on the stub using tweezers\",\n  \"fixing the sample securely on the stub\",\n  \"preparing to take the sample for gold sputtering equipment\"\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a sample\"\n  },\n  {\n    \"action\": \"opening the lid of a sputtering coater\"\n  },\n  {\n    \"action\": \"placing the sample into the sputtering coater\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\"action\": \"holding a lid\"},\n  {\"action\": \"pointing into a chamber\"},\n  {\"action\": \"placing the lid onto the chamber\"},\n  {\"action\": \"closing the chamber lid\"},\n  {\"action\": \"turning a valve\"}\n]\n```"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[\n  \"point at the red switch on the machine\",\n  \"press the red switch on the machine\"\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  \"point at button\",\n  \"press button\"\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\"action\": \"speaking\"},\n  {\"action\": \"waiting\"},\n  {\"action\": \"observing equipment\"}\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  \"Pressing a red button\",\n  \"Turning a valve\"\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  \"move hand towards pin\",\n  \"press pin\",\n  \"release vacuum in chamber\",\n  \"lift red box\"\n]\n```"
+  },
+  {
+    "action": "A person states the purpose of the activity, which is to prepare samples for scanning electron microscopy imaging."
+  },
+  {
+    "action": "A person states that they need a stub."
+  },
+  {
+    "action": "A gloved hand enters the frame."
+  },
+  {
+    "action": "The gloved hand picks up a stub (sample holder)."
+  },
+  {
+    "action": "The gloved hand holds the stub."
+  },
+  {
+    "action": "The gloved hand rotates the stub slightly."
+  },
+  {
+    "action": "A person identifies the object as a 'sample holder'."
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  \"hold a lid with the left hand\",\n  \"reach into a container with the right hand\",\n  \"grab a sample with the right hand\",\n  \"lift the sample out of the container with the right hand\",\n  \"present the sample\"\n]\n```"
+  },
+  {
+    "action": "holding a metallic lid with the left hand"
+  },
+  {
+    "action": "holding a small metallic sample holder with the right hand"
+  },
+  {
+    "action": "observing the metallic objects"
+  },
+  {
+    "action": "speaking the words 'carbon coater'"
+  },
+  {
+    "action": "pointing to a sample holder"
+  },
+  {
+    "action": "picking up a piece of carbon tape"
+  },
+  {
+    "action": "cutting the carbon tape with scissors"
+  },
+  {
+    "action": "placing the carbon tape on the surface"
+  },
+  {
+    "action": "picking up tweezers"
+  },
+  {
+    "action": "holding tweezers"
+  },
+  {
+    "action": "Hand points at scissors"
+  },
+  {
+    "action": "Person says 'A Caesar'"
+  },
+  {
+    "action": "Hand picks up plastic bag"
+  },
+  {
+    "action": "Hand holds up plastic bag to show contents"
+  },
+  {
+    "action": "Person says 'And the sample that I want to image in scanning electron microscope.'"
+  },
+  {
+    "action": "Hand places plastic bag down"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\"action\": \"Observing a sputter coater\"},\n  {\"action\": \"Speaking: 'sputter coater'\"},\n  {\"action\": \"Speaking: 'Gemini, pay attention.'\"},\n  {\"action\": \"Observing tools on a surface\"},\n  {\"action\": \"Speaking: 'To begin with, I grab my carbon tape'\"},\n  {\"action\": \"Grabbing a carbon tape with a gloved hand\"},\n  {\"action\": \"Speaking: 'and I grab my scissor'\"},\n  {\"action\": \"Reaching for scissors with a gloved hand\"}\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\"action\": \"cutting a piece from a carbon tape\"},\n  {\"action\": \"holding a piece of carbon tape\"},\n  {\"action\": \"grabbing a stub\"},\n  {\"action\": \"sticking the carbon tape on the stub\"}\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold object\"\n  },\n  {\n    \"action\": \"press on object\"\n  },\n  {\n    \"action\": \"grab tweezers\"\n  },\n  {\n    \"action\": \"use tweezers to remove film\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  {\"action\": \"hold an object\"},\n  {\"action\": \"grasp tweezers\"},\n  {\"action\": \"grasp a film with tweezers\"},\n  {\"action\": \"peel a film from an object\"},\n  {\"action\": \"remove a film from an object\"},\n  {\"action\": \"place a film on a surface\"},\n  {\"action\": \"place tweezers on a surface\"},\n  {\"action\": \"locate the object\"}\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  \"placing a metallic object on a surface\",\n  \"reaching for a plastic bag\",\n  \"opening the plastic bag\",\n  \"removing a white sample from the bag\",\n  \"placing the white sample on a gloved palm\",\n  \"holding the white sample between two gloved hands\"\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\"action\": \"holding a small white object\"},\n  {\"action\": \"rotating the small white object\"},\n  {\"action\": \"holding a sample holder\"},\n  {\"action\": \"placing the white object onto the carbon tape on the sample holder\"},\n  {\"action\": \"gently pressing the white object onto the carbon tape\"}\n]\n```"
+  }
+]

@@ -1,0 +1,148 @@
+graph TD
+    A[pick up tweezers] --> B
+    B[pick up two empty vials] --> C
+    C[show the labels 'acetonitrile' and 'cyclohexanone' on the vial caps] --> D
+    D[place down the two empty vials] --> E
+    E[hold two sample boxes, one labeled 'B' and one labeled 'A'] --> F
+    F[place the two sample boxes down on the counter] --> G
+    G[pick up a clear measuring cylinder] --> H
+    H[hold the measuring cylinder vertically] --> I
+    I[hold a beaker] --> J
+    J[set down the beaker] --> K
+    K[point at the acetonitrile bottle] --> L
+    L[pick up the acetonitrile bottle] --> M
+    M[set down the acetonitrile bottle] --> N
+    N[point at the cyclohexanone bottle] --> O
+    O[pick up the cyclohexanone bottle] --> P
+    P[set down the cyclohexanone bottle] --> Q
+    Q[hold a glass cylinder with a gloved hand] --> R
+    R[move the glass cylinder with a gloved hand] --> S
+    S[place both gloved hands on the red cap of the acetonitrile bottle] --> T
+    T[twist the red cap of the acetonitrile bottle] --> U
+    U[place lid down] --> V
+    V[pick up acetonitrile bottle] --> W
+    W[tip acetonitrile bottle over] --> X
+    X[Hold a large dark reagent bottle with the left hand.] --> Y
+    Y[Place the right hand on the side of the large dark reagent bottle.] --> Z
+    Z[Adjust the grip on the large dark reagent bottle with both hands.] --> AA
+    AA[Lift the large dark reagent bottle slightly.] --> AB
+    AB[hold brown bottle] --> AC
+    AC[adjust grip on brown bottle] --> AD
+    AD[speak 'Gemini. Observe.'] --> AE
+    AE[pick up the dark amber bottle] --> AF
+    AF[pour liquid from the dark amber bottle into a clear beaker] --> AG
+    AG[pour liquid from a large dark brown bottle into a clear glass beaker] --> AH
+    AH[stop pouring the liquid] --> AI
+    AI[place the large dark brown bottle on the surface next to a scale] --> AJ
+    AJ[pick up lid of acetonitrile bottle] --> AK
+    AK[place lid onto acetonitrile bottle] --> AL
+    AL[twist lid to close acetonitrile bottle] --> AM
+    AM[pick up vial labeled acetonitrile] --> AN
+    AN[twist and remove cap from vial] --> AO
+    AO[place cap on the table] --> AP
+    AP[move vial over waste beaker] --> AQ
+    AQ[tip glass cylinder over] --> AR
+    AR[transfer solution from glass cylinder into vial] --> AS
+    AS[transfer solution from the amber bottle into the vial using a pipette] --> AT
+    AT[remove pipette from the vial] --> AU
+    AU[set the pipette down] --> AV
+    AV[lift the vial out of the beaker] --> AW
+    AW[set the vial down in the waste basket] --> AX
+    AX[pick up a white lid for the vial] --> AY
+    AY[place lid on the vial] --> AZ
+    AZ[twist lid to close the vial] --> BA
+    BA[place the closed vial down on the surface] --> BB
+    BB[pick up bottle of isopropanol] --> BC
+    BC[squeeze bottle of isopropanol] --> BD
+    BD[dispense isopropanol into a beaker] --> BE
+    BE[squirt isopropanol from wash bottle into graduated cylinder] --> BF
+    BF[pick up graduated cylinder] --> BG
+    BG[swirl graduated cylinder] --> BH
+    BH[hold a graduated cylinder with blue-gloved hand] --> BI
+    BI[pour contents from the graduated cylinder into a dark brown waste container] --> BJ
+    BJ[place glass cylinder into beaker] --> BK
+    BK[reach for large brown bottle] --> BL
+    BL[twist red cap off large brown bottle] --> BM
+    BM[twist the red cap of the cyclohexanone bottle] --> BN
+    BN[remove the red cap from the cyclohexanone bottle] --> BO
+    BO[place the red cap down] --> BP
+    BP[grasp the bottle of cyclohexanone] --> BQ
+    BQ[hold a large amber glass bottle with two gloved hands] --> BR
+    BR[pour liquid from the large amber glass bottle into a clear glass beaker] --> BS
+    BS[unscrew the red cap from the cyclohexanol bottle] --> BT
+    BT[place the red cap on the counter] --> BU
+    BU[pick up the red cap] --> BV
+    BV[twist the red cap onto the cyclohexanol bottle] --> BW
+    BW[close the lid of the cyclohexanol bottle] --> BX
+    BX[put on blue gloves] --> BY
+    BY[pick up beaker with stirring rod] --> BZ
+    BZ[hold a graduated cylinder with the right hand and a beaker with the left hand] --> CA
+    CA[lower the graduated cylinder into the beaker] --> CB
+    CB[raise the graduated cylinder out of the beaker] --> CC
+    CC[lower the graduated cylinder into the beaker] --> CD
+    CD[raise the graduated cylinder out of the beaker] --> CE
+    CE[hold a glass beaker with the left hand] --> CF
+    CF[hold a measuring cylinder with the right hand] --> CG
+    CG[pour liquid from the measuring cylinder into the beaker] --> CH
+    CH[insert the measuring cylinder into the beaker] --> CI
+    CI[stir the contents of the beaker with the measuring cylinder] --> CJ
+    CJ[hold glass stirring rod in beaker] --> CK
+    CK[stir liquid in beaker with glass rod] --> CL
+    CL[lift glass stirring rod partially out of liquid] --> CM
+    CM[lower glass stirring rod back into liquid] --> CN
+    CN[stir liquid in beaker with glass rod] --> CO
+    CO[lift glass stirring rod partially out of liquid] --> CP
+    CP[lower glass stirring rod back into liquid] --> CQ
+    CQ[stir liquid in beaker with glass rod] --> CR
+    CR[hold graduated cylinder in beaker] --> CS
+    CS[pick up a vial] --> CT
+    CT[hold the cyclohexanone vial] --> CU
+    CU[place the cap of the vial on the surface] --> CV
+    CV[pick up the vial with the left hand] --> CW
+    CW[position the vial under the graduated cylinder] --> CX
+    CX[pour liquid from the graduated cylinder into the vial] --> CY
+    CY[pour liquid from brown bottle into glass cylinder] --> CZ
+    CZ[set glass cylinder into clear beaker] --> DA
+    DA[pick up white lid] --> DB
+    DB[place white lid onto glass cylinder] --> DC
+    DC[twist cap onto a small clear vial] --> DD
+    DD[set the capped vial down] --> DE
+    DE[pick up two small cylindrical vials] --> DF
+    DF[bring the two cylindrical vials together] --> DG
+    DG[set the two cylindrical vials down] --> DH
+    DH[pick up two small square containers] --> DI
+    DI[place two sample boxes on the bench] --> DJ
+    DJ[pick up sample box 1] --> DK
+    DK[open sample box 1] --> DL
+    DL[move the opened sample box towards a vial] --> DM
+    DM[twist off cap from vial] --> DN
+    DN[place vial cap down] --> DO
+    DO[place vial down] --> DP
+    DP[pick up tweezers] --> DQ
+    DQ[use tweezers to grab the corner of a wafer] --> DR
+    DR[set the sample box down] --> DS
+    DS[pick up a clear glass vial] --> DT
+    DT[manipulate a wafer inside a vial with tweezers] --> DU
+    DU[remove tweezers from the vial] --> DV
+    DV[set down the vial] --> DW
+    DW[pick up an orange square item with tweezers] --> DX
+    DX[pick up a wafer from a clear plastic sample box using tweezers] --> DY
+    DY[place the wafer inside a clear solution vial using tweezers] --> DZ
+    DZ[remove tweezers from the vial] --> EA
+    EA[hold an uncapped vial and its cap] --> EB
+    EB[twist the cap onto the vial] --> EC
+    EC[place the capped vial down] --> ED
+    ED[pick up a second uncapped vial and its cap] --> EE
+    EE[twist the cap onto the second vial] --> EF
+    EF[open the small clear vial] --> EG
+    EG[place the lid of the small clear vial on the table] --> EH
+    EH[pick up sample box 2] --> EI
+    EI[use tweezers to pick up a wafer from sample box 2] --> EJ
+    EJ[move the wafer using tweezers into the small clear vial] --> EK
+    EK[hold a clear vial with the left hand] --> EL
+    EL[hold tweezers with the right hand] --> EM
+    EM[use tweezers to pick up a wafer from the clear vial] --> EN
+    EN[transfer the wafer with the tweezers to another clear container] --> EO
+    EO[screw lid onto vial] --> EP
+    EP[set vial down] --> EQ
+    EQ[set tweezers down]

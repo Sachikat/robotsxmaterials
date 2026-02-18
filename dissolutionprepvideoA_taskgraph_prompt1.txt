@@ -1,0 +1,38 @@
+```mermaid
+graph TD
+    A[Start] --> B(Put on Gloves);
+    B --> C(Prepare Lab Space & Identify Reagents/Tools: Vials, Tweezers, Sample Boxes, Beakers, Cylinders, Reagent Bottles);
+
+    subgraph Solution Preparation
+        C --> D{Loop: For Each Reagent (e.g., Acetonitrile, Cyclohexanone)};
+        D --> E[Uncap Reagent Bottle];
+        E --> F[Measure & Dispense Reagent into Beaker/Cylinder];
+        F --> G(Stir Solution in Beaker/Cylinder);
+        G --> H[Transfer Prepared Solution to Empty Vial];
+        H --> I[Cap Reagent Bottle];
+        I --> J{More Reagents to Prepare?};
+        J -- Yes --> D;
+        J -- No --> K(Rinse Measuring Glassware with Isopropanol);
+        K --> L(Pour Rinse Waste);
+    end
+
+    subgraph Wafer Addition
+        L --> M{Loop: For Each Vial Containing Solution};
+        M --> N[Open Sample Box];
+        N --> O[Uncap Vial for Wafer Addition];
+
+        subgraph Add Wafers to Current Vial
+            O --> P{Loop: Add Multiple Wafers};
+            P --> Q[Pick Up Wafer with Tweezers from Sample Box];
+            Q --> R[Place Wafer into Vial];
+            R --> S{More Wafers for This Vial?};
+            S -- Yes --> P;
+            S -- No --> T[Cap Vial];
+        end
+
+        T --> U[Place Capped Vial Aside];
+        U --> V{More Vials to Process?};
+        V -- Yes --> M;
+        V -- No --> W[End];
+    end
+```

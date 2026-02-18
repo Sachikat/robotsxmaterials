@@ -1,0 +1,93 @@
+```mermaid
+graph TD
+    start_node[Start] --> clip0_action1{speaking to the camera};
+    clip0_action1 --> clip0_action2{gesturing with gloved hands};
+    clip0_action2 --> clip0_action3{explaining the process of depositing copper, copper oxide, and magnetite-based layers};
+    
+    clip0_action3 --> clip1_action1{pointing at a heated plate};
+    clip1_action1 --> clip1_action2{picking up an alumina ceramic substrate};
+    
+    clip1_action2 --> clip2_action1{put a white object into a small white dish};
+    clip2_action1 --> clip2_action2{pick up a grey bottle with a white lid};
+    clip2_action2 --> clip2_action3{shake the grey bottle};
+    clip2_action3 --> clip2_action4{state that the bottle contains spraying solution with copper, copper oxide, and magnetite};
+    clip2_action4 --> clip2_action5{place the grey bottle down};
+    clip2_action5 --> clip2_action6{pick up a blue spray gun};
+    
+    clip2_action6 --> clip3_action1{A gloved hand appears in the frame};
+    clip3_action1 --> clip3_action2{The speaker states the intent to place ceramic sheets on a heated plate and turn on the heated plate};
+    clip3_action2 --> clip3_action3{A gloved hand picks up a ceramic sheet from a small white dish};
+    
+    clip3_action3 --> clip4_action1{picking up a small white square};
+    clip4_action1 --> clip4_action2{placing the small white square on a foil-covered object};
+    clip4_action2 --> clip4_action3{picking up a small white square from a white dish};
+    clip4_action3 --> clip4_action4{placing the small white square on the foil-covered object};
+    clip4_action4 --> clip4_action5{picking up a small white square from the white dish};
+    clip4_action5 --> clip4_action6{placing the small white square on the foil-covered object};
+    clip4_action6 --> clip4_action7{picking up a small white square from the white dish};
+    clip4_action7 --> clip4_action8{placing the small white square on the foil-covered object};
+    clip4_action8 --> clip4_action9{picking up a small white square from the white dish};
+    clip4_action9 --> clip4_action10{placing the small white square on the foil-covered object};
+    
+    clip4_action10 --> clip5_action1{picking up a small white square from a foil-wrapped object};
+    clip5_action1 --> clip5_action2{placing the small white square into a white bowl};
+    clip5_action2 --> clip5_action3{picking up a small white square from a foil-wrapped object};
+    clip5_action3 --> clip5_action4{placing the small white square into a white bowl};
+    clip5_action4 --> clip5_action5{picking up a small white square from a foil-wrapped object};
+    clip5_action5 --> clip5_action6{placing the small white square into a white bowl};
+    clip5_action6 --> clip5_action7{picking up a small white square from a foil-wrapped object};
+    clip5_action7 --> clip5_action8{placing the small white square into a white bowl};
+    clip5_action8 --> clip5_action9{picking up a small white square from a foil-wrapped object};
+    clip5_action9 --> clip5_action10{placing the small white square into a white bowl};
+    
+    clip5_action10 --> clip6_action1{Adjusting white squares on a foil-covered object};
+    clip6_action1 --> clip6_action2{Pointing at ceramic sheets on the heated plate};
+    clip6_action2 --> clip6_action3{Picking up a small white bottle};
+    clip6_action3 --> clip6_action4{Turning the heating knob to three};
+    
+    clip6_action4 --> clip7_action1{point with left hand};
+    clip7_action1 --> clip7_action2{rest right hand near heating device};
+    clip7_action2 --> clip7_action3{wait for ceramic sheets to get warm};
+    
+    clip7_action3 --> clip8_action1{A hand wearing a blue glove enters the frame from the left.};
+    clip8_action1 --> clip8_action2{The gloved hand points towards a device covered in aluminum foil.};
+    
+    clip8_action2 --> clip9_action1{grab a slurry bottle};
+    clip9_action1 --> clip9_action2{shake the slurry bottle};
+    
+    clip9_action2 --> clip10_action1{shaking a gray container};
+    clip10_action1 --> clip10_action2{unscrewing the lid of the gray container};
+    
+    clip10_action2 --> clip11_action1{grab a small white container};
+    clip11_action1 --> clip11_action2{unscrew the lid of the small white container};
+    clip11_action2 --> clip11_action3{put down the lid of the small white container};
+    clip11_action3 --> clip11_action4{grab a small brown bottle};
+    clip11_action4 --> clip11_action5{put down the small brown bottle};
+    clip11_action5 --> clip11_action6{grab a spray gun};
+    clip11_action6 --> clip11_action7{unscrew the container from the spray gun};
+    
+    clip11_action7 --> clip12_action1{holding a grey bottle in the left hand and a white spray gun in the right hand};
+    clip12_action1 --> clip12_action2{pouring slurry from the grey bottle into the white spray gun};
+    
+    clip12_action2 --> clip13_action1{screw the lid back on the slurry bottle};
+    
+    clip13_action1 --> clip14_action1{putting a lid on a spray gun};
+    clip14_action1 --> clip14_action2{holding a spray gun};
+    clip14_action2 --> clip14_action3{gesturing with the left hand towards an object};
+    
+    clip14_action3 --> unindexed_action1{pointing at the ceramic sheets};
+    unindexed_action1 --> unindexed_action2{reaching for the spray gun};
+    unindexed_action2 --> unindexed_action3{grabbing the spray gun};
+    unindexed_action3 --> unindexed_action4{lifting the spray gun};
+    
+    unindexed_action4 --> clip16_action1{shake the spray gun};
+    clip16_action1 --> clip16_action2{put on a mask};
+    
+    clip16_action2 --> clip17_action1{turn on the fan};
+    clip17_action1 --> clip17_action2{hold a spray gun};
+    clip17_action2 --> clip17_action3{press the trigger of the spray gun};
+    clip17_action3 --> clip17_action4{spray with the spray gun};
+    
+    clip17_action4 --> clip18_action1{spraying a rectangular object with square pieces on top using a spray gun};
+    clip18_action1 --> end_node[End];
+```

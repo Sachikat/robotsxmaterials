@@ -1,0 +1,333 @@
+```mermaid
+graph TD
+    A0[Pouring liquid from a large brown bottle into a beaker]
+    A1[Lifting the large brown bottle]
+    A2[Placing the large brown bottle on a scale]
+    A3[Stating the target volume of '10 milliliters']
+    A4[pick up lid]
+    A5[place lid on bottle]
+    A6[close lid]
+    A7[open the lid of the dark bottle]
+    A8[place the dark bottle on the table]
+    A9[pick up the vial labeled 'acetonitrile']
+    A10[open the lid of the vial]
+    A11[place the lid of the vial on the table]
+    A12[pick up glass vial]
+    A13[move glass cylinder over glass beaker]
+    A14[move glass cylinder over large brown bottle]
+    A15[tip glass cylinder over large brown bottle]
+    A16[transfer solution into large brown bottle]
+    A17[hold a bottle with the right hand]
+    A18[hold a glass tube with the right hand]
+    A19[hold a beaker with the left hand]
+    A20[pour solution from the bottle into the glass tube]
+    A21[remove the glass tube from the bottle]
+    A22[insert the glass tube into the beaker]
+    A23[remove the glass tube from the beaker]
+    A24[set the vial back down in a waste basket]
+    A25[Pick up vial]
+    A26[Close vial]
+    A27[Place vial down]
+    A28[pick up bottle]
+    A29[squeeze bottle]
+    A30[Hold wash bottle labeled 'ISOPROPANOL']
+    A31[Squirt liquid from wash bottle into a beaker]
+    A32[Pick up a glass cylinder]
+    A33[Swirl the glass cylinder inside the beaker]
+    A34[Lift the glass cylinder out of the beaker]
+    A35[holding a cylinder over a waste container]
+    A36[pouring liquid from a cylinder into a waste container]
+    A37[A person wearing blue gloves holds a glass cylinder.]
+    A38[The person moves the glass cylinder towards a beaker.]
+    A39[The person places the glass cylinder into the beaker.]
+    A40[The person's right hand reaches for the red cap of a large brown bottle.]
+    A41[The person grasps the red cap.]
+    A42[The person twists the red cap to open the bottle.]
+    A43[opening a bottle of cyclohexanone]
+    A44[placing the lid down]
+    A45[adjusting grip on the bottle of cyclohexanone]
+    A46[Holding an amber bottle with gloved hands]
+    A47[Pouring liquid slowly from the amber bottle into a clear glass beaker]
+    A48[A person in blue gloves removes the red cap from a large brown bottle.]
+    A49[A person in blue gloves places the red cap back onto the large brown bottle of cyclohexanol.]
+    A50[A person in blue gloves twists the red cap to close the large brown bottle of cyclohexanol.]
+    A51[A person puts on blue gloves.]
+    A52[A person picks up a beaker containing a stirring rod.]
+    A53[holding a glass beaker with the left hand]
+    A54[holding a glass stir rod in the right hand, inside the beaker]
+    A55[lifting the glass stir rod out of the beaker]
+    A56[lowering the glass stir rod into the beaker]
+    A57[lifting the glass stir rod out of the beaker]
+    A58[lowering the glass stir rod into the beaker]
+    A59[holding a clear glass beaker with the left hand and a glass stir rod with the right hand]
+    A60[inserting the glass stir rod into the beaker]
+    A61[stirring the contents of the beaker with the glass stir rod]
+    A62[grasping a glass dropper with the right hand]
+    A63[grasping a glass beaker with the left hand]
+    A64[inserting the glass dropper into the glass beaker]
+    A65[holding the glass dropper inside the glass beaker]
+    A66[stirring the contents of the glass beaker with the glass dropper]
+    A67[Hold a graduated cylinder over a beaker]
+    A68[Pick up a cyclohexanone vial]
+    A69[Open the vial]
+    A70[hold vial]
+    A71[remove lid from vial]
+    A72[place lid down]
+    A73[hold vial]
+    A74[transfer contents into vial using a graduated cylinder]
+    A75[holding a small glass cylinder with the left hand]
+    A76[pouring liquid from a large amber bottle into the small glass cylinder with the right hand]
+    A77[using a glass stirring tool to stir the liquid in the small glass cylinder]
+    A78[removing the glass stirring tool from the small glass cylinder]
+    A79[placing the small glass cylinder into a larger glass beaker]
+    A80[picking up a white lid with the right hand]
+    A81[picking up tweezers]
+    A82[placing tweezers down]
+    A83[picking up two empty vials]
+    A84[showing the labels 'acetonitrile' and 'cyclohexanone' on the vial caps]
+    A85[placing the two vials down]
+    A86[Close a vial.]
+    A87[Set the vial down.]
+    A88[Pick up two vials labeled "alcohol" and "cetane".]
+    A89[Pick up two small square containers with sensor strips.]
+    A90[place two sample boxes on the lab bench]
+    A91[pick up sample box one]
+    A92[open sample box one]
+    A93[remove a vial labeled WLC from sample box one]
+    A94[place the vial labeled WLC on the lab bench]
+    A95[remove cap from vial with right hand]
+    A96[place cap down on surface with right hand]
+    A97[place vial down on surface with left hand]
+    A98[pick up tweezers with right hand]
+    A99[Use tweezers to grab corner or edge of wafer]
+    A100[Set sample box down]
+    A101[Pick up vial]
+    A102[holding a small clear vial with the left hand]
+    A103[using tweezers to adjust a wafer inside the vial]
+    A104[moving the right hand, holding tweezers, away from the vial]
+    A105[using tweezers to pick up an orange square object]
+    A106[pick up the second wafer from the sample box using tweezers]
+    A107[place the second wafer inside the solution vial]
+    A108[Holding a clear vial in the left hand]
+    A109[Closing the cap of the vial with a black marker in the right hand]
+    A110[Screwing the cap onto the vial]
+    A111[Placing the capped vial down on the surface]
+    A112[Picking up vial number two, labeled 'cytometry', with the left hand]
+    A113[Twisting the cap of the vial with the black marker in the right hand]
+    A114[open the lid of a clear vial]
+    A115[place the lid on the table]
+    A116[pick up sample box 2]
+    A117[pick up a wafer from sample box 2 using tweezers]
+    A118[move the wafer towards the clear vial using tweezers]
+    A119[holding a glass container]
+    A120[holding a wafer with tweezers]
+    A121[lowering the wafer into the glass container]
+    A122[releasing the wafer into the glass container]
+    A123[pushing the wafer down into the liquid with tweezers]
+    A124[setting the orange sample box down with tweezers]
+    A125[picking up a white cap with tweezers]
+    A126[placing the white cap on the glass vial]
+    A127[screwing the white cap onto the glass vial]
+    A128[setting the capped glass vial down on the counter]
+    A129[setting the tweezers down on the counter]
+    A130[holding two sample boxes]
+    A131[placing two sample boxes on the workbench]
+    A132[picking up a glass cylinder]
+    A133[holding a glass cylinder]
+    A134[holding a beaker with a stir bar inside]
+    A135[placing the beaker on the counter]
+    A136[removing a blue cap from a bottle of Acetonitrile]
+    A137[placing the blue cap back onto the Acetonitrile bottle]
+    A138[removing a red cap from a bottle of Cyclohexanone]
+    A139[placing the red cap back onto the Cyclohexanone bottle]
+    A140[removing the blue cap from the Acetonitrile bottle]
+    A141[placing the blue cap back onto the Acetonitrile bottle]
+    A142[removing the red cap from the Cyclohexanone bottle]
+    A143[placing the red cap back onto the Cyclohexanone bottle]
+    A144[pointing with the right hand]
+    A145[A gloved hand removes a glass stir rod from a beaker.]
+    A146[A gloved hand places the glass stir rod into a waste basket.]
+    A147[Both gloved hands untwist and remove the lid of the acetonitrile bottle.]
+    A148[place lid down]
+    A149[pick up acetonitrile bottle]
+    A150[tip acetonitrile bottle]
+    A151[holding a large dark bottle with the left hand]
+    A152[placing the right hand on a clear glass cylinder]
+    A153[moving the clear glass cylinder with the right hand]
+    A154[pulling the clear glass cylinder with the right hand]
+    A155[holding the clear glass cylinder with the right hand]
+    A156[holding a large brown bottle with blue gloves]
+    A157[adjusting grip on the large brown bottle]
+    A158[stating 'Gemini']
+    A159[stating 'Observe']
+    A160[hearing 'cylinder as needed']
+    A161[hearing 'reading the meniscus']
+    A162[reaching for a large amber bottle]
+    A163[picking up a large amber bottle]
+    A164[pouring liquid from the large amber bottle into a beaker]
+
+    A0 --> A1
+    A1 --> A2
+    A2 --> A3
+    A3 --> A4
+    A4 --> A5
+    A5 --> A6
+    A6 --> A7
+    A7 --> A8
+    A8 --> A9
+    A9 --> A10
+    A10 --> A11
+    A11 --> A12
+    A12 --> A13
+    A13 --> A14
+    A14 --> A15
+    A15 --> A16
+    A16 --> A17
+    A17 --> A18
+    A18 --> A19
+    A19 --> A20
+    A20 --> A21
+    A21 --> A22
+    A22 --> A23
+    A23 --> A24
+    A24 --> A25
+    A25 --> A26
+    A26 --> A27
+    A27 --> A28
+    A28 --> A29
+    A29 --> A30
+    A30 --> A31
+    A31 --> A32
+    A32 --> A33
+    A33 --> A34
+    A34 --> A35
+    A35 --> A36
+    A36 --> A37
+    A37 --> A38
+    A38 --> A39
+    A39 --> A40
+    A40 --> A41
+    A41 --> A42
+    A42 --> A43
+    A43 --> A44
+    A44 --> A45
+    A45 --> A46
+    A46 --> A47
+    A47 --> A48
+    A48 --> A49
+    A49 --> A50
+    A50 --> A51
+    A51 --> A52
+    A52 --> A53
+    A53 --> A54
+    A54 --> A55
+    A55 --> A56
+    A56 --> A57
+    A57 --> A58
+    A58 --> A59
+    A59 --> A60
+    A60 --> A61
+    A61 --> A62
+    A62 --> A63
+    A63 --> A64
+    A64 --> A65
+    A65 --> A66
+    A66 --> A67
+    A67 --> A68
+    A68 --> A69
+    A69 --> A70
+    A70 --> A71
+    A71 --> A72
+    A72 --> A73
+    A73 --> A74
+    A74 --> A75
+    A75 --> A76
+    A76 --> A77
+    A77 --> A78
+    A78 --> A79
+    A79 --> A80
+    A80 --> A81
+    A81 --> A82
+    A82 --> A83
+    A83 --> A84
+    A84 --> A85
+    A85 --> A86
+    A86 --> A87
+    A87 --> A88
+    A88 --> A89
+    A89 --> A90
+    A90 --> A91
+    A91 --> A92
+    A92 --> A93
+    A93 --> A94
+    A94 --> A95
+    A95 --> A96
+    A96 --> A97
+    A97 --> A98
+    A98 --> A99
+    A99 --> A100
+    A100 --> A101
+    A101 --> A102
+    A102 --> A103
+    A103 --> A104
+    A104 --> A105
+    A105 --> A106
+    A106 --> A107
+    A107 --> A108
+    A108 --> A109
+    A109 --> A110
+    A110 --> A111
+    A111 --> A112
+    A112 --> A113
+    A113 --> A114
+    A114 --> A115
+    A115 --> A116
+    A116 --> A117
+    A117 --> A118
+    A118 --> A119
+    A119 --> A120
+    A120 --> A121
+    A121 --> A122
+    A122 --> A123
+    A123 --> A124
+    A124 --> A125
+    A125 --> A126
+    A126 --> A127
+    A127 --> A128
+    A128 --> A129
+    A129 --> A130
+    A130 --> A131
+    A131 --> A132
+    A132 --> A133
+    A133 --> A134
+    A134 --> A135
+    A135 --> A136
+    A136 --> A137
+    A137 --> A138
+    A138 --> A139
+    A139 --> A140
+    A140 --> A141
+    A141 --> A142
+    A142 --> A143
+    A143 --> A144
+    A144 --> A145
+    A145 --> A146
+    A146 --> A147
+    A147 --> A148
+    A148 --> A149
+    A149 --> A150
+    A150 --> A151
+    A151 --> A152
+    A152 --> A153
+    A153 --> A154
+    A154 --> A155
+    A155 --> A156
+    A156 --> A157
+    A157 --> A158
+    A158 --> A159
+    A159 --> A160
+    A160 --> A161
+    A161 --> A162
+    A162 --> A163
+    A163 --> A164
+```

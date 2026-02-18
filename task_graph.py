@@ -9,6 +9,8 @@ import config
 import os
 from tenacity import retry, wait_fixed, stop_after_attempt, retry_if_exception_type
 from google.genai.errors import ServerError
+from prompts import prompts
+
 
 def clean_clip_json(output_file, input_dir="clip_actions"):
     """
@@ -26,16 +28,33 @@ def clean_clip_json(output_file, input_dir="clip_actions"):
         with open(file_path, "r") as f:
             data = json.load(f)
 
-        if isinstance(data.get("actions"), str):
-            actions_str = data["actions"].replace("```json", "").replace("```", "").strip()
-            try:
-                parsed = json.loads(actions_str)
-                if "actions" in parsed:
-                    data["actions"] = parsed["actions"]
-            except json.JSONDecodeError:
-                print(f"Failed to parse actions in {filename}, keeping raw string")
+        # 🔑 Normalize: make everything a list of dicts
+        if isinstance(data, dict):
+            data = [data]
+        elif not isinstance(data, list):
+            print(f"Skipping {filename}: unexpected JSON format")
+            continue
 
-        all_clips.append(data)
+        for clip in data:
+            if not isinstance(clip, dict):
+                continue
+
+            actions = clip.get("actions")
+
+            if isinstance(actions, str):
+                actions_str = (
+                    actions.replace("```json", "")
+                           .replace("```", "")
+                           .strip()
+                )
+                try:
+                    parsed = json.loads(actions_str)
+                    if isinstance(parsed, dict) and "actions" in parsed:
+                        clip["actions"] = parsed["actions"]
+                except json.JSONDecodeError:
+                    print(f"Failed to parse actions in {filename}, keeping raw string")
+
+            all_clips.append(clip)
 
     with open(output_file, "w") as f:
         json.dump(all_clips, f, indent=2)
@@ -59,58 +78,8 @@ def generate_task_graph(file_name, json_file):
     if myfile.state.name == "FAILED":
         raise ValueError(f"File processing failed: {myfile.state.name}")
     
-    prompt = """
-        You are an expert in procedural task modeling.
-
-        You are given a one text file formatted like a JSON file.
-        - You are given an ordered list of atomic human actions split into clips.
-        - Each action may include a conditional or repeat information.
-        This text file is a list of JSON files, each representing a short video clip from a materials science lab. 
-        Each clip contains:
-        - "clip_index": the index of the clip
-        - "actions": a list of atomic steps performed in that clip
-        - Each action includes:
-            - Step number within the clip
-            - Action description
-            - Repeat count
-            - Whether it is conditional/optional
-
-        Your task:
-        1. Construct a clean **task graph** showing the entire procedural flow.
-        - Use **standard nodes**, like A, B, C... for steps.
-        - Arrows (→) indicate the temporal or conditional sequence.
-        - Respect the **order of steps within each clip**, and then **across clips**.
-        - Conditional branches should be shown as branching arrows, but **do not label nodes with clip numbers or step IDs**.
-        - Do NOT invent steps.
-        - Do NOT change the order of steps.
-        2. Respect the temporal order of steps:
-        - First, maintain the order of actions within each clip.
-        - Then, place clips in increasing "clip_index" order.
-        3. Represent repeated actions as loops when appropriate.
-        4. Represent optional or conditional steps as branches.
-        5. Do **not** invent any steps or change their order.
-
-        Output:
-        - Return **only a Mermaid flowchart** of the overall task graph.
-        - Do **not** include explanations or markdown.xw    
-        - Use conditional branching only when necessary, without extra labels.
-
-        Example:
-
-        graph TD
-            A[Open cabinet door] --> B[Reach into cabinet]
-            B --> C[Retrieve powder bottle]
-            C --> D[Close cabinet door]
-            D --> E[Hold powder bottle]
-            E --> F[Move bottle to tray]
-            F --> G[Place bottle in tray]
-            G --> H[Optional step?]
-            H --> yes --> I[next step]
-            H --> no --> J[pick up spoon]
-            I --> J
-
-        Return a mermaid graph to represent the task graph's order, sequence, loops, and steps. 
-    """
+    prompt_number = "prompt10"
+    prompt = prompts[prompt_number]["task_graph_prompt"]
 
     @retry(
         retry=retry_if_exception_type(ServerError),

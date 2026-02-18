@@ -1,0 +1,85 @@
+```mermaid
+graph TD
+    A0["hold a small white rectangular sample in the left hand"] --> A1
+    A1["hold tweezers in the right hand"] --> A2
+    A2["use tweezers to break off a small piece of the white sample"] --> A3
+    A3["pick up a small metal holder with the left hand"] --> A4
+    A4["place the small white sample piece onto the black sticky carbon tape on the metal holder with the right hand"] --> A5
+    A5["press the small white sample piece onto the carbon tape using the back of the tweezers"] --> A6
+    A6["hold a gold-colored semicircular object with a white circular insert in the left gloved hand"] --> A7
+    A7["pick up a small white rectangular piece with tweezers using the right gloved hand"] --> A8
+    A8["place the small white rectangular piece onto the white circular insert of the gold-colored object"] --> A9
+    A9["adjust the position of the white rectangular piece on the gold-colored object using the tweezers"] --> A10
+    A10["hold a sample with a gloved right hand"] --> A11
+    A11["gesture with a gloved left hand over a sputter coater"] --> A12
+    A12["verbally state the intention to cover the surface of the sample with gold using a gold sputtering coater"] --> A13
+    A13["hold the lid of the chamber with the left hand"] --> A14
+    A14["hold a metallic sample with the right hand"] --> A15
+    A15["place the metallic sample into the chamber with the right hand"] --> A16
+    A16["point at the sample inside the chamber with the right index finger"] --> A17
+    A17["place the lid onto the main body of the device"] --> A18
+    A18["press down on the red part of the lid with the right hand"] --> A19
+    A19["reach for the vacuum valve with the left hand"] --> A20
+    A20["turn the vacuum valve with the left hand"] --> A21
+    A21["place the right hand on the lid"] --> A22
+    A22["place gloved hand on red cover of carbon coater"] --> A23
+    A23["remove gloved hand from red cover"] --> A24
+    A24["move gloved hand to the side of the carbon coater"] --> A25
+    A25["press red power switch on the carbon coater"] --> A26
+    A26["observe the pressure gauge on the carbon coater"] --> A27
+    A27["point to the display on the machine"] --> A28
+    A28["press the start button on the machine"] --> A29
+    A29["press a button on the machine"] --> A30
+    A30["wait for the countdown to be completed"] --> A31
+    A31["place gloved hand on the equipment"] --> A32
+    A32["press the red power button on the equipment"] --> A33
+    A33["turn off the vacuum valve"] --> A34
+    A34["place a red rectangular object on top of a silver cylindrical object"] --> A35
+    A35["pick up a stub with a gloved hand"] --> A36
+    A36["hold the stub"] --> A37
+    A37["lift red object with silver lid"] --> A38
+    A38["open lid of chamber"] --> A39
+    A39["reach right gloved hand into chamber"] --> A40
+    A40["grab sample with tweezers from chamber"] --> A41
+    A41["A gloved left hand holds a metallic instrument component"] --> A42
+    A42["A gloved right hand holds a small, circular, metallic sample"] --> A43
+    A43["The right hand slightly rotates the sample to display it"] --> A44
+    A44["The person verbally identifies the sample as the final version, coated with gold on top"] --> A45
+    A45["hold sample holder"] --> A46
+    A46["place sample holder on surface"] --> A47
+    A47["pick up a piece of carbon tape"] --> A48
+    A48["hold carbon tape"] --> A49
+    A49["pick up tweezers"] --> A50
+    A50["place tweezers down"] --> A51
+    A51["point to scissors"] --> A52
+    A52["pick up plastic bag containing a sample"] --> A53
+    A53["pick up carbon tape"] --> A54
+    A54["hold carbon tape"] --> A55
+    A55["grab scissors"] --> A56
+    A56["hold a strip of carbon tape with a gloved hand"] --> A57
+    A57["cut a small piece from the carbon tape using scissors"] --> A58
+    A58["hold the small cut piece of carbon tape with one gloved hand"] --> A59
+    A59["pick up a metallic stub with the other gloved hand"] --> A60
+    A60["stick the carbon tape onto the metallic stub"] --> A61
+    A61["hold the metallic stub with a white piece on its surface"] --> A62
+    A62["firmly press the white piece on the stub for better adhesion"] --> A63
+    A63["hold the stub"] --> A64
+    A64["hold a small, rectangular object with the left gloved hand"] --> A65
+    A65["pick up tweezers with the right gloved hand"] --> A66
+    A66["grasp a white protective film on top of the object using the tweezers"] --> A67
+    A67["remove the white protective film from the object using the tweezers"] --> A68
+    A68["hold the removed white protective film with the tweezers"] --> A69
+    A69["hold a rectangular object with the left hand"] --> A70
+    A70["touch the black surface of the rectangular object with tweezers in the right hand"] --> A71
+    A71["hold the rectangular object with both hands"] --> A72
+    A72["place the rectangular object on the surface"] --> A73
+    A73["pick up a clear plastic bag with the right hand"] --> A74
+    A74["open the clear plastic bag with both hands"] --> A75
+    A75["remove white rectangular object from clear plastic bag with left gloved hand"] --> A76
+    A76["place white rectangular object onto right gloved hand"] --> A77
+    A77["transfer white rectangular object to be held between left and right gloved hands"] --> A78
+    A78["break white rectangular object into two pieces using left and right gloved hands"] --> A79
+    A79["hold one piece of the broken white object with left gloved hand"] --> A80
+    A80["pick up tweezers with right gloved hand"] --> A81
+    A81["move tweezers towards the piece of the white object held by the left gloved hand"]
+```

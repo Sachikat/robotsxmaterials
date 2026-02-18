@@ -1,0 +1,128 @@
+[
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  {\n    \"action\": \"Positioning hands to grasp the equipment\"\n  },\n  {\n    \"action\": \"Grasping two clamps on the equipment\"\n  },\n  {\n    \"action\": \"Holding two clamps on the equipment\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding two components attached to a cylindrical object\"\n  },\n  {\n    \"action\": \"removing hands from the two components\"\n  },\n  {\n    \"action\": \"moving away from the machine with the cylindrical object\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand wearing a blue glove turns the RF LEVEL knob from OFF to HI on the plasma cleaner.\"\n  },\n  {\n    \"action\": \"A hand wearing a blue glove rotates a black valve handle into a vertical position.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  \"turn on power switch\",\n  \"wait for 30 seconds\"\n]\n```"
+  },
+  {
+    "clip_index": 14,
+    "actions": "```json\n[]\n```"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"The human says \\\"Gemini\\\"\"\n  },\n  {\n    \"action\": \"A hand wearing a blue glove enters the frame from the left\"\n  },\n  {\n    \"action\": \"A gloved hand moves towards the center of the frame\"\n  },\n  {\n    \"action\": \"The human says \\\"Gemini\\\"\"\n  },\n  {\n    \"action\": \"A gloved hand forms a fist\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"presses the power switch to off on the plasma cleaner\"\n  },\n  {\n    \"action\": \"turns the RF level knob to off on the plasma cleaner\"\n  },\n  {\n    \"action\": \"removes a blue glove\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  {\n    \"action\": \"position hands on two black knob-like components on the Varian equipment\"\n  },\n  {\n    \"action\": \"rotate the two black knob-like components on the Varian equipment clockwise\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  {\n    \"action\": \"position hands to interact with a power strip\"\n  },\n  {\n    \"action\": \"press the switch labeled 'vacuum' on the power strip\"\n  },\n  {\n    \"action\": \"press the switch labeled 'plasma' on the power strip\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand wearing a blue glove picks up a small clear sample box labeled \\\"Test Sample B\\\".\"\n  },\n  {\n    \"action\": \"The gloved hands open the small clear sample box.\"\n  },\n  {\n    \"action\": \"One gloved hand holds the opened sample box.\"\n  },\n  {\n    \"action\": \"The other gloved hand picks up tweezers.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  {\n    \"action\": \"move knob to horizontal position\"\n  },\n  {\n    \"action\": \"move knob to vertical position\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 21,
+    "actions": "```json\n[\n  {\n    \"action\": \"slowly turning a valve on the plasma cleaner\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 22,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand rotates a black knob on the plasma cleaner.\"\n  },\n  {\n    \"action\": \"The gloved hand releases the black knob on the plasma cleaner.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 23,
+    "actions": "```json\n[]\n```"
+  },
+  {
+    "action": "A gloved hand reaches towards a valve on the plasma cleaner."
+  },
+  {
+    "action": "The gloved hand turns the valve clockwise."
+  },
+  {
+    "clip_index": 26,
+    "actions": "```json\n[\n  {\"action\": \"open chamber door\"},\n  {\"action\": \"pick up tweezers\"},\n  {\"action\": \"pick up sample box\"},\n  {\"action\": \"open sample box\"},\n  {\"action\": \"pull out glass tray from plasma cleaner\"}\n]\n```"
+  },
+  {
+    "clip_index": 27,
+    "actions": "```json\n[\n  {\n    \"action\": \"grab wafer with tweezers\"\n  },\n  {\n    \"action\": \"lift wafer from glass tray with tweezers\"\n  },\n  {\n    \"action\": \"place wafer into sample box with tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 28,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold tweezers in the right hand\"\n  },\n  {\n    \"action\": \"hold a transparent box containing a wafer in the left hand\"\n  },\n  {\n    \"action\": \"hold a small glass tray with the right hand's fingers\"\n  },\n  {\n    \"action\": \"use tweezers to move the wafer from the transparent box\"\n  },\n  {\n    \"action\": \"place the wafer onto the edge of the glass tray using tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 29,
+    "actions": "```json\n[\n  {\n    \"action\": \"place a black sample into a clear sample box using tweezers\"\n  },\n  {\n    \"action\": \"close the clear sample box\"\n  },\n  {\n    \"action\": \"set the closed sample box down\"\n  },\n  {\n    \"action\": \"set the tweezers down\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a small clear box labeled \\\"First Sample B\\\"\"\n  },\n  {\n    \"action\": \"holding tweezers\"\n  },\n  {\n    \"action\": \"placing the small clear box on the table\"\n  },\n  {\n    \"action\": \"placing the tweezers on the table\"\n  },\n  {\n    \"action\": \"turning a silver knob on the plasma cleaner\"\n  },\n  {\n    \"action\": \"opening the door of the plasma cleaner\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 30,
+    "actions": "```json\n[\n  {\n    \"action\": \"push glass tray back into chamber\"\n  },\n  {\n    \"action\": \"close the chamber door\"\n  }\n]\n```"
+  },
+  {
+    "action": "pick up sample box"
+  },
+  {
+    "action": "pick up tweezers"
+  },
+  {
+    "action": "open sample box"
+  },
+  {
+    "action": "use tweezers to grab a wafer by the edges"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a clear container with a dark square object\",\n    \"tool\": \"clear container\"\n  },\n  {\n    \"action\": \"holding a dark square object with tweezers\",\n    \"tool\": \"tweezers\"\n  },\n  {\n    \"action\": \"transferring the dark square object into the chamber\",\n    \"tool\": \"tweezers\",\n    \"destination\": \"chamber of plasma cleaner\"\n  },\n  {\n    \"action\": \"releasing the tweezers from the dark square object\",\n    \"tool\": \"tweezers\"\n  },\n  {\n    \"action\": \"placing the dark square object onto the glass tray inside the chamber\",\n    \"object\": \"wafer\",\n    \"orientation\": \"shiny side up\",\n    \"destination\": \"glass tray inside chamber\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a clear plastic box with a wafer in the left hand\"\n  },\n  {\n    \"action\": \"holding tweezers in the right hand\"\n  },\n  {\n    \"action\": \"grabbing a black rectangular wafer from the clear plastic box with tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear sample box containing an orange sample with one hand\"\n  },\n  {\n    \"action\": \"hold a black wafer with tweezers in the other hand\"\n  },\n  {\n    \"action\": \"transfer the black wafer from the tweezers onto a glass tray inside the plasma cleaner chamber, shiny side up\"\n  },\n  {\n    \"action\": \"close the clear sample box\"\n  },\n  {\n    \"action\": \"set the closed sample box down on the table\"\n  },\n  {\n    \"action\": \"set the tweezers down on the table\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand wearing a blue glove rotates a black knob on a silver valve clockwise.\"\n  },\n  {\n    \"action\": \"The hand moves the black knob into a horizontal position.\"\n  },\n  {\n    \"action\": \"The hand moves away from the knob.\"\n  },\n  {\n    \"action\": \"A hand wearing a blue glove holds a thin green wire.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\n    \"action\": \"reach for power strip\"\n  },\n  {\n    \"action\": \"pick up power strip\"\n  },\n  {\n    \"action\": \"push switch labeled 'Vacuum' on power strip\"\n  },\n  {\n    \"action\": \"push switch labeled 'Plasma' on power strip\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a power strip\"\n  },\n  {\n    \"action\": \"holding a blue-labeled component and a yellow-labeled component on a machine\"\n  },\n  {\n    \"action\": \"moving the blue-labeled component in a counter-clockwise direction\"\n  }\n]\n```"
+  }
+]

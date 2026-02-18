@@ -1,0 +1,488 @@
+[
+  {
+    "clip_index": 0,
+    "actions": []
+  },
+  {
+    "clip_index": 10,
+    "actions": [
+      {
+        "step": 1,
+        "action": "Place left hand on the left component of the equipment"
+      },
+      {
+        "step": 2,
+        "action": "Grasp the left component of the equipment with the left hand"
+      },
+      {
+        "step": 3,
+        "action": "Grasp the right component of the equipment with the right hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 11,
+    "actions": [
+      {
+        "step": 1,
+        "action": "grasp two cylindrical components on the machine"
+      },
+      {
+        "step": 2,
+        "action": "release the right cylindrical component"
+      },
+      {
+        "step": 3,
+        "action": "stop moving knob/control on the machine"
+      }
+    ]
+  },
+  {
+    "clip_index": 12,
+    "actions": [
+      {
+        "step": 1,
+        "action": "twist the RF level knob to high"
+      },
+      {
+        "step": 2,
+        "action": "twist the black valve to a vertical position"
+      }
+    ]
+  },
+  {
+    "clip_index": 13,
+    "actions": [
+      {
+        "step": 1,
+        "action": "press the power switch on the plasma cleaner"
+      },
+      {
+        "step": 2,
+        "action": "wait 30 seconds"
+      }
+    ]
+  },
+  {
+    "clip_index": 14,
+    "actions": []
+  },
+  {
+    "clip_index": 15,
+    "actions": []
+  },
+  {
+    "clip_index": 16,
+    "actions": [
+      {
+        "step": 1,
+        "action": "blue gloved hands enter the frame"
+      },
+      {
+        "step": 2,
+        "action": "adjust blue gloves"
+      }
+    ]
+  },
+  {
+    "clip_index": 17,
+    "actions": [
+      {
+        "step": 1,
+        "action": "turn off the power switch on the plasma cleaner"
+      },
+      {
+        "step": 2,
+        "action": "turn the RF level knob on the plasma cleaner to off"
+      },
+      {
+        "step": 3,
+        "action": "move hand away from the plasma cleaner"
+      }
+    ]
+  },
+  {
+    "clip_index": 18,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place left hand on the left black knob"
+      },
+      {
+        "step": 2,
+        "action": "place right hand on the right black knob"
+      },
+      {
+        "step": 3,
+        "action": "twist both black knobs in a clockwise direction"
+      }
+    ]
+  },
+  {
+    "clip_index": 19,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move the right hand towards the power strip"
+      },
+      {
+        "step": 2,
+        "action": "move the left hand towards the power strip"
+      },
+      {
+        "step": 3,
+        "action": "turn off the switch labeled vacuum on the power strip"
+      },
+      {
+        "step": 4,
+        "action": "turn off the switch labeled plasma on the power strip"
+      },
+      {
+        "step": 5,
+        "action": "lift hands away from the power strip"
+      }
+    ]
+  },
+  {
+    "clip_index": 1,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up the clear plastic sample box"
+      },
+      {
+        "step": 2,
+        "action": "hold the clear plastic sample box"
+      },
+      {
+        "step": 3,
+        "action": "pick up the tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 20,
+    "actions": [
+      {
+        "step": 1,
+        "action": "twist the knob on the plasma cleaner to a horizontal position"
+      },
+      {
+        "step": 2,
+        "action": "slowly twist the knob on the plasma cleaner to a vertical position"
+      }
+    ]
+  },
+  {
+    "clip_index": 21,
+    "actions": [
+      {
+        "step": 1,
+        "action": "turn the silver knob/valve on the plasma cleaner very slowly"
+      }
+    ]
+  },
+  {
+    "clip_index": 22,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place gloved hand on valve knob"
+      },
+      {
+        "step": 2,
+        "action": "rotate valve knob counter-clockwise"
+      },
+      {
+        "step": 3,
+        "action": "remove hand from valve knob"
+      }
+    ]
+  },
+  {
+    "clip_index": 23,
+    "actions": []
+  },
+  {
+    "clip_index": 24,
+    "actions": []
+  },
+  {
+    "clip_index": 25,
+    "actions": [
+      {
+        "step": 1,
+        "action": "reach gloved hand towards the valve on the plasma cleaner"
+      },
+      {
+        "step": 2,
+        "action": "grasp the valve handle"
+      },
+      {
+        "step": 3,
+        "action": "twist the valve handle counter-clockwise to open it"
+      },
+      {
+        "step": 4,
+        "action": "continue twisting the valve handle further counter-clockwise to open it more"
+      }
+    ]
+  },
+  {
+    "clip_index": 26,
+    "actions": [
+      {
+        "step": 1,
+        "action": "open the chamber door"
+      },
+      {
+        "step": 2,
+        "action": "pick up tweezers"
+      },
+      {
+        "step": 3,
+        "action": "pick up sample box"
+      },
+      {
+        "step": 4,
+        "action": "open the sample box using tweezers"
+      },
+      {
+        "step": 5,
+        "action": "pull out the glass tray from the plasma cleaner using tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 27,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move wafer to edge of glass tray using tweezers"
+      },
+      {
+        "step": 2,
+        "action": "pick up wafer with tweezers"
+      },
+      {
+        "step": 3,
+        "action": "place wafer into sample box with tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 28,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move wafer to the edge of the glass tray using tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 29,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place sample into sample box using tweezers"
+      },
+      {
+        "step": 2,
+        "action": "remove sample from sample box using tweezers"
+      },
+      {
+        "step": 3,
+        "action": "place sample back into sample box using tweezers"
+      },
+      {
+        "step": 4,
+        "action": "close sample box"
+      },
+      {
+        "step": 5,
+        "action": "set sample box down"
+      },
+      {
+        "step": 6,
+        "action": "set tweezers down"
+      }
+    ]
+  },
+  {
+    "clip_index": 2,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place the small plastic box on the table"
+      },
+      {
+        "step": 2,
+        "action": "place the tweezers on the table"
+      },
+      {
+        "step": 3,
+        "action": "twist the knob/valve on the plasma cleaner"
+      },
+      {
+        "step": 4,
+        "action": "open the door to the plasma cleaner"
+      }
+    ]
+  },
+  {
+    "clip_index": 30,
+    "actions": [
+      {
+        "step": 1,
+        "action": "push glass tray back into chamber"
+      },
+      {
+        "step": 2,
+        "action": "close the chamber door"
+      }
+    ]
+  },
+  {
+    "clip_index": 3,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up sample box"
+      },
+      {
+        "step": 2,
+        "action": "pick up tweezers"
+      },
+      {
+        "step": 3,
+        "action": "open sample box with tweezers"
+      },
+      {
+        "step": 4,
+        "action": "grab wafer with tweezers"
+      },
+      {
+        "step": 5,
+        "action": "lift wafer out of sample box with tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 4,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a black square piece with tweezers"
+      },
+      {
+        "step": 2,
+        "action": "transfer the black square piece with tweezers into the plasma cleaner chamber"
+      },
+      {
+        "step": 3,
+        "action": "place the black square piece onto the glass tray inside the chamber"
+      },
+      {
+        "step": 4,
+        "action": "release the tweezers from the black square piece"
+      }
+    ]
+  },
+  {
+    "clip_index": 5,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a clear plastic container open"
+      },
+      {
+        "step": 2,
+        "action": "use tweezers to grab a wafer/sample from the container"
+      }
+    ]
+  },
+  {
+    "clip_index": 6,
+    "actions": [
+      {
+        "step": 1,
+        "action": "transfer the wafer with tweezers"
+      },
+      {
+        "step": 2,
+        "action": "place the wafer on the glass tray inside the chamber"
+      },
+      {
+        "step": 3,
+        "action": "close the sample box"
+      },
+      {
+        "step": 4,
+        "action": "set the sample box down"
+      },
+      {
+        "step": 5,
+        "action": "set the tweezers down"
+      }
+    ]
+  },
+  {
+    "clip_index": 7,
+    "actions": [
+      {
+        "step": 1,
+        "action": "turn the black knob on the plasma cleaner"
+      },
+      {
+        "step": 2,
+        "action": "move the black knob to a horizontal position"
+      }
+    ]
+  },
+  {
+    "clip_index": 8,
+    "actions": [
+      {
+        "step": 1,
+        "action": "reach for power strip"
+      },
+      {
+        "step": 2,
+        "action": "pick up power strip"
+      },
+      {
+        "step": 3,
+        "action": "locate switch labeled 'Vacuum'"
+      },
+      {
+        "step": 4,
+        "action": "turn on switch labeled 'Vacuum'"
+      },
+      {
+        "step": 5,
+        "action": "locate switch labeled 'Plasma'"
+      },
+      {
+        "step": 6,
+        "action": "turn on switch labeled 'Plasma'"
+      }
+    ]
+  },
+  {
+    "clip_index": 9,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place left hand on component with yellow label"
+      },
+      {
+        "step": 2,
+        "action": "place right hand on component with blue label"
+      },
+      {
+        "step": 3,
+        "action": "move the component with blue label in a counter-clockwise direction"
+      }
+    ]
+  }
+]

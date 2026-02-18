@@ -1,0 +1,90 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "No low-level human actions are performed in the video frames. The audio consists of a person speaking."
+  },
+  {
+    "clip_index": 10,
+    "actions": "Here's a list of low-level human actions observed:\n\n- Holding a small object with a gloved hand.\n- Holding tweezers with a gloved hand.\n- Pressing an object onto another object using the back of tweezers.\n- Fixing a sample.\n- Preparing a sample for gold sputtering."
+  },
+  {
+    "clip_index": 11,
+    "actions": "The primitive, low-level human actions performed are:\n\n*   Holding a circular object in a gloved hand.\n*   Manipulating tweezers with another gloved hand.\n*   Placing a small, rectangular piece of material onto the circular object using tweezers.\n*   Speaking the phrase: \"to cover the entire surface with nano layer of gold.\"\n*   Speaking the instruction: \"Gemini, pay attention.\"\n*   Holding the circular object (sample) near a piece of lab equipment.\n*   Gesturing with an open hand.\n*   Speaking the declaration of intent: \"In this step, I will cover the surface of my sample.\""
+  },
+  {
+    "clip_index": 12,
+    "actions": "The following low-level human actions are present in the video:\n- The person is holding a round, flat object in their right hand, wearing a blue glove.\n- The person's left hand, also gloved, is gesturing towards the machine.\n- The person speaks, explaining the process of gold sputtering.\n- The person's left hand reaches for and lifts a red and silver lid from the machine.\n- The person holds the lid in their left hand, revealing the inside of the machine.\n- The person's right hand lowers the round, flat object into the machine, placing it on a central post inside the chamber."
+  },
+  {
+    "clip_index": 13,
+    "actions": "The following is a list of low-level human actions observed in the video, in order of occurrence:\n\n- A hand, wearing a blue glove, holds the lid of a chamber.\n- The other hand, wearing a blue glove, points a finger at the inside of the chamber.\n- The hand holding the lid lowers and places the lid onto the chamber.\n- The hand on the right moves to the left side of the lid.\n- The left hand, wearing a blue glove, reaches for a blue handle on a valve.\n- The left hand rotates the blue handle of the valve."
+  },
+  {
+    "clip_index": 14,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  **00:00 - 00:03**: The person's left hand is positioned near a valve and hose on the left side of the frame.\n2.  **00:00 - 00:03**: The person's right hand hovers over the red component on top of the silver cylinder.\n3.  **00:06 - 00:07**: The person places their gloved right hand flat on top of the red component, pressing it down.\n4.  **00:07 - 00:08**: The person states, \"I make sure that the lid is securely located.\"\n5.  **00:10 - 00:11**: The person lifts their right hand off the red component.\n6.  **00:11 - 00:12**: The person's right hand moves out of the frame to the right."
+  },
+  {
+    "clip_index": 15,
+    "actions": "The following primitive actions are observed:\n- A human hand wearing a blue glove and a smartwatch moves into the frame.\n- The index finger of the human hand presses a red button on the front of a machine.\n- The human hand retracts slightly after pressing the button."
+  },
+  {
+    "clip_index": 16,
+    "actions": "The following low-level human actions are performed:\n- A person's hand wearing a blue glove points at a button on a machine.\n- The person's hand presses a button on the machine."
+  },
+  {
+    "clip_index": 17,
+    "actions": "The following low-level human actions are performed:\n- Speaking.\n- Moving hand into frame."
+  },
+  {
+    "clip_index": 18,
+    "actions": "Here are the low-level human actions performed in the video:\n\n*   The person reaches out their left hand, gloved in blue.\n*   The person presses a red power button on the main equipment unit.\n*   The person reaches their left hand towards a silver lever on an attached grey box.\n*   The person pushes the silver lever downwards."
+  },
+  {
+    "clip_index": 19,
+    "actions": "Here are the low-level human actions observed in the video:\n\n- A hand wearing a blue glove presses down on a small red lever on a piece of laboratory equipment.\n- The hand maintains pressure on the red lever.\n- The hand releases the red lever.\n- The hand lifts a cylindrical metal component off the equipment."
+  },
+  {
+    "clip_index": 1,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  Speaking: \"Prepare samples for scanning electron microscopy imaging.\"\n2.  Speaking: \"I need a stub.\"\n3.  Moving a gloved hand into the frame.\n4.  Picking up the stub.\n5.  Holding the stub.\n6.  Presenting the stub (towards the camera).\n7.  Speaking: \"also known as SEM.\""
+  },
+  {
+    "clip_index": 20,
+    "actions": "Here are the low-level human actions observed in the video:\n\n1.  Holding a lid with the left hand.\n2.  Opening the lid of a container.\n3.  Reaching the right hand into the container.\n4.  Grabbing a sample from inside the container with the right hand.\n5.  Lifting the sample out of the container.\n6.  Holding the retrieved sample up for view."
+  },
+  {
+    "clip_index": 21,
+    "actions": "- Human puts on blue gloves.\n- Human holds a circular metal object in their left hand.\n- Human holds a smaller, irregularly shaped metal object in their right hand."
+  },
+  {
+    "clip_index": 2,
+    "actions": "The following is a list of human actions observed in the video:\n- A hand holds a sample holder.\n- A hand holds a piece of carbon tape.\n- A hand puts down the sample holder.\n- A hand picks up the piece of carbon tape.\n- A hand puts down the piece of carbon tape.\n- A hand picks up tweezers.\n- A hand puts down the tweezers."
+  },
+  {
+    "clip_index": 3,
+    "actions": "Here are the low-level human actions performed in the video:\n\n- A hand with a blue glove enters the frame from the left.\n- The gloved hand points towards a pair of scissors.\n- The gloved hand grasps a small clear plastic bag.\n- The gloved hand lifts the plastic bag, revealing a white semi-circular sample inside.\n- The gloved hand holds the bag steady for viewing."
+  },
+  {
+    "clip_index": 4,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  Speaking \"the sputter coater.\"\n2.  Speaking \"Gemini, pay attention.\"\n3.  Speaking \"To begin with.\"\n4.  Reaching for carbon tape with a gloved hand.\n5.  Grasping carbon tape with a gloved hand.\n6.  Speaking \"I grab my carbon tape.\"\n7.  Holding carbon tape with a gloved hand.\n8.  Speaking \"and I grab my scissor.\""
+  },
+  {
+    "clip_index": 5,
+    "actions": "Here's a list of the low-level human actions observed in the video:\n\n- A hand wearing a blue glove holds a strip of black material.\n- The other hand, also gloved, brings scissors into view.\n- The hand with scissors cuts a small piece from the black strip.\n- The hand holding the strip now holds the small cut piece.\n- The other hand picks up a metallic stub.\n- The hand holding the small black piece removes a backing from one side of the piece.\n- The hand holding the black piece then attaches the sticky side of the black piece to the top surface of the metallic stub."
+  },
+  {
+    "clip_index": 6,
+    "actions": "Here's a list of low-level human actions observed in the video and audio:\n\n- (0:00-0:02) Holding a small, rectangular object.\n- (0:02-0:08) Pressing the object firmly with fingers.\n- (0:09) Grabbing tweezers with the right hand.\n- (0:10-0:11) Bringing the tweezers closer to the object.\n- (0:11-0:17) Using tweezers to gently peel a white protective film from the object."
+  },
+  {
+    "clip_index": 7,
+    "actions": "Here are the low-level human actions observed in the video:\n\n- A person holds a small metallic object with a black surface in their left hand, wearing a blue glove.\n- The person holds a small, white, rectangular piece of material with tweezers in their right hand, also wearing a blue glove.\n- The person uses the tweezers to peel off the white rectangular piece (protective film) from the black surface of the metallic object.\n- The person removes the white protective film from the object.\n- The person repositions the metallic object.\n- The person presses the metallic object down onto the brown surface of a table or mat."
+  },
+  {
+    "clip_index": 8,
+    "actions": "Here are the low-level human actions observed in the video:\n\n1.  A person's gloved right hand holds a small metallic object.\n2.  The right hand places the metallic object on a brown surface.\n3.  The gloved hands reach for a small clear plastic bag.\n4.  The hands hold the plastic bag.\n5.  The hands open the plastic bag.\n6.  The hands remove a small, white, semi-circular sample from the bag.\n7.  The right hand places the white sample into the palm of the left hand.\n8.  The right hand's fingers begin to pinch and manipulate the white sample."
+  },
+  {
+    "clip_index": 9,
+    "actions": "Here's a list of the low-level human actions observed in the video:\n\n- A person holds a small, white, rectangular object between the thumb and forefinger of their left hand, which is gloved in blue.\n- The person uses a pair of tweezers in their right hand, also gloved in blue, to touch or adjust the small white object.\n- The person holds a small, metallic, rectangular sample holder with a black surface in their left hand.\n- The person uses their right hand to place the small white rectangular object onto the black surface of the sample holder."
+  }
+]

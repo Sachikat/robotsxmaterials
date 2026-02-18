@@ -1,0 +1,146 @@
+```mermaid
+graph TD
+    start_node[Start]
+
+    %% Clip 0 (No actions observed)
+    start_node --> A
+
+    %% Clip 1
+    A[A hand in a blue glove enters the frame] --> B[The hand picks up a stub]
+    B --> C[The hand holds the stub]
+    C --> D[The hand slightly rotates the stub]
+
+    %% Unindexed actions after Clip 1
+    D --> E[The left hand holds a circular metal object.]
+    E --> F[The right hand holds a small, round, metallic object.]
+    F --> G[The person states the object in the right hand is the final version of their sample, coded with gold.]
+    G --> H[A gloved hand holds a sample holder.]
+    H --> I[The gloved hand places the sample holder on the brown surface.]
+    I --> J[A gloved hand picks up a piece of black carbon tape.]
+    J --> K[The gloved hand turns the piece of black carbon tape to reveal its white backing.]
+    K --> L[The gloved hand places the black carbon tape on the brown surface.]
+    L --> M[A gloved hand picks up another piece of carbon tape, which is grey on one side.]
+    M --> N[The gloved hand places the grey piece of carbon tape on the brown surface.]
+    N --> O[The gloved hand picks up the black piece of carbon tape again.]
+    O --> P[The gloved hand places the black piece of carbon tape on the brown surface.]
+    P --> Q[The gloved hand picks up tweezers from near a plastic bag.]
+    Q --> R[The gloved hand uses the tweezers to pick up a small white piece from inside a plastic bag.]
+    R --> S[The gloved hand places the tweezers and the small white piece on the brown surface.]
+
+    %% Clip 3
+    S --> T[Pick up tweezers]
+    T --> U[Place tweezers down on the brown surface]
+    U --> V[Point at a pair of scissors]
+    V --> W[Point at a black strip of material]
+    W --> X[Pick up a small clear plastic bag]
+    X --> Y[Hold up the small clear plastic bag to display a white, crescent-shaped sample inside]
+
+    %% Clip 4
+    Y --> Z[Reach for the carbon tape]
+    Z --> AA[Pick up the carbon tape]
+
+    %% Clip 5
+    AA --> BB[A hand in a blue glove cuts a small piece of black carbon tape using scissors]
+    BB --> CC[The hand in a blue glove holds the cut piece of carbon tape]
+    CC --> DD[A hand in a blue glove picks up a metal stub]
+    DD --> EE[The hand in a blue glove places the sticky side of the carbon tape onto the top surface of the metal stub]
+
+    %% Clip 6
+    EE --> FF[Hold the metallic object in the right hand]
+    FF --> GG[Hold the white rectangular piece on the metallic object with the left hand]
+    GG --> HH[Firmly press the white rectangular piece onto the metallic object with both hands]
+    HH --> II[Release pressure on the metallic object]
+
+    %% Clip 7
+    II --> JJ[Grab tweezers]
+    JJ --> KK[Use tweezers to gently remove the white protective film from the object]
+
+    %% Clip 8
+    KK --> LL[Hold a small metallic object with a black surface in the left hand]
+    LL --> MM[Hold tweezers in the right hand]
+    MM --> NN[Touch the small metallic object with the tweezers]
+    NN --> OO[Place the small metallic object on the brown surface]
+    OO --> PP[Place the tweezers on the brown surface]
+    PP --> QQ[Pick up a clear plastic bag with the left hand]
+    QQ --> RR[Hold the clear plastic bag with both hands]
+
+    %% Clip 9
+    RR --> SS[Gloved left hand holds a small clear plastic bag containing a white solid]
+    SS --> TT[Gloved right hand extracts a white solid piece from the plastic bag]
+    TT --> UU[Gloved left hand moves the plastic bag away]
+    UU --> VV[Gloved right hand places the white solid piece onto the fingers of the gloved left hand]
+    VV --> WW[Gloved left hand holds the white solid piece between the thumb and index finger]
+    WW --> XX[Gloved right hand holds the white solid piece between the thumb and index finger, opposite the left hand]
+    XX --> YY[The human states, "And I would like to study the cross section"]
+    YY --> ZZ[Gloved hands break the white solid piece into two pieces]
+    ZZ --> AAA[Gloved right hand moves one piece of the white solid away]
+    AAA --> BBB[Gloved right hand drops one piece of the white solid onto the surface]
+    BBB --> CCC[Gloved left hand holds one piece of the white solid]
+    CCC --> DDD[Gloved right hand holds tweezers]
+    DDD --> EEE[Gloved right hand brings tweezers near the white solid held by the gloved left hand]
+
+    %% Clip 10
+    EEE --> FFF[Hold a small, flat white sample in the left hand]
+    FFF --> GGG[Hold tweezers in the right hand]
+    GGG --> HHH[Use tweezers to pick up a small, thin white piece of the sample]
+    HHH --> III[Bring the small white piece held by tweezers towards a metal stub]
+    III --> JJJ[Place the small white piece onto the carbon tape on the metal stub]
+    JJJ --> KKK[Use the back of the tweezers to gently press the small white piece onto the carbon tape]
+
+    %% Clip 11
+    KKK --> LLL[A hand in a blue glove holds a gold-colored sample holder with a white semi-circular sample.]
+    LLL --> MMM[Another hand in a blue glove uses tweezers to pick up a small, dark sample piece.]
+    MMM --> NNN[The tweezers place the small, dark sample piece onto the white semi-circular sample on the holder.]
+    NNN --> OOO[The tweezers adjust the position of the small, dark sample piece on the white sample.]
+    OOO --> PPP[The tweezers are moved away from the sample holder.]
+    PPP --> QQQ[The tweezers pick up a small, rectangular strip.]
+    QQQ --> RRR[The tweezers place the small rectangular strip onto the edge of the sample holder, overlapping the white sample.]
+    RRR --> SSS[The tweezers press down on the small rectangular strip to secure it.]
+
+    %% Clip 12
+    SSS --> TTT[Hold a round, golden sample with the right hand]
+    TTT --> UUU[Hold the sample over a sputtering coater]
+
+    %% Clip 13
+    UUU --> VVV[Open the lid of the cylindrical chamber]
+    VVV --> WWW[Place a round, metallic sample into the chamber]
+
+    %% Clip 14
+    WWW --> XXX[Move lid over cylindrical metal chamber]
+    XXX --> YYY[Place lid onto the cylindrical metal chamber]
+    YYY --> ZZZ[Grasp blue vacuum valve with left hand]
+    ZZZ --> AAAA[Rotate blue vacuum valve clockwise]
+    AAAA --> BBBB[Press down on the red component of the lid with left hand]
+
+    %% Clip 15
+    BBBB --> CCCC[Remove red block from top of silver chamber]
+    CCCC --> DDDD[Move hand to red power switch on equipment]
+    DDDD --> EEEE[Press red power switch to turn on equipment]
+
+    %% Clip 16
+    EEEE --> FFFF[The equipment is running and appears stable]
+    FFFF --> GGGG[A gloved hand points to a display on the equipment]
+    GGGG --> HHHH[The gloved hand moves to a button on the equipment]
+    HHHH --> IIII[The gloved hand presses the 'start' button]
+
+    %% Clip 17
+    IIII --> JJJJ[A hand wearing a blue glove presses a button on the machine.]
+    JJJJ --> KKKK[The machine starts.]
+    KKKK --> LLLL[The person waits for the countdown on the small screen to complete.]
+
+    %% Clip 18
+    LLLL --> MMMM[A hand wearing a blue glove enters the frame]
+    MMMM --> NNNN[The gloved hand moves towards the front panel of the CRESSINGTON 108C AUTO CARBON COATER]
+    NNNN --> OOOO[The gloved hand presses the red power button on the equipment]
+    OOOO --> PPPP[The gloved hand retracts from the frame]
+
+    %% Clip 19
+    PPPP --> QQQQ[A gloved hand turns a blue valve (labeled 'AVCCOP') clockwise to close it.]
+    QQQQ --> RRRR[A gloved hand places a red rectangular component on top of a silver cylindrical chamber.]
+
+    %% Clip 20
+    RRRR --> SSSS[A gloved hand holds a red and silver lid onto a cylindrical machine.]
+    SSSS --> TTTT[The gloved hand lifts the red and silver lid off the cylindrical machine.]
+    TTTT --> UUUU[The gloved hand reaches into the cylindrical machine.]
+    UUUU --> VVVV[The gloved hand grabs a small, round, metallic sample from inside the machine.] --> end_node[End]
+```

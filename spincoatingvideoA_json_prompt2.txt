@@ -1,0 +1,131 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "```json\n[\n  {\"action\": \"speaking\"}\n]\n```"
+  },
+  {
+    "start_time": "00:00",
+    "end_time": "00:09",
+    "label": "The person holds a small vial in their left gloved hand."
+  },
+  {
+    "start_time": "00:00",
+    "end_time": "00:09",
+    "label": "The person holds a glass pipette in their right gloved hand."
+  },
+  {
+    "start_time": "00:02",
+    "end_time": "00:07",
+    "label": "The person lowers the glass pipette into the vial."
+  },
+  {
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "label": "The person draws liquid from the vial into the glass pipette."
+  },
+  {
+    "start_time": "00:07",
+    "end_time": "00:09",
+    "label": "The person raises the glass pipette out of the vial."
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  \"hold a small clear vial in the left hand\",\n  \"hold a dropper in the right hand\",\n  \"insert the dropper into a liquid in a foil-covered container\",\n  \"squeeze the dropper to draw liquid\",\n  \"move the dropper towards the vial\",\n  \"dispense liquid from the dropper into the vial\"\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a small vial with the left hand\"\n  },\n  {\n    \"action\": \"holding a pipette with the right hand\"\n  },\n  {\n    \"action\": \"squeezing the black knob of the pipette\"\n  },\n  {\n    \"action\": \"inserting the pipette into a liquid source\"\n  },\n  {\n    \"action\": \"drawing liquid into the pipette\"\n  },\n  {\n    \"action\": \"transferring liquid from the pipette to the vial\"\n  },\n  {\n    \"action\": \"dispensing liquid from the pipette into the vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\"action\": \"holding a small clear vial with the left hand\"},\n  {\"action\": \"holding a pipette with the right hand\"},\n  {\"action\": \"placing the tip of the pipette into the solution in the vial\"},\n  {\"action\": \"releasing the black knob on the pipette\"}\n]\n```"
+  },
+  {
+    "clip_index": 14,
+    "actions": "```json\n[\n  {\"action\": \"holding a vial\"},\n  {\"action\": \"holding a pipette\"},\n  {\"action\": \"pipetting from a vial\"},\n  {\"action\": \"removing pipette from vial\"},\n  {\"action\": \"setting vial down\"},\n  {\"action\": \"holding pipette\"}\n]\n```"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[\n  {\"action\": \"positioning pipette over silicon substrate\"},\n  {\"action\": \"pressing pipette plunger\"},\n  {\"action\": \"dropping solution onto silicon substrate\"}\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a pipette\"\n  },\n  {\n    \"action\": \"dispensing liquid from a pipette onto a wafer/sample\"\n  },\n  {\n    \"action\": \"coating the wafer/sample with a liquid polymer\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  \"lower pipette into vial\",\n  \"squeeze pipette bulb\",\n  \"lift pipette from vial\",\n  \"place pipette on surface\"\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  \"move right hand to lid\",\n  \"move left hand to vial\",\n  \"pick up lid with right hand\",\n  \"pick up vial with left hand\",\n  \"close vial with lid\",\n  \"place vial on surface\"\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  {\n    \"action\": \"reach for a knob\"\n  },\n  {\n    \"action\": \"turn a knob to a vertical position\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  {\"action\": \"Person's hands appear on the table, wearing blue gloves.\"},\n  {\"action\": \"Right hand picks up a white vial.\"},\n  {\"action\": \"Right hand brings the vial closer to the camera.\"},\n  {\"action\": \"Right hand holds the vial, displaying its label to the camera.\"}\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  {\"action\": \"Pressing the 'ENTER' button on a machine\"},\n  {\"action\": \"Speaking\"}\n]\n```"
+  },
+  {
+    "clip_index": 21,
+    "actions": "```json\n[\n  {\"action\": \"press a button on the spin coater\"}\n]\n```"
+  },
+  {
+    "clip_index": 22,
+    "actions": "```json\n[\n  {\"action\": \"performing spin coating\"}\n]\n```"
+  },
+  {
+    "clip_index": 23,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand reaches towards a knob on a wall-mounted instrument.\"\n  },\n  {\n    \"action\": \"A gloved hand grasps and turns a knob on a wall-mounted instrument.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 24,
+    "actions": "```json\n[\n  \"The user picks up tweezers with their gloved hand.\",\n  \"The user uses tweezers to pick up the corner of a silicon wafer from the dish.\"\n]\n```"
+  },
+  {
+    "clip_index": 25,
+    "actions": "```json\n[\n  \"holding tweezers with a silicon wafer\",\n  \"moving tweezers with a silicon wafer\",\n  \"reaching for a sample box\",\n  \"picking up a sample box\"\n]\n```"
+  },
+  {
+    "clip_index": 26,
+    "actions": "```json\n[\n  {\"action\": \"open sample box\"},\n  {\"action\": \"pick up silicon wafer with tweezers\"},\n  {\"action\": \"place silicon wafer into chamber\"}\n]\n```"
+  },
+  {
+    "clip_index": 27,
+    "actions": "```json\n[\n  {\"action\": \"holding sample box\"},\n  {\"action\": \"holding tweezers\"},\n  {\"action\": \"lowering left hand with sample box\"},\n  {\"action\": \"closing sample box\"},\n  {\"action\": \"placing sample box down\"},\n  {\"action\": \"lowering right hand with tweezers\"},\n  {\"action\": \"placing tweezers down\"}\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a small clear vial with a white cap\"\n  },\n  {\n    \"action\": \"remove the white cap from the vial\"\n  },\n  {\n    \"action\": \"place the white cap on the table\"\n  },\n  {\n    \"action\": \"place the vial on the table\"\n  },\n  {\n    \"action\": \"pick up a pair of tweezers\"\n  },\n  {\n    \"action\": \"show the tweezers\"\n  },\n  {\n    \"action\": \"put down the tweezers\"\n  },\n  {\n    \"action\": \"pick up a glass pipette\"\n  },\n  {\n    \"action\": \"pick up a black rubber bulb\"\n  },\n  {\n    \"action\": \"attach the black rubber bulb to the glass pipette\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  \"pick up sample box\",\n  \"open sample box\",\n  \"pick up tweezers\",\n  \"use tweezers\"\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  \"holding a clear box\",\n  \"holding tweezers with a silicon wafer\",\n  \"transferring the silicon wafer from the tweezers into the clear box\",\n  \"placing the clear box down\"\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  \"holding an object with tweezers\",\n  \"moving tweezers towards a spin coater chuck\",\n  \"placing an object onto the chuck using tweezers\",\n  \"retracting tweezers\"\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  \"holding tweezers\",\n  \"manipulating a wafer with tweezers\",\n  \"adjusting the position of the wafer\"\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\"action\": \"place down tweezers\"},\n  {\"action\": \"pick up vial\"},\n  {\"action\": \"twist vial cap\"}\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\"action\": \"set down vial cap\"},\n  {\"action\": \"pick up plastic pipette\"},\n  {\"action\": \"pick up black cap\"}\n]\n```"
+  }
+]

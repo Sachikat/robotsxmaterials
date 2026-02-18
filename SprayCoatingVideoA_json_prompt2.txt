@@ -1,0 +1,102 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "```json\n[\n  \"speaking\",\n  \"moving hands into frame\",\n  \"positioning hands\",\n  \"gesturing with hands\",\n  \"speaking\"\n]\n```"
+  },
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  \"shaking a container\",\n  \"unscrewing the lid of the container\"\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  \"picking up a small glass bottle\",\n  \"picking up a spray gun\",\n  \"unscrewing a container from the spray gun\"\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  \"holding a bottle\",\n  \"holding a spray gun\",\n  \"pouring liquid from a bottle into a spray gun\",\n  \"speaking\"\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\n    \"action\": \"screwing the lid onto the bottle\"\n  },\n  {\n    \"action\": \"placing the capped bottle on the table\"\n  },\n  {\n    \"action\": \"picking up a white lid from the table\"\n  },\n  {\n    \"action\": \"moving the white lid towards another bottle\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 14,
+    "actions": "```json\n[\n  {\n    \"action\": \"put the lid back on the spray gun\"\n  },\n  {\n    \"action\": \"hold the spray gun\"\n  },\n  {\n    \"action\": \"state the spray gun is ready\"\n  },\n  {\n    \"action\": \"state the intention to spray slurry on the ceramic layers\"\n  }\n]\n```"
+  },
+  {
+    "action": "A hand wearing a blue glove enters the frame."
+  },
+  {
+    "action": "The gloved hand reaches for a black plastic bag."
+  },
+  {
+    "action": "The gloved hand moves the black plastic bag."
+  },
+  {
+    "action": "The gloved hand points at ceramic sheets."
+  },
+  {
+    "action": "The gloved hand retracts."
+  },
+  {
+    "action": "The gloved hand reaches for a spray gun."
+  },
+  {
+    "action": "The gloved hand picks up the spray gun."
+  },
+  {
+    "action": "The person holds the spray gun with both gloved hands."
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\"action\": \"shaking the spray gun\"},\n  {\"action\": \"putting on a mask\"}\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"turn on fan\"\n  },\n  {\n    \"action\": \"hold spray gun\"\n  },\n  {\n    \"action\": \"position spray gun\"\n  },\n  {\n    \"action\": \"pull trigger of spray gun\"\n  },\n  {\n    \"action\": \"spray\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  \"spraying a substance onto a surface\"\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  \"A human hand enters the frame.\",\n  \"A human hand grasps a black sheet-like object.\",\n  \"A human hand moves the black sheet-like object.\",\n  \"A human hand adjusts the black sheet-like object.\",\n  \"A human hand manipulates the black sheet-like object.\"\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  {\"action\": \"pointing at a silver-foiled object\"},\n  {\"action\": \"picking up a small white square object from a dish\"},\n  {\"action\": \"holding up the small white square object\"}\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a small white square object\"\n  },\n  {\n    \"action\": \"placing a small white square object into a small white bowl\"\n  },\n  {\n    \"action\": \"picking up a gray bottle\"\n  },\n  {\n    \"action\": \"shaking the gray bottle\"\n  },\n  {\n    \"action\": \"pointing at the gray bottle\"\n  },\n  {\n    \"action\": \"pointing at a spray gun\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 3,
+    "actions": "```json\n[\n  \"gesturing with hands\",\n  \"reaching for an object\",\n  \"picking up an object\",\n  \"manipulating an object\",\n  \"placing a ceramic sheet on the heated plate with the right hand\",\n  \"placing a ceramic sheet on the heated plate with the left hand\",\n  \"reaching for a control on the heated plate\",\n  \"activating a control on the heated plate\"\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\"action\": \"holding a small white rectangular object\"},\n  {\"action\": \"placing a small white rectangular object onto a foil-covered box\"},\n  {\"action\": \"picking up a small white rectangular object\"},\n  {\"action\": \"placing a small white rectangular object onto a foil-covered box\"},\n  {\"action\": \"picking up a small white rectangular object\"},\n  {\"action\": \"placing a small white rectangular object onto a foil-covered box\"},\n  {\"action\": \"picking up a small white rectangular object from a bowl\"},\n  {\"action\": \"placing a small white rectangular object onto a foil-covered box\"},\n  {\"action\": \"picking up a small white rectangular object\"},\n  {\"action\": \"placing a small white rectangular object onto a foil-covered box\"}\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"picking up a small white square from a dish with the right hand\"\n  },\n  {\n    \"action\": \"placing the small white square onto an object wrapped in aluminum foil with the right hand\"\n  },\n  {\n    \"action\": \"picking up another small white square from the dish with the right hand\"\n  },\n  {\n    \"action\": \"placing the small white square onto the object wrapped in aluminum foil with the right hand\"\n  },\n  {\n    \"action\": \"picking up another small white square from the dish with the right hand\"\n  },\n  {\n    \"action\": \"placing the small white square onto the object wrapped in aluminum foil with the right hand\"\n  },\n  {\n    \"action\": \"picking up another small white square from the dish with the right hand\"\n  },\n  {\n    \"action\": \"placing the small white square onto the object wrapped in aluminum foil with the right hand\"\n  },\n  {\n    \"action\": \"picking up another small white square from the dish with the right hand\"\n  },\n  {\n    \"action\": \"placing the small white square onto the object wrapped in aluminum foil with the right hand\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"start_time\": 0,\n    \"end_time\": 0,\n    \"label\": \"Placing ceramic sheets on a heated plate\"\n  },\n  {\n    \"start_time\": 3,\n    \"end_time\": 4,\n    \"label\": \"Pointing at the heated plate with ceramic sheets\"\n  },\n  {\n    \"start_time\": 5,\n    \"end_time\": 6,\n    \"label\": \"Picking up a bottle\"\n  },\n  {\n    \"start_time\": 8,\n    \"end_time\": 9,\n    \"label\": \"Turning the heating knob\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  {\n    \"start\": \"00:00\",\n    \"end\": \"00:03\",\n    \"label\": \"speaking \\\"one, two, three\\\"\"\n  },\n  {\n    \"start\": \"00:00\",\n    \"end\": \"00:09\",\n    \"label\": \"wearing blue gloves\"\n  },\n  {\n    \"start\": \"00:00\",\n    \"end\": \"00:09\",\n    \"label\": \"positioning hands\"\n  },\n  {\n    \"start\": \"00:03\",\n    \"end\": \"00:09\",\n    \"label\": \"speaking \\\"and I wait for my ceramic sheets to get um warm\\\"\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\n    \"action\": \"A person's gloved hand enters the frame from the left\"\n  },\n  {\n    \"action\": \"The person points with their gloved hand at an object\"\n  },\n  {\n    \"action\": \"The person speaks, stating their intention to put slurry into a spray\"\n  },\n  {\n    \"action\": \"The person gestures with their gloved hands\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\"action\": \"The person grabs a slurry bottle.\"},\n  {\"action\": \"The person shakes the slurry bottle.\"}\n]\n```"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "- The human speaks, introducing the intention to plasma clean samples in a plasma cleaner for about 30 seconds."
+  },
+  {
+    "clip_index": 10,
+    "actions": "The following low-level human actions are observed:\n- A person is reaching for handles on a piece of equipment.\n- A person is gripping two handles on the equipment.\n- A person is holding the handles."
+  },
+  {
+    "clip_index": 11,
+    "actions": "Here's a list of low-level human actions observed in the video:\n\n- **00:00 - 00:05**: Hands holding two metallic components.\n- **00:05 - 00:06**: Left hand pushing or adjusting a component.\n- **00:06 - 00:07**: Hands moving away from the components.\n- **00:07 - 00:09**: Camera panning left and then down.\n- **00:09 - 00:11**: Camera stabilizing focus on a machine.\n- **00:11 - 00:15**: Speaking (\"Gemini. Stop moving knob once pressure reaches\")."
+  },
+  {
+    "clip_index": 12,
+    "actions": "- A hand wearing a blue glove enters the frame from the right.\n- The gloved hand grasps the \"RF LEVEL\" knob.\n- The gloved hand rotates the \"RF LEVEL\" knob from the \"OFF\" position to the \"HI\" position.\n- The gloved hand releases the \"RF LEVEL\" knob and moves out of the frame.\n- The gloved hand re-enters the frame from the right.\n- The gloved hand grasps the black valve handle.\n- The gloved hand rotates the black valve handle to a vertical (open) position.\n- The gloved hand releases the valve handle and moves out of the frame."
+  },
+  {
+    "clip_index": 13,
+    "actions": "- Presses the power switch on the machine."
+  },
+  {
+    "clip_index": 14,
+    "actions": "No human actions are observed in the video or audio. The video is a static shot of a lab setup, and there is no sound."
+  },
+  {
+    "clip_index": 15,
+    "actions": "Here are the low-level human actions observed in the video:\n- A hand enters the frame from the right side.\n- The hand reaches for the \"RF LEVEL\" knob on the plasma cleaner.\n- The hand rotates the \"RF LEVEL\" knob clockwise to the \"HIGH\" setting.\n- The hand exits the frame to the right."
+  },
+  {
+    "clip_index": 16,
+    "actions": "The following low-level human actions are observed:\n1.  A hand wearing a blue glove moves into the camera's field of view.\n2.  The gloved hand reaches towards a small orange object on the table.\n3.  The gloved hand interacts with the small orange object.\n4.  The gloved hand moves away from the small orange object and exits the camera's field of view.\n5.  A person vocalizes the word \"Gemini\".\n6.  A person vocalizes the word \"Gemini\" again."
+  },
+  {
+    "clip_index": 17,
+    "actions": "- A person's gloved hand presses the red power button on the plasma cleaner device.\n- The person's gloved hand turns the RF level dial to the 'off' position."
+  },
+  {
+    "clip_index": 18,
+    "actions": "- The user's right hand reaches towards the right knob.\n- The user's left hand reaches towards the left knob.\n- The user's right hand grasps the right knob.\n- The user's left hand grasps the left knob.\n- The user's right hand turns the right knob clockwise.\n- The user's left hand turns the left knob clockwise."
+  },
+  {
+    "clip_index": 19,
+    "actions": "Here are the low-level human actions observed in the video:\n\n- A person holds a large circular machine with both gloved hands.\n- A person moves their hands downwards towards the floor.\n- A person grasps a power strip with both hands.\n- A person presses a switch on the power strip with their right hand.\n- A person presses another switch on the power strip with their left hand.\n- A person releases the power strip.\n- A person moves their hands upwards towards a desk.\n- A person's right hand reaches for a notebook on the desk."
+  },
+  {
+    "clip_index": 1,
+    "actions": "Here's a list of the low-level human actions observed in the video and audio:\n\n1.  A person speaks.\n2.  A hand (left, gloved) reaches towards a small clear box.\n3.  The left hand grasps the small clear box.\n4.  A hand (right, gloved) reaches towards the small clear box.\n5.  The right hand grasps the small clear box.\n6.  Both hands hold and slightly manipulate the small clear box.\n7.  The right hand holds tweezers."
+  },
+  {
+    "clip_index": 20,
+    "actions": "Here are the low-level human actions observed in the video:\n\n1.  A gloved hand (blue glove, green sleeve) is positioned near a machine.\n2.  The gloved hand grasps a black knob on the machine.\n3.  The gloved hand rotates the knob."
+  },
+  {
+    "clip_index": 21,
+    "actions": "The following primitive actions are performed:\n- A person is speaking.\n- A person is rotating a valve."
+  },
+  {
+    "clip_index": 22,
+    "actions": "The following low-level human actions are observed in the video:\n- A gloved hand twists a valve handle counter-clockwise.\n- The hand fully opens the valve.\n- The hand releases the valve handle."
+  },
+  {
+    "clip_index": 23,
+    "actions": "No human actions are observed in the video. The camera is static and no person or part of a person (like a hand) is visible interacting with any objects."
+  },
+  {
+    "clip_index": 24,
+    "actions": "No human actions are observed in the video."
+  },
+  {
+    "clip_index": 25,
+    "actions": "The following are the lowest-level human actions observed in the video:\n\n- A gloved hand reaches for the smaller knob on the valve.\n- The hand grasps the smaller knob.\n- The hand turns the smaller knob clockwise.\n- The hand releases the smaller knob.\n- The hand reaches for the larger knob on the valve.\n- The hand grasps the larger knob.\n- The hand turns the larger knob counter-clockwise.\n- The hand releases the larger knob."
+  },
+  {
+    "clip_index": 26,
+    "actions": "Here's a list of the low-level human actions observed in the video, corresponding to the audio:\n\n1.  **Manipulating a valve:** The person's right hand, wearing a blue glove, operates a black knob on a silver valve assembly.\n2.  **Releasing the valve:** The hand lets go of the valve.\n3.  **Reaching for the chamber door:** The hand moves towards the black door of the plasma cleaner.\n4.  **Opening the chamber door:** The hand grasps the door and swings it open.\n5.  **Releasing the chamber door:** The hand moves away from the opened door.\n6.  **Reaching for tweezers:** The right hand moves towards the bottom of the frame where tweezers are located.\n7.  **Picking up tweezers:** The right hand grasps the tweezers from the table.\n8.  **Reaching for a sample box:** The left hand moves towards a small clear box with an orange insert.\n9.  **Picking up the sample box:** The left hand grasps the sample box.\n10. **Holding the sample box:** The left hand holds the base of the sample box.\n11. **Opening the sample box:** The right hand, using the tweezers, prys open the lid of the sample box.\n12. **Pointing with tweezers:** The right hand, holding the tweezers, points into the plasma cleaner chamber.\n13. **Inserting tweezers:** The right hand inserts the tweezers into the plasma cleaner chamber.\n14. **Grabbing the glass tray:** The tweezers grasp an object (a clear glass tray) inside the chamber.\n15. **Pulling out the glass tray:** The right hand pulls the glass tray out of the chamber using the tweezers."
+  },
+  {
+    "clip_index": 27,
+    "actions": "The following are the low-level human actions observed in the video:\n\n- A hand wearing a blue glove holds an open transparent sample box.\n- Another hand wearing a blue glove uses tweezers to pick up a wafer from inside a plasma cleaner.\n- The hand holding the tweezers with the wafer moves the wafer towards the open sample box.\n- The hand holding the tweezers carefully places the wafer into the sample box."
+  },
+  {
+    "clip_index": 28,
+    "actions": "Here's a list of low-level human actions observed in the video:\n\n- A human is holding a small clear box containing an orange and a grey/black object in their left hand, which is gloved in blue.\n- The human is holding a pair of tweezers in their right hand, also gloved in blue.\n- The human brings the tweezers closer to the grey/black object (wafer) inside the box.\n- The human uses the tweezers to grasp the wafer.\n- The human lifts the wafer out of the clear box using the tweezers.\n- The human moves the wafer held by the tweezers towards the open circular chamber of a \"PLASMA CLEANER\" machine.\n- The human inserts the wafer into the chamber of the machine.\n- The human places the wafer onto a surface inside the machine chamber.\n- The human releases the wafer from the tweezers.\n- The human pulls the tweezers out of the machine chamber."
+  },
+  {
+    "clip_index": 29,
+    "actions": "- The person is holding a clear sample box with their left hand, which has an orange sticker that reads \"Test Sample B\".\n- The person is holding tweezers in their right hand.\n- The person uses the tweezers to pick up a small, dark, rectangular object from what appears to be a multi-compartment container within the clear sample box.\n- The person is placing the small, dark, rectangular object into another compartment of the clear sample box.\n- The person closes the lid of the clear sample box.\n- The person sets the clear sample box down on the table.\n- The person sets the tweezers down on the table."
+  },
+  {
+    "clip_index": 2,
+    "actions": "Here are the low-level human actions observed:\n\n- The person holds a small box and tweezers.\n- The person places the small box and tweezers on the table.\n- The person reaches for the door of the plasma cleaner.\n- The person opens the door of the plasma cleaner."
+  },
+  {
+    "clip_index": 30,
+    "actions": "Here are the low-level human actions observed:\n\n- Pushing a tray into a chamber.\n- Closing a chamber door.\n- Manipulating a valve/connector on the machine."
+  },
+  {
+    "clip_index": 3,
+    "actions": "- The human picks up a sample box.\n- The human picks up tweezers.\n- The human opens the sample box.\n- The human uses tweezers to grasp a wafer by its edges.\n- The human lifts the wafer out of the sample box."
+  },
+  {
+    "clip_index": 4,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  A gloved hand holds a clear, small, open container with a black square object inside.\n2.  A second gloved hand uses tweezers to grasp the black square object from the container.\n3.  The hand holding the tweezers moves the black square object towards an open chamber of a \"PLASMA CLEANER\" machine.\n4.  The hand guides the black square object with tweezers to place it onto a tray inside the chamber.\n5.  The hand releases the tweezers, thereby placing the black square object (referred to as a \"wafer\" in the audio) onto the tray, shiny side up."
+  },
+  {
+    "clip_index": 5,
+    "actions": "- Grabbing a clear box with the left hand.\n- Holding the clear box open with the left hand.\n- Holding tweezers with the right hand.\n- Picking up a small, rectangular object (wafer) from the clear box with the tweezers."
+  },
+  {
+    "clip_index": 6,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  **Holding** a clear sample box and tweezers.\n2.  **Picking up** a black wafer with tweezers.\n3.  **Placing** the black wafer onto a glass tray inside the plasma cleaner chamber.\n4.  **Removing** tweezers from the plasma cleaner chamber.\n5.  **Closing** the clear sample box.\n6.  **Setting down** the closed sample box.\n7.  **Setting down** the tweezers.\n8.  **Moving** one hand towards a valve/gauge."
+  },
+  {
+    "clip_index": 7,
+    "actions": "Here are the low-level human actions observed in the video:\n\n*   **00:01**: The person places their gloved hand on a black knob on the \"PLASMA CLEANER\" machine.\n*   **00:04 - 00:06**: The person turns the black knob on the machine, moving it into a horizontal position.\n*   **00:11 - 00:13**: The person's gloved hand picks up a green wire from the table."
+  },
+  {
+    "clip_index": 8,
+    "actions": "- The user's right hand wearing a blue glove reaches towards the power strip.\n- The user's hands wearing blue gloves grasp and lift the power strip.\n- The user's right hand wearing a blue glove presses the switch labeled \"Vacuum\" on the power strip.\n- The user's right hand wearing a blue glove presses the switch labeled \"Plasma\" on the power strip."
+  },
+  {
+    "clip_index": 9,
+    "actions": "The following low-level human actions are present in the video:\n1. A person wearing blue gloves places their hands on two components of a machine.\n2. The person's right hand grips a component with a blue cap.\n3. The person's right hand rotates the blue-capped component in a counter-clockwise direction."
+  }
+]

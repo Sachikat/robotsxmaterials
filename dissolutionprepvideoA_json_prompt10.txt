@@ -1,0 +1,1041 @@
+[
+  {
+    "clip_index": 0,
+    "actions": []
+  },
+  {
+    "clip_index": 10,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved hand holds a large brown bottle and pours liquid from it into a clear beaker"
+      },
+      {
+        "step": 2,
+        "action": "gloved hand stops tilting the large brown bottle, ceasing the pour, as the speaker states 'Once I've achieved ten milliliters'"
+      },
+      {
+        "step": 3,
+        "action": "gloved hand moves the large brown bottle to the left, away from the beaker"
+      },
+      {
+        "step": 4,
+        "action": "gloved hand places the large brown bottle onto the counter surface"
+      },
+      {
+        "step": 5,
+        "action": "gloved hand removes from the large brown bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 11,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up lid to acetonitrile"
+      },
+      {
+        "step": 2,
+        "action": "move blue lid towards the opening of the acetonitrile bottle"
+      },
+      {
+        "step": 3,
+        "action": "place blue lid onto the opening of the acetonitrile bottle"
+      },
+      {
+        "step": 4,
+        "action": "twist blue lid onto acetonitrile bottle"
+      },
+      {
+        "step": 5,
+        "action": "continue twisting blue lid onto acetonitrile bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 12,
+    "actions": [
+      {
+        "step": 1,
+        "action": "twist blue cap of large amber bottle"
+      },
+      {
+        "step": 2,
+        "action": "remove blue cap from large amber bottle"
+      },
+      {
+        "step": 3,
+        "action": "set down large amber bottle"
+      },
+      {
+        "step": 4,
+        "action": "pick up small vial with white cap"
+      },
+      {
+        "step": 5,
+        "action": "twist white cap of small vial"
+      },
+      {
+        "step": 6,
+        "action": "remove white cap from small vial"
+      },
+      {
+        "step": 7,
+        "action": "place white cap on table"
+      }
+    ]
+  },
+  {
+    "clip_index": 13,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up glass cylinder"
+      },
+      {
+        "step": 2,
+        "action": "move vial over waste beaker"
+      },
+      {
+        "step": 3,
+        "action": "tip glass cylinder over vial"
+      },
+      {
+        "step": 4,
+        "action": "transfer solution into vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 14,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a clear vial with the left gloved hand inside a beaker"
+      },
+      {
+        "step": 2,
+        "action": "hold a dark reagent bottle with the right gloved hand"
+      },
+      {
+        "step": 3,
+        "action": "tilt the dark reagent bottle to pour liquid into the clear vial"
+      },
+      {
+        "step": 4,
+        "action": "pour liquid from the dark reagent bottle into the clear vial"
+      },
+      {
+        "step": 5,
+        "action": "move the dark reagent bottle away from the clear vial with the right gloved hand"
+      },
+      {
+        "step": 6,
+        "action": "lift the clear vial slightly with the left gloved hand"
+      },
+      {
+        "step": 7,
+        "action": "set the clear vial back down into the beaker with the left gloved hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 15,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up lid with right hand"
+      },
+      {
+        "step": 2,
+        "action": "place lid onto vial with right hand"
+      },
+      {
+        "step": 3,
+        "action": "twist lid to close vial with right hand"
+      },
+      {
+        "step": 4,
+        "action": "place vial down with left hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 16,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up bottle labeled ISOPROPANOL"
+      },
+      {
+        "step": 2,
+        "action": "rotate bottle to show its label"
+      },
+      {
+        "step": 3,
+        "action": "rotate bottle"
+      },
+      {
+        "step": 4,
+        "action": "squeeze bottle to dispense liquid into a beaker"
+      }
+    ]
+  },
+  {
+    "clip_index": 17,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold an isopropanol wash bottle and a graduated cylinder"
+      },
+      {
+        "step": 2,
+        "action": "spray liquid from the isopropanol wash bottle into the graduated cylinder"
+      },
+      {
+        "step": 3,
+        "action": "pick up the graduated cylinder"
+      },
+      {
+        "step": 4,
+        "action": "swirl the graduated cylinder"
+      }
+    ]
+  },
+  {
+    "clip_index": 18,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a cylinder over a waste container"
+      },
+      {
+        "step": 2,
+        "action": "pour liquid from the cylinder into the waste container"
+      },
+      {
+        "step": 3,
+        "action": "continue pouring liquid from the cylinder into the waste container"
+      }
+    ]
+  },
+  {
+    "clip_index": 19,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up glass cylinder"
+      },
+      {
+        "step": 2,
+        "action": "move glass cylinder over beaker"
+      },
+      {
+        "step": 3,
+        "action": "lower glass cylinder into beaker"
+      },
+      {
+        "step": 4,
+        "action": "adjust glass cylinder within beaker"
+      },
+      {
+        "step": 5,
+        "action": "remove glass cylinder from beaker"
+      },
+      {
+        "step": 6,
+        "action": "place glass cylinder in waste basket"
+      },
+      {
+        "step": 7,
+        "action": "reach for amber bottle with red cap"
+      },
+      {
+        "step": 8,
+        "action": "grasp red cap of amber bottle"
+      },
+      {
+        "step": 9,
+        "action": "twist red cap of amber bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 1,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move hand with tweezers toward a small plastic container"
+      },
+      {
+        "step": 2,
+        "action": "pick up a silicon wafer with tweezers from the small plastic container"
+      },
+      {
+        "step": 3,
+        "action": "move tweezers with silicon wafer toward a small clear vial"
+      },
+      {
+        "step": 4,
+        "action": "drop silicon wafer into the small clear vial"
+      },
+      {
+        "step": 5,
+        "action": "move tweezers toward the small plastic container"
+      },
+      {
+        "step": 6,
+        "action": "pick up a silicon wafer with tweezers from the small plastic container"
+      },
+      {
+        "step": 7,
+        "action": "move tweezers with silicon wafer toward the small clear vial"
+      },
+      {
+        "step": 8,
+        "action": "drop silicon wafer into the small clear vial"
+      },
+      {
+        "step": 9,
+        "action": "move tweezers away from the small clear vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 20,
+    "actions": [
+      {
+        "step": 1,
+        "action": "twist red cap of cyclohexanone bottle"
+      },
+      {
+        "step": 2,
+        "action": "remove red cap from cyclohexanone bottle"
+      },
+      {
+        "step": 3,
+        "action": "place red cap onto clear glass beaker"
+      },
+      {
+        "step": 4,
+        "action": "grasp cyclohexanone bottle with left hand"
+      },
+      {
+        "step": 5,
+        "action": "grasp cyclohexanone bottle with right hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 21,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold brown bottle with both hands"
+      },
+      {
+        "step": 2,
+        "action": "tilt brown bottle over a glass beaker"
+      },
+      {
+        "step": 3,
+        "action": "pour liquid from the brown bottle into the glass beaker"
+      }
+    ]
+  },
+  {
+    "clip_index": 22,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a large brown bottle with a red cap and a smaller bottle"
+      },
+      {
+        "step": 2,
+        "action": "place the red cap onto the opening of the large brown bottle"
+      },
+      {
+        "step": 3,
+        "action": "twist the red cap on the large brown bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 23,
+    "actions": [
+      {
+        "step": 1,
+        "action": "put on a blue glove on the left hand"
+      },
+      {
+        "step": 2,
+        "action": "adjust the blue glove on the right hand"
+      },
+      {
+        "step": 3,
+        "action": "move the left hand towards a clear beaker"
+      },
+      {
+        "step": 4,
+        "action": "grasp the clear beaker with the left hand"
+      },
+      {
+        "step": 5,
+        "action": "grasp a stirring rod inside the beaker with the right hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 24,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold clear glass beaker with left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold glass measuring cylinder with right hand"
+      },
+      {
+        "step": 3,
+        "action": "insert measuring cylinder into beaker"
+      },
+      {
+        "step": 4,
+        "action": "lift measuring cylinder out of beaker"
+      },
+      {
+        "step": 5,
+        "action": "insert measuring cylinder into beaker"
+      },
+      {
+        "step": 6,
+        "action": "lift measuring cylinder out of beaker"
+      },
+      {
+        "step": 7,
+        "action": "insert measuring cylinder into beaker"
+      },
+      {
+        "step": 8,
+        "action": "lift measuring cylinder out of beaker"
+      },
+      {
+        "step": 9,
+        "action": "insert measuring cylinder into beaker"
+      }
+    ]
+  },
+  {
+    "clip_index": 25,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a clear glass beaker with the left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold a glass volumetric pipette with the right hand"
+      },
+      {
+        "step": 3,
+        "action": "lower the glass volumetric pipette into the clear glass beaker"
+      },
+      {
+        "step": 4,
+        "action": "keep the glass volumetric pipette inside the clear glass beaker"
+      }
+    ]
+  },
+  {
+    "clip_index": 26,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved hands lower a glass flask into a glass beaker"
+      },
+      {
+        "step": 2,
+        "action": "gloved hands adjust the position of the glass flask within the glass beaker"
+      },
+      {
+        "step": 3,
+        "action": "gloved hands lift the glass flask slightly out of the glass beaker"
+      },
+      {
+        "step": 4,
+        "action": "gloved hands lower the glass flask back into the glass beaker"
+      },
+      {
+        "step": 5,
+        "action": "gloved hands hold the glass flask steady inside the glass beaker"
+      }
+    ]
+  },
+  {
+    "clip_index": 27,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pour liquid from graduated cylinder into beaker"
+      },
+      {
+        "step": 2,
+        "action": "lift graduated cylinder from beaker"
+      },
+      {
+        "step": 3,
+        "action": "pick up a vial with a white cap"
+      }
+    ]
+  },
+  {
+    "clip_index": 28,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place vial lid down"
+      },
+      {
+        "step": 2,
+        "action": "pick up vial"
+      },
+      {
+        "step": 3,
+        "action": "position vial over beaker"
+      },
+      {
+        "step": 4,
+        "action": "use a pipette to pour liquid from a large amber bottle into the vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 29,
+    "actions": [
+      {
+        "step": 1,
+        "action": "slowly tip over the glass cylinder"
+      },
+      {
+        "step": 2,
+        "action": "remove the long clear object from the glass cylinder"
+      },
+      {
+        "step": 3,
+        "action": "set the glass cylinder down into the waste beaker"
+      },
+      {
+        "step": 4,
+        "action": "pick up a white lid"
+      },
+      {
+        "step": 5,
+        "action": "move the white lid towards the top opening of the glass cylinder"
+      }
+    ]
+  },
+  {
+    "clip_index": 2,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move right hand towards tweezers"
+      },
+      {
+        "step": 2,
+        "action": "pick up tweezers with right hand"
+      },
+      {
+        "step": 3,
+        "action": "hold tweezers up with right hand"
+      },
+      {
+        "step": 4,
+        "action": "set tweezers down with right hand"
+      },
+      {
+        "step": 5,
+        "action": "move both hands towards two vials"
+      },
+      {
+        "step": 6,
+        "action": "pick up two vials with both hands"
+      },
+      {
+        "step": 7,
+        "action": "hold up the two vials, showing the caps labeled 'acetonitrile' and 'cyclohexanone'"
+      },
+      {
+        "step": 8,
+        "action": "lower the two vials"
+      },
+      {
+        "step": 9,
+        "action": "place the two vials down"
+      }
+    ]
+  },
+  {
+    "clip_index": 30,
+    "actions": [
+      {
+        "step": 1,
+        "action": "twist cap onto vial"
+      },
+      {
+        "step": 2,
+        "action": "set vial down"
+      },
+      {
+        "step": 3,
+        "action": "pick up a vial with left hand"
+      },
+      {
+        "step": 4,
+        "action": "pick up a vial with right hand"
+      },
+      {
+        "step": 5,
+        "action": "set down the vial in the left hand"
+      },
+      {
+        "step": 6,
+        "action": "set down the vial in the right hand"
+      },
+      {
+        "step": 7,
+        "action": "pick up a small square container with left hand"
+      },
+      {
+        "step": 8,
+        "action": "pick up a small square container with right hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 31,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place a clear box with an orange insert on the table"
+      },
+      {
+        "step": 2,
+        "action": "place a second clear box with an orange insert on the table"
+      },
+      {
+        "step": 3,
+        "action": "pick up the clear box with the orange insert from the left"
+      },
+      {
+        "step": 4,
+        "action": "open the clear box with both hands"
+      },
+      {
+        "step": 5,
+        "action": "separate the two parts of the clear box"
+      },
+      {
+        "step": 6,
+        "action": "move the top part of the clear box towards a vial"
+      },
+      {
+        "step": 7,
+        "action": "place the top part of the clear box onto the vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 32,
+    "actions": [
+      {
+        "step": 1,
+        "action": "unscrew cap from vial"
+      },
+      {
+        "step": 2,
+        "action": "lift cap off vial"
+      },
+      {
+        "step": 3,
+        "action": "place cap down"
+      },
+      {
+        "step": 4,
+        "action": "place vial down"
+      },
+      {
+        "step": 5,
+        "action": "pick up tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 33,
+    "actions": [
+      {
+        "step": 1,
+        "action": "grab the corner or edge of the wafer with tweezers"
+      },
+      {
+        "step": 2,
+        "action": "lift the wafer slightly with the tweezers"
+      },
+      {
+        "step": 3,
+        "action": "set the sample box down"
+      },
+      {
+        "step": 4,
+        "action": "pick up a clear glass vial with the left hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 34,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a clear vial in the left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold tweezers in the right hand"
+      },
+      {
+        "step": 3,
+        "action": "insert tweezers into the vial"
+      },
+      {
+        "step": 4,
+        "action": "remove tweezers from the vial"
+      },
+      {
+        "step": 5,
+        "action": "move tweezers away from the vial"
+      },
+      {
+        "step": 6,
+        "action": "move the left hand holding the vial downwards"
+      },
+      {
+        "step": 7,
+        "action": "move the right hand holding the tweezers towards a transparent box"
+      },
+      {
+        "step": 8,
+        "action": "position the tweezers over a small square object in the transparent box"
+      },
+      {
+        "step": 9,
+        "action": "pick up a small square object from the transparent box with tweezers"
+      },
+      {
+        "step": 10,
+        "action": "move the right hand holding the tweezers and the small square object towards the vial"
+      },
+      {
+        "step": 11,
+        "action": "position the tweezers and the small square object over the vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 35,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up a wafer from the sample box using tweezers"
+      },
+      {
+        "step": 2,
+        "action": "place the wafer inside the solution vial"
+      },
+      {
+        "step": 3,
+        "action": "release the wafer into the vial using tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 36,
+    "actions": [
+      {
+        "step": 1,
+        "action": "twist white cap onto a clear vial"
+      },
+      {
+        "step": 2,
+        "action": "place the capped vial down"
+      },
+      {
+        "step": 3,
+        "action": "pick up a second clear vial"
+      },
+      {
+        "step": 4,
+        "action": "twist white cap off the second clear vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 37,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place a white lid on the table"
+      },
+      {
+        "step": 2,
+        "action": "pick up sample box 2"
+      },
+      {
+        "step": 3,
+        "action": "use tweezers to pick up a blue wafer from the sample box"
+      },
+      {
+        "step": 4,
+        "action": "move the tweezers with the blue wafer towards the vial"
+      },
+      {
+        "step": 5,
+        "action": "insert the blue wafer into the vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 38,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold clear vial with left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold tweezers with right hand"
+      },
+      {
+        "step": 3,
+        "action": "use tweezers to insert wafer into clear vial"
+      },
+      {
+        "step": 4,
+        "action": "use tweezers to push wafer further into clear vial"
+      }
+    ]
+  },
+  {
+    "clip_index": 39,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move tweezers, holding a white lid, towards the vial"
+      },
+      {
+        "step": 2,
+        "action": "place the white lid onto the vial using tweezers"
+      },
+      {
+        "step": 3,
+        "action": "twist the white lid to close the vial"
+      },
+      {
+        "step": 4,
+        "action": "release the white lid from the tweezers"
+      },
+      {
+        "step": 5,
+        "action": "set the closed vial down on the work surface"
+      },
+      {
+        "step": 6,
+        "action": "set the tweezers down on the work surface"
+      }
+    ]
+  },
+  {
+    "clip_index": 3,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold two clear plastic sample boxes in gloved hands"
+      },
+      {
+        "step": 2,
+        "action": "state \"My two sample boxes containing two wafers in each box.\""
+      },
+      {
+        "step": 3,
+        "action": "place the clear plastic sample box labeled 'B' on the foil"
+      },
+      {
+        "step": 4,
+        "action": "place the clear plastic sample box labeled 'J' on the foil"
+      },
+      {
+        "step": 5,
+        "action": "pick up a clear glass measuring cylinder with a gloved hand"
+      },
+      {
+        "step": 6,
+        "action": "hold the measuring cylinder up"
+      },
+      {
+        "step": 7,
+        "action": "state \"My cylinder for measuring.\""
+      },
+      {
+        "step": 8,
+        "action": "place the measuring cylinder down on the foil"
+      }
+    ]
+  },
+  {
+    "clip_index": 4,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a beaker with both hands"
+      },
+      {
+        "step": 2,
+        "action": "set the beaker down"
+      },
+      {
+        "step": 3,
+        "action": "pick up the bottle labeled Acetonitrile with the right hand"
+      },
+      {
+        "step": 4,
+        "action": "place the Acetonitrile bottle back down"
+      },
+      {
+        "step": 5,
+        "action": "pick up a large brown bottle with a red cap with the right hand"
+      },
+      {
+        "step": 6,
+        "action": "place the large brown bottle with a red cap back down"
+      }
+    ]
+  },
+  {
+    "clip_index": 5,
+    "actions": [
+      {
+        "step": 1,
+        "action": "stir contents of beaker with glass cylinder"
+      },
+      {
+        "step": 2,
+        "action": "lift glass cylinder out of beaker"
+      },
+      {
+        "step": 3,
+        "action": "move glass cylinder to the left, out of frame"
+      },
+      {
+        "step": 4,
+        "action": "move left gloved hand towards acetonitrile bottle"
+      },
+      {
+        "step": 5,
+        "action": "place left gloved hand on red cap of acetonitrile bottle"
+      },
+      {
+        "step": 6,
+        "action": "place right gloved hand on red cap of acetonitrile bottle"
+      },
+      {
+        "step": 7,
+        "action": "twist red cap of acetonitrile bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 6,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place a blue and red lid down onto the workbench"
+      },
+      {
+        "step": 2,
+        "action": "move left hand to the large brown bottle"
+      },
+      {
+        "step": 3,
+        "action": "adjust grip on the large brown bottle"
+      },
+      {
+        "step": 4,
+        "action": "lift the large brown bottle"
+      },
+      {
+        "step": 5,
+        "action": "tilt the large brown bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 7,
+    "actions": [
+      {
+        "step": 1,
+        "action": "remove right hand from large dark bottle"
+      },
+      {
+        "step": 2,
+        "action": "move right hand towards clear glass beaker"
+      },
+      {
+        "step": 3,
+        "action": "position right hand over clear glass beaker"
+      },
+      {
+        "step": 4,
+        "action": "begin to tilt large dark bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 8,
+    "actions": [
+      {
+        "step": 1,
+        "action": "human holds a large brown bottle with both gloved hands"
+      },
+      {
+        "step": 2,
+        "action": "human adjusts grip on the large brown bottle"
+      },
+      {
+        "step": 3,
+        "action": "human lifts the large brown bottle slightly"
+      },
+      {
+        "step": 4,
+        "action": "human says 'Gemini'"
+      },
+      {
+        "step": 5,
+        "action": "human says 'Observed'"
+      }
+    ]
+  },
+  {
+    "clip_index": 9,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up the brown bottle with a blue gloved hand"
+      },
+      {
+        "step": 2,
+        "action": "pour liquid from the brown bottle into the beaker"
+      }
+    ]
+  }
+]

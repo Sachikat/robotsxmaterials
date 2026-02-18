@@ -1,0 +1,162 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "The following actions are observed:\n- The human is speaking.\n- The human is preparing vials."
+  },
+  {
+    "clip_index": 10,
+    "actions": "- The person is wearing blue gloves and holding a large, dark brown bottle with a red ring around its neck.\n- They are pouring a liquid from this bottle into a clear beaker with a stir bar inside, which is on a balance.\n- The person places the bottle down on the lab bench.\n- The person picks up the large, dark brown bottle again, holding it with both gloved hands.\n- The person puts the bottle back down.\n- The person is holding the large, dark brown bottle again, and there's a close-up of the beaker and the label of another bottle.\n- The person puts the large, dark brown bottle down next to the beaker.\n- The person picks up the large, dark brown bottle."
+  },
+  {
+    "clip_index": 11,
+    "actions": "Here are the low-level human actions performed in the video:\n- A person holds a large brown bottle with their left hand.\n- A person holds a blue lid with their right hand.\n- The person moves the blue lid towards the opening of the brown bottle.\n- The person places the blue lid onto the opening of the brown bottle.\n- The person twists the blue lid clockwise to close the bottle."
+  },
+  {
+    "clip_index": 12,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n*   0:00 - A person's gloved hands are positioned around a large dark bottle.\n*   0:01 - The right gloved hand twists the blue cap of the large bottle.\n*   0:02 - The right gloved hand removes the blue cap from the large bottle.\n*   0:03 - The right gloved hand places the blue cap down on the surface.\n*   0:04 - The left gloved hand moves towards two small vials.\n*   0:04 - The left gloved hand grasps one of the small white-capped vials.\n*   0:05 - The left gloved hand lifts the grasped vial.\n*   0:06 - The right gloved hand moves to grasp the white cap of the vial held by the left hand.\n*   0:06 - The right gloved hand twists the white cap of the vial.\n*   0:08 - The right gloved hand removes the white cap from the vial.\n*   0:10 - The right gloved hand places the white cap on the surface.\n*   0:10 - The left gloved hand holds the now open vial.\n*   0:11 - The left gloved hand repositions the open vial, orienting its opening towards the camera."
+  },
+  {
+    "clip_index": 13,
+    "actions": "- The human's right hand stirs liquid in a beaker with a glass rod.\n- The human's right hand picks up a glass cylinder.\n- The human's right hand moves the glass cylinder towards the vial held in the left hand.\n- The human's left hand holds a small glass vial over a beaker.\n- The human's left hand adjusts the position of the vial.\n- The human's right hand tips the glass cylinder.\n- The human's right hand pours liquid from the glass cylinder into the vial."
+  },
+  {
+    "clip_index": 14,
+    "actions": "Here's a list of low-level human actions observed in the video, integrated with audio events:\n\n- A hand (right) holds a pipette.\n- A hand (left) holds a vial.\n- The pipette is inserted into a bottle.\n- Liquid is drawn from the bottle using the pipette.\n- The pipette is removed from the bottle.\n- The pipette is inserted into the vial.\n- Liquid is dispensed from the pipette into the vial.\n- The audio states, \"Gemini, one solution is transferred.\"\n- The pipette is removed from the vial.\n- The vial is placed back into a beaker.\n- The audio states, \"Set vial back down in waste basket.\""
+  },
+  {
+    "clip_index": 15,
+    "actions": "The following is a list of low-level human actions observed in the video, in chronological order:\n\n- Pick up vial.\n- Cap vial.\n- Place vial down."
+  },
+  {
+    "clip_index": 16,
+    "actions": "Here's a list of low-level human actions observed in the video and audio:\n\n- A hand wearing a blue glove is present in the frame.\n- The person picks up a squeeze bottle labeled \"ISOPROPANOL\".\n- The person holds the bottle.\n- The person squeezes the bottle of isopropanol.\n- Isopropanol is dispensed from the bottle into a beaker."
+  },
+  {
+    "clip_index": 17,
+    "actions": "Here's a list of the low-level human actions observed:\n\n- The person is holding a wash bottle with their right hand, pointed towards a glass cylinder inside a beaker.\n- The person is squeezing the wash bottle, causing liquid to spray into the glass cylinder/beaker.\n- The person continues to spray liquid from the wash bottle.\n- The person stops spraying the liquid.\n- The person lowers the wash bottle.\n- The person's right hand reaches towards the glass cylinder.\n- The person picks up the glass cylinder from the beaker.\n- The person swirls the glass cylinder inside the beaker.\n- The person continues to swirl the glass cylinder.\n- The person lifts the glass cylinder out of the beaker."
+  },
+  {
+    "clip_index": 18,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n*   Holding a graduated cylinder with a gloved hand.\n*   Positioning the graduated cylinder over a waste container.\n*   Tilting the graduated cylinder.\n*   Pouring contents from the graduated cylinder into the waste container.\n*   Inverting the graduated cylinder to empty its contents completely.\n*   Raising the empty graduated cylinder away from the waste container."
+  },
+  {
+    "clip_index": 19,
+    "actions": "Here are the low-level human actions observed:\n\n1.  A hand holds a glass cylinder.\n2.  A hand moves the glass cylinder down.\n3.  A hand moves the glass cylinder towards a beaker.\n4.  A hand places the glass cylinder into the beaker.\n5.  A voice speaks \"Gemini, place glass cylinder back in the waste basket.\"\n6.  A hand lifts the glass cylinder out of the beaker.\n7.  A hand moves the glass cylinder to the right.\n8.  A voice speaks \"Gemini, open lid to...\"\n9.  Two hands grasp the lid of a bottle.\n10. A hand twists the lid of the bottle.\n11. A hand lifts the lid off the bottle.\n12. A hand places the lid on the counter."
+  },
+  {
+    "clip_index": 1,
+    "actions": "The video clip does not show any human actions being performed. The audio indicates an intention to perform an action (\"I'm going to put two silicon wafers in each vial\"), but this action is not visible in the provided video segment."
+  },
+  {
+    "clip_index": 20,
+    "actions": "Here's a list of the low-level human actions observed:\n\n- A person unscrews the cap from a bottle.\n- A person removes the cap from the bottle.\n- A person places the cap down on the counter.\n- A person picks up the bottle."
+  },
+  {
+    "clip_index": 21,
+    "actions": "The following are the lowest-level human actions observed in the video and audio:\n\n*   The person holds a large brown bottle.\n*   The person pours liquid from the bottle into a glass beaker.\n*   The person speaks, saying \"slowly pour over glass vial.\""
+  },
+  {
+    "clip_index": 22,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  **Holding a large brown bottle.**\n2.  **Holding a small wash bottle.**\n3.  **Removing a red cap from the large brown bottle.**\n4.  **Placing the red cap down.**\n5.  **Picking up the red cap.**\n6.  **Positioning the red cap over the large brown bottle.**\n7.  **Screwing the red cap onto the large brown bottle.**\n8.  **Releasing the large brown bottle.**"
+  },
+  {
+    "clip_index": 23,
+    "actions": "Here are the low-level human actions observed in the video:\n\n- Putting on a glove.\n- Holding a beaker.\n- Inserting a stirring rod into a beaker."
+  },
+  {
+    "clip_index": 24,
+    "actions": "Here's a list of the low-level human actions observed in the video:\n\n- The person holds a beaker with their left hand.\n- The person holds a graduated cylinder with their right hand.\n- The person inserts the graduated cylinder into the beaker.\n- The person removes the graduated cylinder from the beaker.\n- This action of inserting and removing the graduated cylinder from the beaker is repeated."
+  },
+  {
+    "clip_index": 25,
+    "actions": "The following are the low-level human actions observed in the video:\n- A person holds a beaker with their left hand.\n- A person holds a graduated cylinder with their right hand.\n- A person lowers the graduated cylinder into the beaker.\n- A person positions the graduated cylinder inside the beaker.\n- A person holds the graduated cylinder steady within the beaker."
+  },
+  {
+    "clip_index": 26,
+    "actions": "- Left hand holds a glass beaker.\n- Right hand lowers a cylindrical object into the beaker.\n- Right hand slightly lifts the cylindrical object from the beaker.\n- Right hand lowers the cylindrical object into the beaker.\n- Right hand removes the cylindrical object from the beaker.\n- Right hand lowers the cylindrical object into the beaker again.\n- Right hand stirs the contents of the beaker with the cylindrical object."
+  },
+  {
+    "clip_index": 27,
+    "actions": "Here are the low-level human actions observed in the video:\n\n-   A gloved hand lowers a measuring cylinder into a beaker.\n-   A gloved hand picks up a small vial.\n-   A gloved hand holds the vial."
+  },
+  {
+    "clip_index": 28,
+    "actions": "Here's a list of low-level human actions observed in the video:\n\n- A hand holds a vial.\n- A hand holds a glass measuring cylinder (or similar) containing liquid.\n- A hand places the lid of the vial down.\n- A hand holds the vial over a beaker.\n- A hand pours liquid from the measuring cylinder into the vial."
+  },
+  {
+    "clip_index": 29,
+    "actions": "Here's a list of the lowest-level human actions observed in the video:\n\n*   **00:00 - 00:05**: Pours liquid from a brown bottle into a small glass cylinder.\n*   **00:05 - 00:06**: Removes a stirring rod from the glass cylinder.\n*   **00:06 - 00:08**: Places the small glass cylinder into a larger glass beaker.\n*   **00:09 - 00:09**: Picks up a white lid from the surface.\n*   **00:10 - 00:10**: Caps the small glass cylinder with the white lid."
+  },
+  {
+    "clip_index": 2,
+    "actions": "The following is a list of low-level human actions observed in the video:\n\n- The person speaks, stating the objects they have.\n- The person picks up a pair of tweezers with their left hand.\n- The person speaks, identifying the tweezers.\n- The person places the tweezers back down.\n- The person picks up a small glass vial with a white cap using their left hand.\n- The person picks up another small glass vial with a white cap using their right hand.\n- The person holds both vials up, displaying them to the camera.\n- The person speaks, identifying the vials as empty for acetonitrile and cyclohexanone.\n- The person lowers the vials.\n- The person places the vial from their left hand down on the counter.\n- The person places the vial from their right hand down on the counter."
+  },
+  {
+    "clip_index": 30,
+    "actions": "Here's a list of low-level human actions observed in the video:\n\n- Hands close a vial.\n- Hands set a vial down.\n- Hands pick up a vial.\n- Hands pick up another vial.\n- Hands hold two vials.\n- Hands pick up two small square containers.\n- Hands hold two small square containers."
+  },
+  {
+    "clip_index": 31,
+    "actions": "The following low-level human actions are observed:\n- Placing two small boxes on the counter.\n- Picking up one sample box.\n- Opening the sample box by separating its components."
+  },
+  {
+    "clip_index": 32,
+    "actions": "Here are the low-level human actions performed in the video:\n\n*   A person wearing blue gloves holds a small clear box with an orange insert in their left hand.\n*   The person holds a small glass vial with a white cap in their right hand.\n*   The person twists the white cap to unscrew it from the vial.\n*   The person lifts the white cap off the vial.\n*   The person places the white cap face down on the surface.\n*   The person places the open glass vial on the surface.\n*   The person reaches for a pair of tweezers with their right hand.\n*   The person picks up the tweezers with their right hand."
+  },
+  {
+    "clip_index": 33,
+    "actions": "The low-level human actions observed in the video and audio are:\n\n- Human wears blue gloves.\n- Human holds a clear plastic sample box in the left hand.\n- Human holds black tweezers in the right hand.\n- Human uses tweezers to grab a small, orange, square wafer from the sample box.\n- Human sets the sample box down on the counter.\n- Human picks up a small, clear glass vial with the left hand."
+  },
+  {
+    "clip_index": 34,
+    "actions": "Here's a list of the low-level human actions observed in the video:\n\n- A hand wearing a blue glove holds a small clear vial.\n- Another hand wearing a blue glove uses black tweezers to carefully pick up a small, thin, rectangular object from inside the vial.\n- The hand holding the tweezers lifts the object out of the vial.\n- The hand holding the vial lowers the vial slightly.\n- The hand holding the tweezers moves the tweezers, with the object, away from the vial and towards a smaller, clear rectangular container on the table covered with foil.\n- The hand holding the tweezers lowers the object into the small clear rectangular container.\n- The hand holding the tweezers releases the object.\n- The hand holding the tweezers moves the tweezers away from the container.\n- The hand holding the vial lowers the vial towards the table.\n- The hand holding the vial places the vial on the table.\n- A hand wearing a blue glove (the one that previously held the tweezers) reaches down towards the table.\n- The hand picks up a small, clear rectangular container from the table.\n- The hand moves the container."
+  },
+  {
+    "clip_index": 35,
+    "actions": "Here's a list of the low-level human actions observed in the video and audio:\n\n1.  **Picking up** a wafer from a sample box using tweezers.\n2.  **Moving** the wafer (held by tweezers) towards a solution vial.\n3.  **Placing** the wafer inside the solution vial using tweezers."
+  },
+  {
+    "clip_index": 36,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n*   The person puts a cap on a small glass vial.\n*   The person twists the cap to close the vial.\n*   The person places the closed vial down on the work surface.\n*   The person picks up a second small glass vial (vial number two/cyanide)."
+  },
+  {
+    "clip_index": 37,
+    "actions": "The following low-level human actions are present in the video:\n\n1.  The person is unscrewing the lid from a small clear vial.\n2.  The person places the lid onto the table.\n3.  The person picks up a small clear sample box with their left hand.\n4.  The person picks up a pair of tweezers with their right hand.\n5.  The person uses the tweezers to grasp a small wafer from the sample box.\n6.  The person carefully transfers the wafer using the tweezers from the sample box towards the vial.\n7.  The person lowers the wafer into the vial using the tweezers."
+  },
+  {
+    "clip_index": 38,
+    "actions": "The following low-level human actions are observed:\n\n1.  A person, wearing blue gloves, holds a small clear vial in their left hand.\n2.  The person uses tweezers, held in their right gloved hand, to pick up a small, thin, square object.\n3.  The person carefully transfers and places the small object into the vial.\n4.  This action of picking up and transferring small objects into the vial using tweezers is repeated multiple times throughout the video."
+  },
+  {
+    "clip_index": 39,
+    "actions": "The following low-level human actions are observed:\n- A person holds a small vial in their left gloved hand and a small sample holder in their right gloved hand.\n- The person's right hand places the small sample holder onto the foil-covered surface.\n- The person's right hand picks up a white cap from the surface.\n- The person's right hand twists the white cap onto the vial held in their left hand.\n- The person's left hand places the capped vial onto the foil-covered surface.\n- The person's right hand places a pair of black tweezers onto the foil-covered surface."
+  },
+  {
+    "clip_index": 3,
+    "actions": "Here's a list of the low-level human actions observed in the video and audio:\n\n- **0-0.5s:** A person's gloved hands enter the frame, holding two small transparent boxes.\n- **0.5-2.5s:** The person adjusts the position of the two boxes, bringing them closer to the camera.\n- **1.5-4.5s:** The person speaks, stating, \"My two sample boxes containing two wafers in each box.\"\n- **4.5-6.5s:** The person holds the two boxes steady for viewing.\n- **6.5-7.5s:** The person lowers the two boxes towards the table.\n- **7.5-8.5s:** The person places the two boxes on the table.\n- **8.5-9s:** The person's right hand reaches for a glass cylinder.\n- **9.5-10.5s:** The person's right hand picks up the glass cylinder.\n- **8.5-10.5s:** The person speaks, stating, \"My cylinder for measuring.\"\n- **10.5-12.5s:** The person holds the glass cylinder steady for viewing.\n- **12.5-13s:** The person places the glass cylinder back on the table."
+  },
+  {
+    "clip_index": 4,
+    "actions": "The lowest-level human actions observed in the video and audio are:\n\n*   A person holds a beaker with their left hand.\n*   A person moves their right hand towards the beaker.\n*   A person speaks, saying \"uh waste bin\".\n*   A person places the beaker onto the lab bench.\n*   A person releases the beaker with their left hand.\n*   A person reaches for a large brown bottle with their right hand.\n*   A person touches the large brown bottle (labeled \"Acetonitrile\") with their right hand.\n*   A person speaks, saying \"and acetonitrile\".\n*   A person moves their right hand to a second large brown bottle.\n*   A person touches the second large brown bottle with their right hand.\n*   A person speaks, saying \"and cyclohexanone\".\n*   A person moves their right hand away from the second large brown bottle.\n*   A person reaches for the top of the first large brown bottle.\n*   A person places a blue cap onto the first large brown bottle.\n*   A person releases the cap and bottle with their right hand.\n*   A person speaks, saying \"Gemini\"."
+  },
+  {
+    "clip_index": 5,
+    "actions": "Here's a list of the low-level human actions observed in the video and audio:\n\n*   A gloved hand holds a glass cylinder.\n*   A gloved hand places the glass cylinder into a beaker.\n*   A gloved hand removes the glass cylinder from the beaker.\n*   Two gloved hands grasp the lid of the acetonitrile bottle.\n*   Two gloved hands twist the lid of the acetonitrile bottle."
+  },
+  {
+    "clip_index": 6,
+    "actions": "Here are the low-level human actions observed in the video:\n\n- A hand in a blue glove holds a small cap.\n- Another hand in a blue glove holds the neck of a large brown bottle.\n- The small cap is placed down on the counter.\n- Both hands grasp the large brown bottle.\n- The person lifts and tilts the large brown bottle slightly."
+  },
+  {
+    "clip_index": 7,
+    "actions": "- A person is holding a large dark bottle with their left hand.\n- A person is holding a clear glass beaker with their right hand.\n- A person is tilting the bottle.\n- A person is pouring liquid from the bottle into the glass beaker."
+  },
+  {
+    "clip_index": 8,
+    "actions": "The following is a list of low-level human actions observed in the video, in chronological order:\n- A right gloved hand holds a large brown bottle.\n- A left gloved hand approaches and grasps the top of the large brown bottle.\n- Both gloved hands hold the large brown bottle.\n- The person speaks the word \"Gemini\".\n- The person speaks the word \"Observe\"."
+  },
+  {
+    "clip_index": 9,
+    "actions": "The following low-level human actions are observed:\n- A person is grasping a large brown bottle with a blue-gloved hand.\n- A person is tilting the large brown bottle.\n- A person is pouring liquid from the large brown bottle into a clear beaker."
+  }
+]

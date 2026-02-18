@@ -1,0 +1,50 @@
+```mermaid
+graph TD
+    A[Start] --> B(Prepare Workspace & Sample)
+    B --> B1[Pick up Sample Box & Tweezers]
+    B1 --> B2[Open Sample Box & Grab Wafer with Tweezers]
+    B2 --> C(Open Plasma Cleaner Chamber)
+    C --> C1[Reach for Door Latch]
+    C1 --> C2[Turn Door Latch]
+    C2 --> C3[Pull Open Chamber Door]
+
+    C3 --> D(Load Sample into Chamber)
+    D --> D1[Place Wafer on Glass Tray Inside Chamber]
+    D1 --> D2[Remove Tweezers from Chamber]
+    D2 --> D3[Close Sample Box & Place Tools Aside]
+    D3 --> E(Close & Latch Chamber Door)
+    E --> E1[Push Glass Tray Fully into Chamber]
+    E1 --> E2[Close Chamber Door]
+    E2 --> E3[Rotate Latch to Lock Door]
+
+    E3 --> F(Power On & Initial Setup)
+    F --> F1[Turn On External Power Strip (Vacuum & Plasma Switches)]
+    F1 --> F2[Turn On Plasma Cleaner Main Power]
+    F2 --> F3[Adjust RF LEVEL Knob to 'HI']
+    F3 --> F4[Adjust Inlet/Vacuum Valve Handles]
+
+    F4 --> G(Run Plasma Cleaning Cycle)
+    G --> G1[Monitor Pressure & Process (e.g., "Gemini")]
+    G1 --> G2[Wait for Cleaning Duration (No human action)]
+
+    G2 --> H(Shutdown Plasma Cleaner)
+    H --> H1[Turn RF LEVEL Knob to 'OFF']
+    H1 --> H2[Press Plasma Cleaner Main Power Button to Off]
+    H2 --> H3[Turn Off External Power Strip (Vacuum & Plasma Switches)]
+
+    H3 --> I(Unload Sample from Chamber)
+    I --> I1[Open Valve (for chamber access/venting)]
+    I1 --> I2[Open Chamber Door (Turn Latch & Pull)]
+    I2 --> I3[Pull Out Glass Tray from Chamber]
+    I3 --> I4[Pick Up Tweezers & Open Sample Box]
+    I4 --> I5[Lift Wafer from Tray with Tweezers]
+    I5 --> I6[Place Wafer into Sample Box]
+    I6 --> I7[Close Sample Box & Put Tools Aside]
+
+    I7 --> J(Finalize & Clean Up)
+    J --> J1[Push Glass Tray Back into Chamber]
+    J1 --> J2[Close & Latch Chamber Door]
+    J2 --> J3[Log Experiment Details (Interact with Notebook)]
+
+    J3 --> K[End]
+```

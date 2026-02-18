@@ -1,0 +1,149 @@
+```mermaid
+graph TD
+    start_node[Start]
+
+    %% Clip 10
+    start_node --> A1(Positioning hands to grasp the equipment)
+    A1 --> A2(Grasping two clamps on the equipment)
+    A2 --> A3(Holding two clamps on the equipment)
+
+    %% Clip 11
+    A3 --> A4(holding two components attached to a cylindrical object)
+    A4 --> A5(removing hands from the two components)
+    A5 --> A6(moving away from the machine with the cylindrical object)
+
+    %% Clip 12
+    A6 --> A7(A hand wearing a blue glove turns the RF LEVEL knob from OFF to HI on the plasma cleaner.)
+    A7 --> A8(A hand wearing a blue glove rotates a black valve handle into a vertical position.)
+
+    %% Clip 13
+    A8 --> A9(turn on power switch)
+    A9 --> A10(wait for 30 seconds)
+
+    %% Clip 14 and 15 had no actions.
+
+    %% Clip 16
+    A10 --> A11(The human says "Gemini")
+    A11 --> A12(A hand wearing a blue glove enters the frame from the left)
+    A12 --> A13(A gloved hand moves towards the center of the frame)
+    A13 --> A14(The human says "Gemini")
+    A14 --> A15(A gloved hand forms a fist)
+
+    %% Clip 17
+    A15 --> A16(presses the power switch to off on the plasma cleaner)
+    A16 --> A17(turns the RF level knob to off on the plasma cleaner)
+    A17 --> A18(removes a blue glove)
+
+    %% Clip 18
+    A18 --> A19(position hands on two black knob-like components on the Varian equipment)
+    A19 --> A20(rotate the two black knob-like components on the Varian equipment clockwise)
+
+    %% Clip 19
+    A20 --> A21(position hands to interact with a power strip)
+    A21 --> A22(press the switch labeled 'vacuum' on the power strip)
+    A22 --> A23(press the switch labeled 'plasma' on the power strip)
+
+    %% Clip 1 (Note: Clip indices are not strictly sequential in the input, order is preserved as given)
+    A23 --> A24(A hand wearing a blue glove picks up a small clear sample box labeled "Test Sample B".)
+    A24 --> A25(The gloved hands open the small clear sample box.)
+    A25 --> A26(One gloved hand holds the opened sample box.)
+    A26 --> A27(The other gloved hand picks up tweezers.)
+
+    %% Clip 20
+    A27 --> A28(move knob to horizontal position)
+    A28 --> A29(move knob to vertical position)
+
+    %% Clip 21
+    A29 --> A30(slowly turning a valve on the plasma cleaner)
+
+    %% Clip 22
+    A30 --> A31(A gloved hand rotates a black knob on the plasma cleaner.)
+    A31 --> A32(The gloved hand releases the black knob on the plasma cleaner.)
+
+    %% Clip 23 had no actions.
+
+    %% Unindexed actions (following Clip 23 in the input)
+    A32 --> A33(A gloved hand reaches towards a valve on the plasma cleaner.)
+    A33 --> A34(The gloved hand turns the valve clockwise.)
+
+    %% Clip 26
+    A34 --> A35(open chamber door)
+    A35 --> A36(pick up tweezers)
+    A36 --> A37(pick up sample box)
+    A37 --> A38(open sample box)
+    A38 --> A39(pull out glass tray from plasma cleaner)
+
+    %% Clip 27
+    A39 --> A40(grab wafer with tweezers)
+    A40 --> A41(lift wafer from glass tray with tweezers)
+    A41 --> A42(place wafer into sample box with tweezers)
+
+    %% Clip 28
+    A42 --> A43(hold tweezers in the right hand)
+    A43 --> A44(hold a transparent box containing a wafer in the left hand)
+    A44 --> A45(hold a small glass tray with the right hand's fingers)
+    A45 --> A46(use tweezers to move the wafer from the transparent box)
+    A46 --> A47(place the wafer onto the edge of the glass tray using tweezers)
+
+    %% Clip 29
+    A47 --> A48(place a black sample into a clear sample box using tweezers)
+    A48 --> A49(close the clear sample box)
+    A49 --> A50(set the closed sample box down)
+    A50 --> A51(set the tweezers down)
+
+    %% Clip 2 (Note: Clip indices are not strictly sequential in the input, order is preserved as given)
+    A51 --> A52(holding a small clear box labeled "First Sample B")
+    A52 --> A53(holding tweezers)
+    A53 --> A54(placing the small clear box on the table)
+    A54 --> A55(placing the tweezers on the table)
+    A55 --> A56(turning a silver knob on the plasma cleaner)
+    A56 --> A57(opening the door of the plasma cleaner)
+
+    %% Clip 30
+    A57 --> A58(push glass tray back into chamber)
+    A58 --> A59(close the chamber door)
+
+    %% Unindexed actions (following Clip 30 in the input)
+    A59 --> A60(pick up sample box)
+    A60 --> A61(pick up tweezers)
+    A61 --> A62(open sample box)
+    A62 --> A63(use tweezers to grab a wafer by the edges)
+
+    %% Clip 4 (Note: Clip indices are not strictly sequential in the input, order is preserved as given)
+    A63 --> A64(holding a clear container with a dark square object)
+    A64 --> A65(holding a dark square object with tweezers)
+    A65 --> A66(transferring the dark square object into the chamber)
+    A66 --> A67(releasing the tweezers from the dark square object)
+    A67 --> A68(placing the dark square object onto the glass tray inside the chamber)
+
+    %% Clip 5 (Note: Clip indices are not strictly sequential in the input, order is preserved as given)
+    A68 --> A69(holding a clear plastic box with a wafer in the left hand)
+    A69 --> A70(holding tweezers in the right hand)
+    A70 --> A71(grabbing a black rectangular wafer from the clear plastic box with tweezers)
+
+    %% Clip 6 (Note: Clip indices are not strictly sequential in the input, order is preserved as given)
+    A71 --> A72(hold a clear sample box containing an orange sample with one hand)
+    A72 --> A73(hold a black wafer with tweezers in the other hand)
+    A73 --> A74(transfer the black wafer from the tweezers onto a glass tray inside the plasma cleaner chamber, shiny side up)
+    A74 --> A75(close the clear sample box)
+    A75 --> A76(set the closed sample box down on the table)
+    A76 --> A77(set the tweezers down on the table)
+
+    %% Clip 7
+    A77 --> A78(A hand wearing a blue glove rotates a black knob on a silver valve clockwise.)
+    A78 --> A79(The hand moves the black knob into a horizontal position.)
+    A79 --> A80(The hand moves away from the knob.)
+    A80 --> A81(A hand wearing a blue glove holds a thin green wire.)
+
+    %% Clip 8
+    A81 --> A82(reach for power strip)
+    A82 --> A83(pick up power strip)
+    A83 --> A84(push switch labeled 'Vacuum' on power strip)
+    A84 --> A85(push switch labeled 'Plasma' on power strip)
+
+    %% Clip 9
+    A85 --> A86(holding a power strip)
+    A86 --> A87(holding a blue-labeled component and a yellow-labeled component on a machine)
+    A87 --> A88(moving the blue-labeled component in a counter-clockwise direction)
+    A88 --> end_node[End]
+```

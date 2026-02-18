@@ -1,0 +1,64 @@
+```mermaid
+graph TD
+    A[State intention: Spin coat silicon wafer with PEG] --> B{Gather Materials & Tools}
+
+    B --> B1[State "Here are my materials"]
+    B1 --> B2[Pick up & show PEG vial]
+    B2 --> B3[Open PEG vial]
+    B3 --> B4[Place vial & cap on table]
+    B4 --> B5[Pick up & show tweezers]
+    B5 --> B6[Pick up & show glass pipette]
+    B6 --> B7[Pick up rubber bulb & attach to glass pipette]
+    B7 --> B8[Pick up & open transparent wafer box to reveal wafer]
+    B8 --> B9[Close wafer box]
+    B9 --> C{Prepare Solution in Small Vial}
+
+    C --> C1[Pick up PET acetonitrile vial & unscrew cap]
+    C1 --> C2[Set vial cap down]
+    C2 --> C3[Pick up plastic pipette & insert into vial]
+    C3 --> C4[Hold clear vial & glass dropper]
+    C4 --> C5[Dispense liquid from glass dropper into clear vial]
+    C5 --> C6[Hold small clear vial & clear glass pipette]
+    C6 --> C7[Lower glass pipette into solution in a container]
+    C7 --> C8[Squeeze black knob to transfer liquid into small clear vial]
+    C8 --> C9[Pipette liquid from a beaker into a vial]
+    C9 --> C10[Remove pipette from vial]
+    C10 --> C11[Place vial down]
+    C11 --> C12[Place glass pipette down]
+    C12 --> D{Prepare Wafer on Spin Coater}
+
+    D --> D1[Pick up tweezers]
+    D1 --> D2[Open sample box]
+    D2 --> D3[Pick up silicon wafer with tweezers from box]
+    D3 --> D4[Hold wafer shiny side up with tweezers]
+    D4 --> D5[Transfer wafer onto chuck of spin coater]
+    D5 --> D6[Center wafer in container, ensuring shiny side up]
+    D6 --> D7[Place down tweezers]
+    D7 --> E{Apply Solution to Wafer}
+
+    E --> E1[Place tip of pipette into solution in small clear vial]
+    E1 --> E2[Release black knob to draw solution into pipette]
+    E2 --> E3[Position pipette over center of silicon substrate]
+    E3 --> E4[Slowly press black knob to drop solution onto silicon substrate]
+    E4 --> E5[Ensure even coating]
+    E5 --> E6[Transfer remaining solution from pipette into vial (for storage)]
+    E6 --> E7[Place glass pipette]
+    E7 --> E8[Pick up lid & close solution vial]
+    E8 --> E9[Set solution vial down]
+    E9 --> F{Operate Spin Coater}
+
+    F --> F1[Turn on spin coater]
+    F1 --> F2[Press ENTER button on spin coater]
+    F2 --> F3[Spin coater begins operation]
+    F3 --> F4[Turn knob (for adjustment)]
+    F4 --> G{Retrieve & Store Coated Wafer}
+
+    G --> G1[Reach for & pick up tweezers]
+    G1 --> G2[Use tweezers to pick up silicon wafer from dish]
+    G2 --> G3[Transfer silicon wafer with tweezers]
+    G3 --> G4[Pick up & hold open sample box]
+    G4 --> G5[Place silicon wafer in sample box film side]
+    G5 --> G6[Close sample box]
+    G6 --> G7[Set sample box down]
+    G7 --> G8[Set tweezers down]
+```

@@ -1,0 +1,115 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "```json\n[\n \n]\n```"
+  },
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  {\n    \"action\": \"position left hand on the left clamp of the circular metal component\"\n  },\n  {\n    \"action\": \"position right hand on the right clamp of the circular metal component\"\n  },\n  {\n    \"action\": \"grip the left clamp with the left hand\"\n  },\n  {\n    \"action\": \"grip the right clamp with the right hand\"\n  },\n  {\n    \"action\": \"twist the left clamp with the left hand\"\n  },\n  {\n    \"action\": \"twist the right clamp with the right hand\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding two components on a device\"\n  },\n  {\n    \"action\": \"moving a knob on the plasma cleaner\"\n  },\n  {\n    \"action\": \"stopping movement of the knob\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"turn the RF LEVEL knob to HI\",\n    \"tool\": \"RF LEVEL knob\",\n    \"instrument\": \"PLASMA CLEANER PDC-001-HP\"\n  },\n  {\n    \"action\": \"twist a black knob to a vertical position\",\n    \"tool\": \"black knob (valve)\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\n    \"action\": \"reach for the power switch\",\n    \"tool\": \"hand with blue glove\",\n    \"instrument\": \"PLASMA CLEANER PDC-001-HP\"\n  },\n  {\n    \"action\": \"press the power switch\",\n    \"tool\": \"hand with blue glove\",\n    \"instrument\": \"PLASMA CLEANER PDC-001-HP\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"gloved hands appear in frame\"\n  },\n  {\n    \"action\": \"gloved hands move\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"press the red power button to turn off the plasma cleaner\"\n  },\n  {\n    \"action\": \"turn the RF level knob from HI to OFF\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  {\n    \"action\": \"grasp left black knob\",\n    \"tool\": \"left hand\",\n    \"material\": \"black knob\"\n  },\n  {\n    \"action\": \"grasp right black knob\",\n    \"tool\": \"right hand\",\n    \"material\": \"black knob\"\n  },\n  {\n    \"action\": \"turn right black knob\",\n    \"tool\": \"right hand\",\n    \"material\": \"black knob\",\n    \"direction\": \"clockwise\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  {\n    \"action\": \"turn off the switch labeled 'vacuum' on the power strip\"\n  },\n  {\n    \"action\": \"turn off the switch labeled 'plasma' on the power strip\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up the sample box\"\n  },\n  {\n    \"action\": \"hold the sample box with both hands\"\n  },\n  {\n    \"action\": \"manipulate the sample box\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  {\n    \"action\": \"move knob into horizontal position\"\n  },\n  {\n    \"action\": \"slowly move knob into vertical position\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 21,
+    "actions": "```json\n[\n  {\n    \"action\": \"manipulate valve\",\n    \"details\": \"The person in blue gloves manipulates a metal valve on the Plasma Cleaner PDC-001-HP, slowly, to avoid dust entering the chamber.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 22,
+    "actions": "```json\n[\n  {\n    \"action\": \"twist valve handle\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 25,
+    "actions": "```json\n[\n  {\n    \"action\": \"reach for a knob\",\n    \"tool\": \"gloved hand (blue glove)\",\n    \"object\": \"knob on a valve\"\n  },\n  {\n    \"action\": \"grasp the knob\",\n    \"tool\": \"gloved hand (blue glove)\",\n    \"object\": \"knob on a valve\"\n  },\n  {\n    \"action\": \"twist the knob counter-clockwise\",\n    \"tool\": \"gloved hand (blue glove)\",\n    \"object\": \"knob on a valve\"\n  },\n  {\n    \"action\": \"remove hand from the knob\",\n    \"tool\": \"gloved hand (blue glove)\",\n    \"object\": \"knob on a valve\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 26,
+    "actions": "```json\n[\n  {\n    \"action\": \"open chamber door\"\n  },\n  {\n    \"action\": \"pick up tweezers\"\n  },\n  {\n    \"action\": \"pick up sample box\"\n  },\n  {\n    \"action\": \"open sample box\"\n  },\n  {\n    \"action\": \"pull out glass tray from plasma cleaner\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 27,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up wafer\",\n    \"tool\": \"tweezers\",\n    \"material\": \"wafer\"\n  },\n  {\n    \"action\": \"place wafer into sample box\",\n    \"tool\": \"tweezers\",\n    \"container\": \"sample box\",\n    \"material\": \"wafer\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 28,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up wafer\",\n    \"tool\": \"tweezers\",\n    \"from_container\": \"clear plastic container\"\n  },\n  {\n    \"action\": \"move wafer\",\n    \"tool\": \"tweezers\",\n    \"to_location\": \"edge of glass tray\"\n  },\n  {\n    \"action\": \"place wafer\",\n    \"tool\": \"tweezers\",\n    \"on_surface\": \"edge of glass tray\"\n  },\n  {\n    \"action\": \"pick up wafer\",\n    \"tool\": \"tweezers\",\n    \"from_location\": \"edge of glass tray\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 29,
+    "actions": "```json\n[\n  {\n    \"action\": \"place sample into box\",\n    \"materials\": [\"grey square sample\"],\n    \"tools\": [\"tweezers\", \"clear sample box\"],\n    \"details\": \"placed shiny side up\"\n  },\n  {\n    \"action\": \"close sample box\",\n    \"materials\": [],\n    \"tools\": [\"clear sample box\"]\n  },\n  {\n    \"action\": \"set down sample box\",\n    \"materials\": [],\n    \"tools\": [\"clear sample box\"]\n  },\n  {\n    \"action\": \"set down tweezers\",\n    \"materials\": [],\n    \"tools\": [\"tweezers\"]\n  }\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"set down small clear plastic box\",\n    \"tool\": \"small clear plastic box\",\n    \"details\": \"contains an orange sample\"\n  },\n  {\n    \"action\": \"set down tweezers\",\n    \"tool\": \"tweezers\"\n  },\n  {\n    \"action\": \"open door to plasma cleaner\",\n    \"tool\": \"plasma cleaner\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 30,
+    "actions": "```json\n[\n  {\n    \"action\": \"push glass tray back into chamber\"\n  },\n  {\n    \"action\": \"close chamber door\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 3,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up sample box\"\n  },\n  {\n    \"action\": \"pick up tweezers\"\n  },\n  {\n    \"action\": \"open sample box\"\n  },\n  {\n    \"action\": \"grab wafer from sample box by edges using tweezers\"\n  },\n  {\n    \"action\": \"lift wafer out of sample box using tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\n    \"action\": \"transfer wafer with tweezers\",\n    \"tool\": \"tweezers\",\n    \"material\": \"wafer\",\n    \"destination\": \"glass tray inside chamber\"\n  },\n  {\n    \"action\": \"place wafer shiny side up\",\n    \"material\": \"wafer\",\n    \"orientation\": \"shiny side up\"\n  },\n  {\n    \"action\": \"release tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear plastic container with a wafer\",\n    \"tool\": \"clear plastic container\",\n    \"material\": \"wafer\"\n  },\n  {\n    \"action\": \"hold tweezers\",\n    \"tool\": \"tweezers\"\n  },\n  {\n    \"action\": \"use tweezers to grab a wafer from the clear plastic container\",\n    \"tool\": \"tweezers\",\n    \"material\": \"wafer\",\n    \"container\": \"clear plastic container\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  \"hold a clear sample box containing an orange sample\",\n  \"hold a black wafer with tweezers\",\n  \"transfer the wafer from the tweezers\",\n  \"place the wafer on the glass tray inside the plasma cleaner chamber\",\n  \"place the wafer shiny side up\",\n  \"remove tweezers from the chamber\",\n  \"close the clear sample box\",\n  \"set the clear sample box down on the table\",\n  \"set the tweezers down on the table\",\n  \"reach for a component on the side of the plasma cleaner\"\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  {\n    \"action\": \"move black knob to a horizontal position\",\n    \"tool\": \"hand (gloved)\",\n    \"equipment\": \"plasma cleaner\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  \"reach for power strip\",\n  \"pick up power strip\",\n  \"turn on switch labeled VACUUM on power strip\",\n  \"turn on switch labeled Plasma on power strip\"\n]\n```"
+  },
+  {
+    "action": "hold machine parts",
+    "tool": "blue gloves",
+    "details": "one part in each hand"
+  },
+  {
+    "action": "move blue knob",
+    "direction": "counter-clockwise"
+  }
+]

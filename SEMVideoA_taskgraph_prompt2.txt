@@ -1,0 +1,37 @@
+```mermaid
+graph TD
+    A[Start] --> B{Initial Setup and Task Introduction};
+
+    B --> B1[State purpose: Prepare samples for SEM imaging];
+    B1 --> B2[Gather and arrange necessary tools: Scissors, tweezers, etc.];
+    B2 --> B3[Identify and retrieve sample holder (stub) and raw sample];
+
+    B3 --> C{Prepare Sample Holder (Stub)};
+    C --> C1[Grab carbon tape and scissors];
+    C1 --> C2[Cut a piece of carbon tape];
+    C2 --> C3[Apply carbon tape onto the stub];
+    C3 --> C4[Peel off the protective film from the carbon tape using tweezers];
+
+    C4 --> D{Mount Sample onto Stub};
+    D --> D1[Retrieve the sample from its container (e.g., plastic bag)];
+    D1 --> D2[Place the sample onto the carbon tape on the stub];
+    D2 --> D3[Gently press and secure the sample onto the carbon tape using tweezers];
+
+    D3 --> E{Load Sample into Sputter Coater};
+    E --> E1[Open the lid of the sputtering coater];
+    E1 --> E2[Place the prepared stub with the sample into the coater chamber];
+
+    E2 --> F{Operate Sputter Coater};
+    F --> F1[Close the coater chamber lid];
+    F1 --> F2[Turn valve to evacuate the chamber (create vacuum)];
+    F2 --> F3[Initiate the sputtering process by pressing start buttons/switches];
+    F3 --> F4[Monitor the sputtering process (wait, observe equipment)];
+    F4 --> F5[Complete sputtering process and release chamber vacuum];
+
+    F5 --> G{Retrieve Coated Sample};
+    G --> G1[Open the coater chamber lid];
+    G1 --> G2[Retrieve the coated sample on the stub from the chamber];
+    G2 --> G3[Present the sputtered sample];
+
+    G3 --> H[End];
+```

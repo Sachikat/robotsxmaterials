@@ -1,0 +1,134 @@
+```mermaid
+graph TD
+    subgraph Clip 0: Initial Hand Gestures
+        A[Wear blue gloves] --> B[Move gloved hands into frame]
+        B --> C[Spread gloved hands open with palms facing up]
+        C --> D[Point right index finger towards the left hand]
+        D --> E[Return both hands to an open gesture]
+        E --> F[Move gloved hands closer together]
+        F --> G[Spread gloved hands apart]
+    end
+
+    subgraph Clip 1: Pick Up First Ceramic Piece
+        G --> H[Point to foil-wrapped rectangular object]
+        H --> I[Move hand towards small white dish]
+        I --> J[Pick up a small, white, rectangular piece]
+        J --> K[Hold the small white piece]
+    end
+
+    subgraph Clip 2: Handle First Piece, Bottle, Spray Gun
+        K --> L[Hold a small white square object]
+        L --> M[Place the white square object into a small white dish]
+        M --> N[Pick up a grey bottle]
+        N --> O[Shake the grey bottle (spraying solution)]
+        O --> P[Place the grey bottle back on workbench]
+        P --> Q[Point to the grey bottle]
+        Q --> R[Pick up the spray gun]
+    end
+
+    subgraph Clip 3: Handle Second Ceramic Piece
+        R --> S[Reach towards a white dish]
+        S --> T[Pick up a small white rectangular object]
+        T --> U[Hold and manipulate the small white rectangular object]
+    end
+
+    subgraph Unindexed Actions: Place Multiple Ceramic Pieces
+        U --> V[Hold a small white square object]
+        V --> W[Place the small white square object onto a silver-foiled box]
+        W --> X[Pick up a second small white square object]
+        X --> Y[Place the second small white square object onto the silver-foiled box]
+        Y --> Z[Pick up a third small white square object]
+        Z --> AA[Place the third small white square object onto the silver-foiled box]
+        AA --> BB[Pick up a fourth small white square object]
+        BB --> CC[Place the fourth small white square object onto the silver-foiled box]
+        CC --> DD[Pick up a fifth small white square object]
+        DD --> EE[Place the fifth small white square object onto the silver-foiled box]
+    end
+
+    subgraph Clip 6: Set Up Heating Plate
+        EE --> FF[Point to ceramic sheets on the heated plate]
+        FF --> GG[Place hand on the knob of the heated plate]
+        GG --> HH[Turn the heating knob to three]
+    end
+
+    subgraph Clip 7: Wait for Heating
+        HH --> II[Count 'one, two, three' aloud]
+        II --> JJ[State 'And I wait for my ceramic sheets to get warm']
+        JJ --> KK[Hold hands still, indicating waiting]
+    end
+
+    subgraph Clip 8: Point to Slurry Bottle
+        KK --> LL[Blue-gloved hand enters frame]
+        LL --> MM[Point towards the object covered with aluminum foil]
+        MM --> NN[Both blue-gloved hands visible]
+        NN --> OO[Point towards the gray bottle (slurry)]
+    end
+
+    subgraph Unindexed Actions: Shake Slurry Bottle
+        OO --> PP[Reach towards a grey bottle]
+        PP --> QQ[Pick up the grey bottle]
+        QQ --> RR[Shake the grey bottle vigorously]
+    end
+
+    subgraph Clip 10: Prepare Slurry Container
+        RR --> SS[Shake the grey cylindrical container]
+        SS --> TT[Grasp the grey cylindrical container with both hands]
+        TT --> UU[Unscrew the lid of the grey cylindrical container]
+    end
+
+    subgraph Clip 11: Prepare Spray Gun and Other Bottles
+        UU --> VV[Pick up a small, dark bottle]
+        VV --> WW[Place the small, dark bottle down]
+        WW --> XX[Pick up a white spray gun]
+        XX --> YY[Twist to unscrew white container from spray gun]
+        YY --> ZZ[Separate white container from spray gun]
+        ZZ --> AAA[Place the white container on workbench]
+        AAA --> BBB[Place the spray gun on workbench]
+    end
+
+    subgraph Clip 12: Pour Slurry into Spray Gun Cup
+        BBB --> CCC[Hold a white cup (spray gun cup)]
+        CCC --> DDD[Hold a bottle (slurry) in the left hand]
+        DDD --> EEE[Tilt the bottle]
+        EEE --> FFF[Pour slurry from bottle into spray gun cup]
+    end
+
+    subgraph Clip 13: Cap Bottle and Pour into Crucible
+        FFF --> GGG[Screw the white cap onto the brown slurry bottle]
+        GGG --> HHH[Place the capped brown slurry bottle onto the counter]
+        HHH --> III[Pick up the small white crucible]
+        III --> JJJ[Pour liquid from spray gun cup into small white crucible]
+    end
+
+    subgraph Clip 14: Assemble Spray Gun
+        JJJ --> KKK[Hold a white cup (spray gun reservoir)]
+        KKK --> LLL[Hold a spray gun]
+        LLL --> MMM[Attach the white cup (reservoir) to the spray gun]
+        MMM --> NNN[Gesture with the left hand]
+        NNN --> OOO[Hold the assembled spray gun]
+    end
+
+    subgraph Clip 15: Final Spray Gun Pick Up
+        OOO --> PPP[Hand in blue glove enters frame]
+        PPP --> QQQ[Move hand towards ceramic sheets on rectangular object]
+        QQQ --> RRR[Move hand away from ceramic sheets]
+        RRR --> SSS[Pick up the spray gun]
+    end
+
+    subgraph Clip 16: Prepare to Spray
+        SSS --> TTT[Shake spray gun with right hand]
+        TTT --> UUU[Stop shaking spray gun]
+        UUU --> VVV[State "I put my mask on"]
+    end
+
+    subgraph Clip 17: Begin Spraying
+        VVV --> WWW[Turn on the fan]
+        WWW --> XXX[Move the spray gun slightly]
+        XXX --> YYY[Start spraying]
+        YYY --> ZZZ[Move the spray gun out of the frame]
+    end
+
+    subgraph Clip 18: Spray Object
+        ZZZ --> AAAA[Spray an object with a spray gun]
+    end
+```

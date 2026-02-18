@@ -1,0 +1,162 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "```json\n[\n]\n```"
+  },
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand pours liquid from a large dark brown bottle with a red cap into a clear glass beaker.\"\n  },\n  {\n    \"action\": \"The gloved hand stops pouring the liquid.\"\n  },\n  {\n    \"action\": \"The gloved hand brings the bottle upright.\"\n  },\n  {\n    \"action\": \"The gloved hand places the large dark brown bottle back onto the counter.\"\n  },\n  {\n    \"action\": \"The gloved hand picks up the large dark brown bottle again.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold blue and red cap\"\n  },\n  {\n    \"action\": \"move blue and red cap towards the opening of the dark bottle\"\n  },\n  {\n    \"action\": \"place blue and red cap onto the opening of the dark bottle\"\n  },\n  {\n    \"action\": \"twist blue and red cap on the dark bottle\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"Open lid of large amber bottle\"\n  },\n  {\n    \"action\": \"Place lid of large amber bottle on the table\"\n  },\n  {\n    \"action\": \"Pick up vial labeled 'acetonitrile'\"\n  },\n  {\n    \"action\": \"Twist off lid of acetonitrile vial\"\n  },\n  {\n    \"action\": \"Place lid of acetonitrile vial on the table\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold glass vial with left hand\"\n  },\n  {\n    \"action\": \"hold glass cylinder with solution with right hand\"\n  },\n  {\n    \"action\": \"position glass cylinder over the opening of the glass vial\"\n  },\n  {\n    \"action\": \"tip glass cylinder to transfer solution into the glass vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 14,
+    "actions": "```json\n[\n  {\n    \"action\": \"Right hand holds a graduated pipet, dispensing liquid from a brown bottle into a small clear vial\"\n  },\n  {\n    \"action\": \"Left hand holds the small clear vial, positioning it inside a larger clear beaker\"\n  },\n  {\n    \"action\": \"Liquid is visibly transferred from the pipet into the vial\"\n  },\n  {\n    \"action\": \"Right hand removes the graduated pipet from the vial\"\n  },\n  {\n    \"action\": \"Left hand moves the vial\"\n  },\n  {\n    \"action\": \"Left hand places the vial into the beaker (referred to as a waste basket in audio)\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up vial\"\n  },\n  {\n    \"action\": \"close vial\"\n  },\n  {\n    \"action\": \"place vial down\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand moves into the frame on the left.\"\n  },\n  {\n    \"action\": \"The gloved hand reaches for a white plastic squeeze bottle.\"\n  },\n  {\n    \"action\": \"The gloved hand picks up the white plastic squeeze bottle labeled 'ISOPROPANOL' with a yellow cap.\"\n  },\n  {\n    \"action\": \"The gloved hand positions the squeeze bottle over a clear glass beaker containing a test tube.\"\n  },\n  {\n    \"action\": \"The gloved hand squeezes the isopropanol bottle.\"\n  },\n  {\n    \"action\": \"Isopropanol is dispensed from the bottle into the beaker.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"Right hand, wearing a blue glove, reaches towards a glass cylinder in a beaker\"\n  },\n  {\n    \"action\": \"Right hand picks up the glass cylinder from inside the beaker\"\n  },\n  {\n    \"action\": \"Right hand swirls the glass cylinder around inside the beaker\"\n  },\n  {\n    \"action\": \"Right hand lifts the glass cylinder out of the beaker\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold graduated cylinder with blue gloved hand\"\n  },\n  {\n    \"action\": \"pour liquid from graduated cylinder into a large black waste container\"\n  },\n  {\n    \"action\": \"dump contents of graduated cylinder into the waste container\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold glass cylinder\"\n  },\n  {\n    \"action\": \"move glass cylinder towards beaker\"\n  },\n  {\n    \"action\": \"place glass cylinder into beaker\"\n  },\n  {\n    \"action\": \"remove glass cylinder from beaker\"\n  },\n  {\n    \"action\": \"reach for a large brown bottle with a red cap\"\n  },\n  {\n    \"action\": \"grip the large brown bottle with both hands\"\n  },\n  {\n    \"action\": \"twist the red cap off the large brown bottle\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  {\n    \"action\": \"twist the red cap of the dark brown bottle counter-clockwise\"\n  },\n  {\n    \"action\": \"remove the red cap from the dark brown bottle\"\n  },\n  {\n    \"action\": \"place the red cap into a glass beaker\"\n  },\n  {\n    \"action\": \"stabilize the dark brown bottle with both hands\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 21,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold a large brown bottle with both hands, wearing blue gloves\"\n  },\n  {\n    \"action\": \"Pour liquid from the large brown bottle into a clear beaker with a stir bar\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 22,
+    "actions": "```json\n[\n  {\n    \"action\": \"pour liquid from a large dark bottle into a smaller clear bottle\"\n  },\n  {\n    \"action\": \"place the smaller clear bottle down on the workbench\"\n  },\n  {\n    \"action\": \"pick up a red cap\"\n  },\n  {\n    \"action\": \"place the red cap on top of the large dark bottle containing cyclohexane\"\n  },\n  {\n    \"action\": \"twist the red cap onto the large dark bottle to close it\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 23,
+    "actions": "```json\n[\n  {\n    \"action\": \"donning a blue glove on the left hand\"\n  },\n  {\n    \"action\": \"placing the left hand on the beaker\"\n  },\n  {\n    \"action\": \"grasping the stirring rod in the beaker with the right hand\"\n  },\n  {\n    \"action\": \"lifting the stirring rod slightly from the beaker\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 24,
+    "actions": "```json\n[\n  \"Hold beaker with left hand\",\n  \"Hold volumetric flask with right hand, with tip inside the beaker\",\n  \"Raise volumetric flask out of the beaker with right hand\",\n  \"Lower volumetric flask into the beaker with right hand\",\n  \"Raise volumetric flask out of the beaker with right hand\",\n  \"Lower volumetric flask into the beaker with right hand\",\n  \"Raise volumetric flask slightly within the beaker with right hand\"\n]\n```"
+  },
+  {
+    "clip_index": 25,
+    "actions": "```json\n[\n  {\n    \"action\": \"Left hand holds a clear glass beaker.\"\n  },\n  {\n    \"action\": \"Right hand holds a measuring cylinder containing blue liquid.\"\n  },\n  {\n    \"action\": \"Right hand lowers the measuring cylinder into the clear glass beaker.\"\n  },\n  {\n    \"action\": \"Right hand rotates the measuring cylinder slightly within the beaker.\"\n  },\n  {\n    \"action\": \"Right hand tilts the measuring cylinder to pour the blue liquid into the beaker.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 26,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold dropper in right hand and clear beaker in left hand\"\n  },\n  {\n    \"action\": \"insert dropper into clear beaker\"\n  },\n  {\n    \"action\": \"press bulb of dropper\"\n  },\n  {\n    \"action\": \"remove dropper from beaker\"\n  },\n  {\n    \"action\": \"re-insert dropper into clear beaker\"\n  },\n  {\n    \"action\": \"press bulb of dropper\"\n  },\n  {\n    \"action\": \"remove dropper from beaker\"\n  },\n  {\n    \"action\": \"re-insert dropper into clear beaker\"\n  },\n  {\n    \"action\": \"press bulb of dropper\"\n  },\n  {\n    \"action\": \"remove dropper from beaker\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 27,
+    "actions": "```json\n[\n  {\n    \"action\": \"Pour liquid from a graduated cylinder into a beaker\"\n  },\n  {\n    \"action\": \"Ensure 10 milliliters of liquid is transferred from the graduated cylinder into the beaker\"\n  },\n  {\n    \"action\": \"Place the graduated cylinder into the beaker\"\n  },\n  {\n    \"action\": \"Pick up a Cyclohexanone vial with the left hand\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 28,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold vial with left hand\"\n  },\n  {\n    \"action\": \"hold vial lid with right hand\"\n  },\n  {\n    \"action\": \"place vial lid on bench\"\n  },\n  {\n    \"action\": \"position vial over beaker with left hand\"\n  },\n  {\n    \"action\": \"hold glass dropper/pipette in right hand, inserted into a dark bottle\"\n  },\n  {\n    \"action\": \"tilt dark bottle to transfer liquid from dropper/pipette into the vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 29,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold glass cylinder with both gloved hands\"\n  },\n  {\n    \"action\": \"Slowly tip the glass cylinder to pour its contents into a larger clear glass container\"\n  },\n  {\n    \"action\": \"Set the glass cylinder down into the larger clear glass container\"\n  },\n  {\n    \"action\": \"Pick up a white lid with the right gloved hand\"\n  },\n  {\n    \"action\": \"Place the white lid onto the top of the glass cylinder\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand wearing a blue glove picks up a pair of black tweezers from the foil-covered surface.\"\n  },\n  {\n    \"action\": \"The hand holds up the tweezers.\"\n  },\n  {\n    \"action\": \"A hand wearing a blue glove picks up a small clear vial from the left side of the foil-covered surface.\"\n  },\n  {\n    \"action\": \"Another hand wearing a blue glove picks up a second small clear vial from the right side of the foil-covered surface.\"\n  },\n  {\n    \"action\": \"The hands hold up both vials, revealing 'acetonitrile' written on the cap of the left vial and 'cyclohexanone' written on the cap of the right vial.\"\n  },\n  {\n    \"action\": \"The hands place both vials back down onto the foil-covered surface.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 30,
+    "actions": "```json\n[\n  {\n    \"action\": \"twist and close cap of a clear vial\"\n  },\n  {\n    \"action\": \"place the closed vial down on the foil-covered surface\"\n  },\n  {\n    \"action\": \"pick up a vial with a white cap with the left hand\"\n  },\n  {\n    \"action\": \"pick up another vial with a white cap with the right hand\"\n  },\n  {\n    \"action\": \"pick up a small clear rectangular container with a sample with the left hand\"\n  },\n  {\n    \"action\": \"pick up another small clear rectangular container with a sample with the right hand\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 31,
+    "actions": "```json\n[\n  {\n    \"action\": \"place two sample boxes on the counter\"\n  },\n  {\n    \"action\": \"pick up sample box one\"\n  },\n  {\n    \"action\": \"open sample box one\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 32,
+    "actions": "```json\n[\n  {\n    \"action\": \"Unscrew cap from a vial\"\n  },\n  {\n    \"action\": \"Set the cap down on the foil-covered surface\"\n  },\n  {\n    \"action\": \"Set the vial down on the foil-covered surface\"\n  },\n  {\n    \"action\": \"Pick up tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 33,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear sample box in the left hand\"\n  },\n  {\n    \"action\": \"hold tweezers in the right hand\"\n  },\n  {\n    \"action\": \"use tweezers to grab a corner or edge of a wafer inside the sample box\"\n  },\n  {\n    \"action\": \"remove the wafer from the sample box using the tweezers\"\n  },\n  {\n    \"action\": \"set the clear sample box down onto the foil-covered surface\"\n  },\n  {\n    \"action\": \"pick up a clear vial with the left hand\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 34,
+    "actions": "```json\n[\n  {\n    \"time\": \"00:00\",\n    \"action\": \"Hold a small clear vial with left hand.\"\n  },\n  {\n    \"time\": \"00:00\",\n    \"action\": \"Hold tweezers with right hand, dipping them into the vial containing a solution and a wafer.\"\n  },\n  {\n    \"time\": \"00:04\",\n    \"action\": \"Adjust the wafer inside the vial using the tweezers.\"\n  },\n  {\n    \"time\": \"00:07\",\n    \"action\": \"Remove the tweezers from the vial.\"\n  },\n  {\n    \"time\": \"00:09\",\n    \"action\": \"Place the tweezers down on the surface.\"\n  },\n  {\n    \"time\": \"00:09\",\n    \"action\": \"Reach the right hand towards a small orange sample.\"\n  },\n  {\n    \"time\": \"00:10\",\n    \"action\": \"Pick up a small orange rectangular sample with tweezers.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 35,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold a small clear vial in the left hand\"\n  },\n  {\n    \"action\": \"Hold tweezers in the right hand\"\n  },\n  {\n    \"action\": \"Pick up the second wafer from the sample box using tweezers\"\n  },\n  {\n    \"action\": \"Place the second sil-pole inside the solution vial using tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 36,
+    "actions": "```json\n[\n  {\n    \"action\": \"Twist cap onto a clear vial\"\n  },\n  {\n    \"action\": \"Place the capped vial onto the foil-covered surface\"\n  },\n  {\n    \"action\": \"Pick up a clear vial labeled 'Cyltamine'\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 37,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a small clear vial in the left hand\"\n  },\n  {\n    \"action\": \"place the lid of the vial on the table with the right hand\"\n  },\n  {\n    \"action\": \"pick up tweezers with the right hand\"\n  },\n  {\n    \"action\": \"use tweezers to pick up sample box two (a small rectangular clear box with orange markings)\"\n  },\n  {\n    \"action\": \"use tweezers to extract a small, thin blue wafer from sample box two\"\n  },\n  {\n    \"action\": \"use tweezers to lower the blue wafer into the clear vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 38,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold a small clear vial in the left hand\"\n  },\n  {\n    \"action\": \"Hold black tweezers in the right hand, gripping a wafer by its edge\"\n  },\n  {\n    \"action\": \"Carefully lower the wafer into the liquid inside the vial using the tweezers\"\n  },\n  {\n    \"action\": \"Release the wafer into the liquid in the vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 39,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold an open glass vial in the left hand\"\n  },\n  {\n    \"action\": \"Hold a white cap in the right hand\"\n  },\n  {\n    \"action\": \"Place the white cap onto the glass vial\"\n  },\n  {\n    \"action\": \"Twist the cap to close the vial\"\n  },\n  {\n    \"action\": \"Set the closed vial down on the work surface\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 3,
+    "actions": "```json\n[\n  {\n    \"action\": \"A person in blue gloves holds two clear sample boxes, one in each hand.\"\n  },\n  {\n    \"action\": \"The person places the two sample boxes onto the lab bench.\"\n  },\n  {\n    \"action\": \"The right hand picks up a graduated cylinder.\"\n  },\n  {\n    \"action\": \"The person holds and presents the graduated cylinder.\"\n  },\n  {\n    \"action\": \"The person places the graduated cylinder back onto the lab bench.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\n    \"action\": \"Person wearing blue gloves holds a glass beaker containing a magnetic stir bar.\"\n  },\n  {\n    \"action\": \"Person places the glass beaker onto the foil-covered workbench.\"\n  },\n  {\n    \"action\": \"Person reaches for a large amber bottle labeled 'ACETONITRILE'.\"\n  },\n  {\n    \"action\": \"Person places a gloved hand on the blue cap of the acetonitrile bottle.\"\n  },\n  {\n    \"action\": \"Person twists the blue cap of the acetonitrile bottle counter-clockwise.\"\n  },\n  {\n    \"action\": \"Person removes the blue cap from the acetonitrile bottle.\"\n  },\n  {\n    \"action\": \"Person moves the gloved hand towards another large amber bottle, identified as Cyclohexanone by audio.\"\n  },\n  {\n    \"action\": \"Person places a gloved hand on the red cap of the cyclohexanone bottle.\"\n  },\n  {\n    \"action\": \"Person twists the red cap of the cyclohexanone bottle counter-clockwise.\"\n  },\n  {\n    \"action\": \"Person removes the red cap from the cyclohexanone bottle.\"\n  },\n  {\n    \"action\": \"Person places the red cap down on the foil-covered workbench.\"\n  },\n  {\n    \"action\": \"Person moves their gloved hand away from the caps.\"\n  },\n  {\n    \"action\": \"Person reaches for the acetonitrile bottle.\"\n  },\n  {\n    \"action\": \"Person picks up the acetonitrile bottle.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"remove glass cylinder from beaker\"\n  },\n  {\n    \"action\": \"drop glass cylinder into waste basket\"\n  },\n  {\n    \"action\": \"place left hand on lid of Acetonitrile bottle\"\n  },\n  {\n    \"action\": \"place right hand on lid of Acetonitrile bottle\"\n  },\n  {\n    \"action\": \"twist lid of Acetonitrile bottle\"\n  },\n  {\n    \"action\": \"lift lid of Acetonitrile bottle\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"action\": \"place a lid down inside fume hood\"\n  },\n  {\n    \"action\": \"pick up acetonitrile bottle\"\n  },\n  {\n    \"action\": \"tip the acetonitrile bottle over\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  \"A gloved hand holds a large dark bottle.\",\n  \"The other gloved hand holds a clear glass beaker.\",\n  \"The large dark bottle is positioned above the glass beaker.\",\n  \"The person adjusts their grip on the large dark bottle.\",\n  \"The person adjusts the position of the bottle and beaker.\"\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a dark reagent bottle with blue-gloved hands\"\n  },\n  {\n    \"action\": \"place the dark reagent bottle onto the digital balance\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\n    \"action\": \"Person in blue gloves grabs the large brown bottle on the left.\"\n  },\n  {\n    \"action\": \"Person tilts the large brown bottle.\"\n  },\n  {\n    \"action\": \"Person pours liquid from the large brown bottle into the beaker.\"\n  }\n]\n```"
+  }
+]

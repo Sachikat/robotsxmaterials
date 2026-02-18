@@ -1,0 +1,145 @@
+```mermaid
+graph TD
+    start_node[Start] --> A0_0;
+
+    subgraph Clip 0
+        A0_0[speak: In this video, I'm going to be spin coating a silicon wafer with the polymer polyethylene glycol using the spin coater machine.]
+    end
+
+    subgraph Clip 1
+        A1_0[pick up a white vial with the right gloved hand] --> A1_1[hold the white vial labeled "PEG" with both gloved hands] --> A1_2[show the white vial labeled "PEG" to the camera];
+    end
+
+    subgraph Clip 2
+        A2_0[hold vial] --> A2_1[remove cap from vial] --> A2_2[place vial on table] --> A2_3[place cap on table] --> A2_4[point to tweezers] --> A2_5[identify tweezers] --> A2_6[point to glass pipette] --> A2_7[identify glass pipette] --> A2_8[pick up glass pipette] --> A2_9[pick up rubber bulb] --> A2_10[attach rubber bulb to glass pipette];
+    end
+
+    subgraph Clip 3
+        A3_0[pick up long thin metal tool] --> A3_1[pick up clear plastic box] --> A3_2[open clear plastic box] --> A3_3[close clear plastic box] --> A3_4[set down clear plastic box] --> A3_5[set down long thin metal tool];
+    end
+
+    subgraph Clip 4
+        A4_0[pick up sample box] --> A4_1[open sample box] --> A4_2[pick up tweezers] --> A4_3[use tweezers to remove sample from the box];
+    end
+
+    subgraph Clip 5
+        A5_0[pick up silicon wafer (tool: tweezers)] --> A5_1[hold silicon wafer with shiny side up];
+    end
+
+    subgraph Clip 6
+        A6_0[hold a wafer with tweezers] --> A6_1[move the wafer towards the chuck] --> A6_2[place the wafer onto the chuck];
+    end
+
+    subgraph Clip 7
+        A7_0[A gloved hand holds tweezers to position a small, dark, square object (wafer) into a foil-lined dish.];
+    end
+
+    subgraph Clip 8
+        A8_0[place down tweezers] --> A8_1[pick up vial of PEAT acetonitrile] --> A8_2[open the vial];
+    end
+
+    subgraph Clip 9
+        A9_0[hold vial] --> A9_1[hold cap] --> A9_2[set cap down] --> A9_3[pick up plastic pipet];
+    end
+
+    subgraph Clip 10
+        A10_0[hold clear vial with black dropper (hand: left)] --> A10_1[hold glass pipette (hand: right)] --> A10_2[dispense liquid from glass pipette into clear vial];
+    end
+
+    subgraph Clip 11
+        A11_0[hold a small clear vial with the left hand] --> A11_1[hold a dropper with the right hand] --> A11_2[dispense liquid from the dropper into the vial] --> A11_3[remove the dropper from the vial];
+    end
+
+    subgraph Clip 12
+        A12_0[hold small clear vial (hand: left)] --> A12_1[hold pipette (hand: right)] --> A12_2[squeeze black knob at the top of the pipette] --> A12_3[transfer liquid using pipette (tool: pipette, source_container: larger container (covered in foil), destination_container: solution vial)];
+    end
+
+    subgraph Clip 13
+        A13_0[hold a small clear vial with the left hand] --> A13_1[hold a pipette with the right hand] --> A13_2[place the tip of the pipette into the solution in the vial] --> A13_3[release the black nub at the end of the pipette] --> A13_4[draw solution into the pipette];
+    end
+
+    subgraph Clip 14
+        A14_0[dispense liquid into a vial (tool: pipette, container: vial, hand: right)] --> A14_1[remove pipette from the vial (tool: pipette, container: vial, hand: right)] --> A14_2[set the vial down (container: vial, hand: left)] --> A14_3[transfer pipette (tool: pipette, hand: right)];
+    end
+
+    subgraph Clip 15
+        A15_0[hold pipette (tool: pipette)] --> A15_1[position pipette (location: over the center of the silicon substrate)] --> A15_2[press black knob (tool: pipette)] --> A15_3[drop solution (target: silicon substrate)];
+    end
+
+    subgraph Clip 16
+        A16_0[holding a dropper (tool: dropper)] --> A16_1[dispensing polymer solution (chemical: polymer solution, tool: dropper)] --> A16_2[coating a wafer (item: wafer, chemical: polymer solution)] --> A16_3[ensuring even coating of a thin layer (item: wafer, chemical: polymer solution)] --> A16_4[being careful not to get solution off the wafer (item: wafer, chemical: solution)];
+    end
+
+    subgraph Clip 17
+        A17_0[squeeze the bulb of a glass pipette to return remaining solution into a vial] --> A17_1[set the glass pipette down on the counter];
+    end
+
+    subgraph Clip 18
+        A18_0[pick up lid] --> A18_1[pick up solution vial] --> A18_2[close solution vial with lid] --> A18_3[set solution vial down];
+    end
+
+    subgraph Clip 19
+        A19_0[reach for knob (tool: hand in blue glove, details: a knob on a valve system connected to the spin coater)] --> A19_1[turn knob (tool: hand in blue glove, details: the knob on the valve system is moved to a vertical position)] --> A19_2[power on equipment (equipment: spin coater, details: the spin coater initializes and displays software version information)];
+    end
+
+    subgraph Clip 20 (Implicit)
+        A20_0[press the enter button (tool: 6800 Spin Coater Series machine)];
+    end
+
+    subgraph Clip 21
+        A21_0[point at screen];
+    end
+
+    subgraph Clip 22
+        A22_0[The spin coater is running, indicated by the display showing RPM and time left, and the sound of the machine.];
+    end
+
+    subgraph Clip 23
+        A23_0[reach for knob (tool: hand in blue glove)] --> A23_1[turn knob (tool: hand in blue glove, object: knob on valve assembly, details: move knob back into horizontal position)];
+    end
+
+    subgraph Clip 24
+        A24_0[pick up tweezers] --> A24_1[use tweezers to pick up corner of silicon wafer];
+    end
+
+    subgraph Clip 25
+        A25_0[use tweezers (tool: tweezers, material: silicon wafer)] --> A25_1[transfer silicon wafer (material: silicon wafer, tool: tweezers)] --> A25_2[pick up sample box (object: sample box)];
+    end
+
+    subgraph Clip 26
+        A26_0[hold an open clear plastic sample box (tool: hand, container: clear plastic sample box)] --> A26_1[hold tweezers (tool: tweezers)] --> A26_2[pick up a silicon wafer (tool: tweezers, material: silicon wafer, container: clear plastic sample box)] --> A26_3[place silicon wafer into sample box (tool: tweezers, material: silicon wafer, container: clear plastic sample box)];
+    end
+
+    subgraph Clip 27
+        A27_0[release sample (tool: tweezers, container: sample box)] --> A27_1[close sample box] --> A27_2[set sample box down] --> A27_3[set tweezers down];
+    end
+
+    A0_0 --> A1_0;
+    A1_2 --> A2_0;
+    A2_10 --> A3_0;
+    A3_5 --> A4_0;
+    A4_3 --> A5_0;
+    A5_1 --> A6_0;
+    A6_2 --> A7_0;
+    A7_0 --> A8_0;
+    A8_2 --> A9_0;
+    A9_3 --> A10_0;
+    A10_2 --> A11_0;
+    A11_3 --> A12_0;
+    A12_3 --> A13_0;
+    A13_4 --> A14_0;
+    A14_3 --> A15_0;
+    A15_3 --> A16_0;
+    A16_4 --> A17_0;
+    A17_1 --> A18_0;
+    A18_3 --> A19_0;
+    A19_2 --> A20_0;
+    A20_0 --> A21_0;
+    A21_0 --> A22_0;
+    A22_0 --> A23_0;
+    A23_1 --> A24_0;
+    A24_1 --> A25_0;
+    A25_2 --> A26_0;
+    A26_3 --> A27_0;
+    A27_3 --> end_node[End];
+```

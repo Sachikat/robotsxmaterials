@@ -1,0 +1,114 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "The following is a list of low-level human actions observed in the video and audio:\n- Speaking."
+  },
+  {
+    "clip_index": 10,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  A person in blue gloves holds a small, clear vial in their left hand.\n2.  The person holds a glass pipette in their right hand.\n3.  The person inserts the glass pipette into the vial.\n4.  The person draws liquid from the vial using the pipette.\n5.  The person removes the pipette from the vial.\n6.  The person holds the pipette horizontally.\n7.  A voice instructs, \"Gemini, place black cap on end of glass pipette.\""
+  },
+  {
+    "clip_index": 11,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n*   **00:00-00:01**: The person speaks, saying \"and push down gently\".\n*   **00:00-00:13**: The left hand holds a small clear vial.\n*   **00:00-00:13**: The right hand holds a glass dropper with its tip inside the vial.\n*   **00:03-00:04**: The right hand squeezes the bulb of the dropper.\n*   **00:03-00:04**: Liquid is dispensed from the dropper into the vial.\n*   **00:05-00:06**: The right hand slightly releases the squeeze on the dropper bulb.\n*   **00:07-00:08**: The right hand squeezes the bulb of the dropper again.\n*   **00:07-00:08**: More liquid is dispensed from the dropper into the vial.\n*   **00:09-00:10**: The right hand slightly releases the squeeze on the dropper bulb.\n*   **00:11-00:12**: The person speaks, saying \"Gemini\".\n*   **00:12-00:13**: The person speaks, starting to say \"Take glass\"."
+  },
+  {
+    "clip_index": 12,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  A person, wearing blue gloves, holds a small clear vial in their left hand.\n2.  The person holds a glass pipette in their right hand.\n3.  The person lowers the pipette towards the opening of the vial.\n4.  The person inserts the tip of the pipette into the liquid within the vial.\n5.  The person's right hand positions their thumb and index finger near the top of the pipette (implied to \"squeeze black knob\").\n6.  The person holds the pipette steady inside the vial.\n7.  The person is preparing to transfer liquid from an external source (implied from the audio mentioning \"transfer over to solution vial\" and \"squeeze black knob\")."
+  },
+  {
+    "clip_index": 13,
+    "actions": "The following low-level human actions are observed:\n- A person is holding a small clear vial in their left gloved hand.\n- A person is holding a pipette in their right gloved hand.\n- A person is inserting the tip of the pipette into the vial.\n- A person is dispensing liquid from the pipette into the vial."
+  },
+  {
+    "clip_index": 14,
+    "actions": "Here's a list of low-level human actions observed in the video and audio:\n\n- A gloved hand holds a vial.\n- A gloved hand holds a pipette.\n- Liquid is dropped into the vial from the pipette.\n- The pipette is pulled out of the vial.\n- The vial is set down on the counter.\n- The hand holding the pipette moves the pipette over a circular opening in a device.\n- The hand holding the pipette moves the pipette around over the circular opening."
+  },
+  {
+    "clip_index": 15,
+    "actions": "The following low-level human actions are observed:\n- A gloved hand holding a pipette positions it over a black object.\n- The hand presses the black knob/plunger of the pipette.\n- The pipette dispenses liquid onto the black object."
+  },
+  {
+    "clip_index": 16,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n*   (00:00-00:07) The person holds a pipette.\n*   (00:00-00:08) The person positions the pipette over a wafer.\n*   (00:08-00:10) The person dispenses liquid from the pipette onto the wafer."
+  },
+  {
+    "clip_index": 17,
+    "actions": "- The human holds a pipette in a gloved hand.\n- The human squeezes the pipette.\n- The human expels liquid from the pipette into a vial.\n- The human places the pipette onto the bench."
+  },
+  {
+    "clip_index": 18,
+    "actions": "- Pick up lid.\n- Pick up solution vial.\n- Close solution vial with lid.\n- Set solution vial down."
+  },
+  {
+    "clip_index": 19,
+    "actions": "The following low-level human actions are observed:\n- A person's gloved hand reaches for a knob.\n- A person's gloved hand turns the knob into a vertical position."
+  },
+  {
+    "clip_index": 1,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  **0:00-0:05**: The human's gloved hands rest on the table.\n2.  **0:00-0:05**: The human speaks, stating \"at an RPM of 3000.\"\n3.  **0:04-0:05**: The human's left hand curls its fingers.\n4.  **0:05-0:06**: The human speaks, stating \"Here are my materials.\"\n5.  **0:05-0:06**: The human's right hand moves towards a white vial.\n6.  **0:06-0:08**: The human's right hand picks up the white vial.\n7.  **0:08-0:10**: The human speaks, stating \"Here is the vial of the PEG.\"\n8.  **0:08-0:10**: The human's gloved hands hold the white vial and bring it closer to the camera to show its label.\n9.  **0:10-0:12**: The human's gloved hands tilt the vial slightly.\n10. **0:11-0:12**: The human speaks an incomplete word, \"in.\"\n11. **0:11-0:12**: The human's gloved hands move the vial away from the camera."
+  },
+  {
+    "clip_index": 20,
+    "actions": "The following is a list of low-level human actions observed in the video, in chronological order:\n- A gloved hand presses the \"ENTER\" button on the spin coater."
+  },
+  {
+    "clip_index": 21,
+    "actions": "The following low-level human actions are observed:\n- A gloved hand presses a button on the spin coater's control panel."
+  },
+  {
+    "clip_index": 22,
+    "actions": "No human actions are observed in the video. The spin coater is operating autonomously."
+  },
+  {
+    "clip_index": 23,
+    "actions": "The following actions are observed:\n- A human hand wearing a blue glove reaches towards a valve assembly.\n- The human hand grasps a knob on the valve.\n- The human hand turns the knob."
+  },
+  {
+    "clip_index": 24,
+    "actions": "The following low-level human actions are observed:\n\n*   The gloved hand reaches towards the right side of the frame.\n*   The gloved hand grasps a pair of tweezers.\n*   The gloved hand lifts the tweezers.\n*   The gloved hand moves the tweezers over a silicon wafer (covered in foil).\n*   The tweezers are lowered towards the silicon wafer.\n*   The tweezers make contact with the corner of the silicon wafer.\n*   The tweezers grasp the corner of the silicon wafer.\n*   The hand holds the silicon wafer with the tweezers."
+  },
+  {
+    "clip_index": 25,
+    "actions": "Here's a list of low-level human actions observed in the video and audio:\n\n*   A person is holding tweezers with a silicon wafer.\n*   A person is holding their left hand over a small orange sample box.\n*   The person's left hand picks up the small orange sample box."
+  },
+  {
+    "clip_index": 26,
+    "actions": "Here's a list of the low-level human actions observed in the video:\n\n- A person is wearing blue gloves.\n- A person is holding a clear plastic box with their left hand.\n- A person is holding tweezers with their right hand.\n- A person opens the clear plastic box with their left hand.\n- A person uses tweezers in their right hand to pick up a silicon wafer.\n- A person places the silicon wafer into the open clear plastic box."
+  },
+  {
+    "clip_index": 27,
+    "actions": "Here are the low-level human actions observed in the video and audio:\n\n1.  Holding a small clear plastic box with the left hand.\n2.  Holding tweezers with the right hand.\n3.  Closing the small clear plastic sample box with the left hand.\n4.  Placing the closed sample box onto the counter with the left hand.\n5.  Placing the tweezers onto the counter with the right hand."
+  },
+  {
+    "clip_index": 2,
+    "actions": "Here's a list of low-level human actions observed in the video:\n\n- A hand in a blue glove holds a clear vial with a white cap.\n- The hand rotates the vial.\n- The hand removes the white cap from the vial.\n- The hand places the white cap down on the surface.\n- The hand places the clear vial down on the surface.\n- The hands pick up a pair of tweezers.\n- The hands demonstrate the tweezers.\n- The hands place the tweezers down on the surface.\n- The hands pick up a glass pipette.\n- The hands pick up a black rubber bulb.\n- The hands attach the black rubber bulb to the top of the glass pipette."
+  },
+  {
+    "clip_index": 3,
+    "actions": "Here's a list of low-level human actions observed in the video:\n\n- The right hand holds a small clear box.\n- The left hand holds a long, thin, needle-like tool.\n- The right hand places the small clear box on the table.\n- The left hand places the long, thin tool on the table.\n- The right hand picks up the small clear box.\n- The right hand opens the small clear box.\n- The right hand closes the small clear box.\n- The right hand places the closed clear box back on the table.\n- A gloved hand (presumably the operator's right hand) approaches the spin coater."
+  },
+  {
+    "clip_index": 4,
+    "actions": "The following low-level human actions are observed in the video:\n\n1.  The left hand reaches for a small clear box.\n2.  The left hand picks up the small clear box.\n3.  The right hand approaches the clear box.\n4.  The right hand opens the clear box.\n5.  The right hand moves away from the open box.\n6.  The right hand reaches for tweezers.\n7.  The right hand picks up the tweezers.\n8.  The right hand moves the tweezers towards the open box."
+  },
+  {
+    "clip_index": 5,
+    "actions": "Here's a list of the low-level human actions observed in the video and audio:\n\n1.  A person's left hand, wearing a blue glove, is holding a clear plastic box containing an orange object and a silicon wafer.\n2.  A person's right hand, wearing a blue glove, is holding black tweezers.\n3.  The right hand, using the tweezers, reaches into the clear box.\n4.  The right hand, using the tweezers, grasps a silicon wafer inside the box.\n5.  The right hand, using the tweezers, lifts the silicon wafer out of the box.\n6.  The right hand holds the silicon wafer with the tweezers, \"shiny side up.\"\n7.  The left hand repositions the clear plastic box.\n8.  The left hand places the clear plastic box on the counter."
+  },
+  {
+    "clip_index": 6,
+    "actions": "- A gloved hand holds a wafer with tweezers.\n- The hand moves the wafer over a spin coater's chuck.\n- The hand places the wafer onto the chuck."
+  },
+  {
+    "clip_index": 7,
+    "actions": "Here are the low-level human actions observed:\n\n1.  A hand (wearing a blue glove and green sleeve) holds a pair of tweezers.\n2.  The tweezers are holding a small, dark, square object (identified as a wafer in the audio).\n3.  The hand carefully lowers the object with the tweezers.\n4.  The hand places the object (wafer) onto a circular, foil-lined surface (referred to as a \"chuck\" in the audio).\n5.  The hand adjusts the position of the wafer to center it."
+  },
+  {
+    "clip_index": 8,
+    "actions": "Here's a list of the low-level human actions observed in the video:\n\n- The human places down the tweezers.\n- The human picks up a small white vial.\n- The human unscrews the cap of the vial."
+  },
+  {
+    "clip_index": 9,
+    "actions": "Here are the low-level human actions observed:\n\n1.  A gloved hand sets down a white vial cap.\n2.  A gloved hand picks up a plastic pipette.\n3.  A gloved hand picks up a black cap."
+  }
+]

@@ -7,6 +7,7 @@ import config
 import os
 from audio_to_text import extract_audio, transcribe_audio
 import json
+from prompts import prompts
 
 def generate_actions(video_path, transcription, clip_index):
     load_dotenv()
@@ -14,76 +15,8 @@ def generate_actions(video_path, transcription, clip_index):
     client = genai.Client(api_key=api_key)
     myfile = client.files.upload(file=video_path)
 
-    prompt = f"""
-        You are an expert observer in a material science laboratory.
-        Your task is to analyze a short video clip and extract the lowest-level
-        human actions being performed.
-
-        You observe:
-        - Physical actions performed by the human
-        - Chemicals, tools, and containers used
-        - Any measurements or quantities involved
-        - Repeated or conditional steps
-
-        Input:
-        You are given:
-        1. A video clip (8–10 seconds) of a human performing actions in a materials science lab.
-        2. An optional audio transcription of the clip.
-        - If the audio contains spoken instructions, use it to inform the actions.
-        - If the audio is background noise, ignore it.
-
-        Transcription of the video's audio:
-        \"\"\"{transcription}\"\"\"
-
-        Goal:
-        Extract the **primitive, low-level actions** performed by the human.
-        Use the video as the primary source of truth.
-        Use audio only when it provides explicit procedural information.
-
-        Guidelines:
-        - List actions in the **exact temporal order** they occur.
-        - Actions must be **atomic** (one physical action per step).
-        - Include tools, chemicals, and measurements when visible or stated.
-        - If an action is repeated consecutively, record it once and set "repeat" > 1.
-        - If a step is performed **only under a condition**, mark it as an additional step
-        and briefly describe the condition.
-        - Do NOT infer intent or future steps beyond what is visible or stated.
-        - If no meaningful lab actions are observable in the clip, return an empty "actions" list.
-        - Do not hallucinate actions when none are visible or stated.
-
-        Output:
-        Return **ONLY valid JSON**.
-        Do not include explanations, markdown, or commentary.
-
-        Use this exact format:
-
-        {{
-        "clip_index": {clip_index},
-        "actions": [
-            {{
-            "step": 1,
-            "action": "pick up reagent bottle",
-            "repeat": 1,
-            "additional_step": false,
-            "condition": null
-            }},
-            {{
-            "step": 2,
-            "action": "scoop powder (≈5 g)",
-            "repeat": 1,
-            "additional_step": false,
-            "condition": null
-            }},
-            {{
-            "step": 3,
-            "action": "shake excess powder off scoop",
-            "repeat": 1,
-            "additional_step": true,
-            "condition": "performed only if excess powder is visible"
-            }}
-        ]
-        }}    
-    """
+    prompt_number = "prompt10"
+    prompt = prompts[prompt_number]["video_clip_prompt"]
 
     while myfile.state.name == "PROCESSING":
         time.sleep(5)

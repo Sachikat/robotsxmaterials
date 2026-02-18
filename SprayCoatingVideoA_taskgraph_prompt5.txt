@@ -1,0 +1,142 @@
+```mermaid
+graph TD
+  s1["position hands in the frame"]
+  s2["shake the cylindrical container"]
+  s3["unscrew the lid of the cylindrical container"]
+  s4["unscrew cap from a small bottle with left hand"]
+  s5["remove cap from the small bottle with left hand"]
+  s6["pick up a spray gun with right hand"]
+  s7["grab the container of the spray gun with left hand"]
+  s8["unscrew the container from the spray gun"]
+  s9["remove the container from the spray gun"]
+  s10["hold a gray bottle"]
+  s11["hold a spray gun"]
+  s12["pour slurry into the spray gun"]
+  s13["screw lid onto bottle"]
+  s14["place bottle on counter"]
+  s15["put the lid back on the spray gun"]
+  s16["A hand in a blue glove enters the frame from the left."]
+  s17["The hand points towards the rectangular object covered with ceramic sheets."]
+  s18["The hand in the blue glove grabs a spray gun."]
+  s19["shake spray gun"]
+  s20["put on mask"]
+  s21["turn on fan"]
+  s22["start spraying"]
+  s23["spray with spray gun"]
+  s24["spray coating a surface"]
+  s25["start a machine"]
+  s26["point to heated plate"]
+  s27["pick up alumina ceramic from a white dish"]
+  s28["pick up bottle"]
+  s29["shake bottle"]
+  s30["point at bottle"]
+  s31["set down bottle"]
+  s32["pick up spray gun"]
+  s33["reach for a white ceramic piece in a dish"]
+  s34["pick up a white ceramic piece from a dish"]
+  s35["hold the white ceramic piece"]
+  s36["pick up small white rectangular object with gloved hand"]
+  s37["place small white rectangular object onto silver-covered box"]
+  s38["pick up small white rectangular object from white dish with gloved hand"]
+  s39["place small white rectangular object onto silver-covered box"]
+  s40["pick up small white rectangular object from white dish with gloved hand"]
+  s41["place small white rectangular object onto silver-covered box"]
+  s42["pick up small white rectangular object from white dish with gloved hand"]
+  s43["place small white rectangular object onto silver-covered box"]
+  s44["pick up a small white square"]
+  s45["place a small white square onto the foil-covered object"]
+  s46["place a small white square onto the foil-covered object"]
+  s47["pick up a small white square from the white bowl"]
+  s48["place a small white square onto the foil-covered object"]
+  s49["place a small white square onto the foil-covered object"]
+  s50["pick up a small white square from the white bowl"]
+  s51["place a small white square onto the foil-covered object"]
+  s52["place a small white square onto the foil-covered object"]
+  s53["pick up a small white square from the white bowl"]
+  s54["place a small white square onto the foil-covered object"]
+  s55["place a small white square onto the foil-covered object"]
+  s56["pick up a small white square from the white bowl"]
+  s57["place a small white square onto the foil-covered object"]
+  s58["place a small white square onto the foil-covered object"]
+  s59["pick up a small white square from the white bowl"]
+  s60["touch ceramic sheets"]
+  s61["reach for bottle"]
+  s62["turn knob"]
+  s63["set heating level"]
+  s64["press buttons on a heating device"]
+  s65["wait for ceramic sheets to get warm"]
+  s66["A gloved hand (blue) enters the frame holding a black bag"]
+  s67["A gloved hand (blue) moves a black bag"]
+  s68["A gloved hand (blue) points at the ceramic sheets covered with foil on a hot plate"]
+  s69["grab bottle"]
+  s70["shake bottle"]
+  s1 --> s2
+  s2 --> s3
+  s3 --> s4
+  s4 --> s5
+  s5 --> s6
+  s6 --> s7
+  s7 --> s8
+  s8 --> s9
+  s9 --> s10
+  s10 --> s11
+  s11 --> s12
+  s12 --> s13
+  s13 --> s14
+  s14 --> s15
+  s15 --> s16
+  s16 --> s17
+  s17 --> s18
+  s18 --> s19
+  s19 --> s20
+  s20 --> s21
+  s21 --> s22
+  s22 --> s23
+  s23 --> s24
+  s24 --> s25
+  s25 --> s26
+  s26 --> s27
+  s27 --> s28
+  s28 --> s29
+  s29 --> s30
+  s30 --> s31
+  s31 --> s32
+  s32 --> s33
+  s33 --> s34
+  s34 --> s35
+  s35 --> s36
+  s36 --> s37
+  s37 --> s38
+  s38 --> s39
+  s39 --> s40
+  s40 --> s41
+  s41 --> s42
+  s42 --> s43
+  s43 --> s44
+  s44 --> s45
+  s45 --> s46
+  s46 --> s47
+  s47 --> s48
+  s48 --> s49
+  s49 --> s50
+  s50 --> s51
+  s51 --> s52
+  s52 --> s53
+  s53 --> s54
+  s54 --> s55
+  s55 --> s56
+  s56 --> s57
+  s57 --> s58
+  s58 --> s59
+  s59 --> s60
+  s60 --> s61
+  s61 --> s62
+  s62 --> s63
+  s63 --> s64
+  s64 --> s65
+  s65 --> s66
+  s66 --> s67
+  s67 --> s68
+  s68 --> s69
+  s69 --> s70
+```

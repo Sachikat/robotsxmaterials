@@ -1,0 +1,430 @@
+[
+  {
+    "clip_index": 0,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place two hands, wearing blue gloves, into the frame"
+      },
+      {
+        "step": 2,
+        "action": "gesture with the fingers of the right hand"
+      },
+      {
+        "step": 3,
+        "action": "gesture with the fingers of the left hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 10,
+    "actions": [
+      {
+        "step": 1,
+        "action": "shake the white bottle"
+      },
+      {
+        "step": 2,
+        "action": "place hands on the white bottle to prepare to unscrew the lid"
+      },
+      {
+        "step": 3,
+        "action": "unscrew the lid of the white bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 11,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up small brown bottle"
+      },
+      {
+        "step": 2,
+        "action": "put down small brown bottle"
+      },
+      {
+        "step": 3,
+        "action": "pick up spray gun"
+      },
+      {
+        "step": 4,
+        "action": "pick up white container"
+      },
+      {
+        "step": 5,
+        "action": "twist off cap from white container"
+      },
+      {
+        "step": 6,
+        "action": "place cap on counter"
+      },
+      {
+        "step": 7,
+        "action": "unscrew container from spray gun"
+      },
+      {
+        "step": 8,
+        "action": "separate container from spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 12,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a bottle of slurry"
+      },
+      {
+        "step": 2,
+        "action": "hold a spray gun"
+      },
+      {
+        "step": 3,
+        "action": "pour the slurry from the bottle into the spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 13,
+    "actions": [
+      {
+        "step": 1,
+        "action": "screw the lid onto the slurry bottle"
+      },
+      {
+        "step": 2,
+        "action": "place the slurry bottle on the counter"
+      },
+      {
+        "step": 3,
+        "action": "pick up the slurry bottle"
+      },
+      {
+        "step": 4,
+        "action": "continue screwing the lid onto the slurry bottle"
+      },
+      {
+        "step": 5,
+        "action": "place the slurry bottle on the counter"
+      }
+    ]
+  },
+  {
+    "clip_index": 14,
+    "actions": [
+      {
+        "step": 1,
+        "action": "put the lid back on the spray gun"
+      },
+      {
+        "step": 2,
+        "action": "hold the spray gun"
+      },
+      {
+        "step": 3,
+        "action": "move left hand"
+      },
+      {
+        "step": 4,
+        "action": "state that the spray gun is ready to spray slurry on the ceramic layers"
+      }
+    ]
+  },
+  {
+    "clip_index": 15,
+    "actions": [
+      {
+        "step": 1,
+        "action": "point at ceramic sheets"
+      },
+      {
+        "step": 2,
+        "action": "pick up spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 16,
+    "actions": [
+      {
+        "step": 1,
+        "action": "shake spray gun"
+      },
+      {
+        "step": 2,
+        "action": "put on mask"
+      }
+    ]
+  },
+  {
+    "clip_index": 17,
+    "actions": [
+      {
+        "step": 1,
+        "action": "turn on the fan"
+      },
+      {
+        "step": 2,
+        "action": "hold the spray gun"
+      },
+      {
+        "step": 3,
+        "action": "activate the spray gun"
+      },
+      {
+        "step": 4,
+        "action": "spray the object"
+      }
+    ]
+  },
+  {
+    "clip_index": 18,
+    "actions": [
+      {
+        "step": 1,
+        "action": "spray samples with a spray gun"
+      },
+      {
+        "step": 2,
+        "action": "adjust the position of the spray gun to cover different samples"
+      },
+      {
+        "step": 3,
+        "action": "continue spraying the samples"
+      }
+    ]
+  },
+  {
+    "clip_index": 19,
+    "actions": [
+      {
+        "step": 1,
+        "action": "A hand holding a black plastic sheet enters the frame from the left"
+      },
+      {
+        "step": 2,
+        "action": "The hand pulls the black plastic sheet towards the brown box-like apparatus"
+      },
+      {
+        "step": 3,
+        "action": "The hand drapes the black plastic sheet over the top of the brown box-like apparatus"
+      },
+      {
+        "step": 4,
+        "action": "The hand adjusts the black plastic sheet to fully cover the brown box-like apparatus"
+      },
+      {
+        "step": 5,
+        "action": "The hand moves out of the frame"
+      }
+    ]
+  },
+  {
+    "clip_index": 1,
+    "actions": [
+      {
+        "step": 1,
+        "action": "point to the heated plate"
+      },
+      {
+        "step": 2,
+        "action": "pick up a piece of alumina ceramic from a white dish"
+      }
+    ]
+  },
+  {
+    "clip_index": 2,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place small white rectangular object into a white dish"
+      },
+      {
+        "step": 2,
+        "action": "pick up gray bottle with a white cap"
+      },
+      {
+        "step": 3,
+        "action": "shake the gray bottle"
+      },
+      {
+        "step": 4,
+        "action": "point at the gray bottle"
+      },
+      {
+        "step": 5,
+        "action": "put the gray bottle down"
+      },
+      {
+        "step": 6,
+        "action": "pick up the blue spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 3,
+    "actions": [
+      {
+        "step": 1,
+        "action": "bring hands together"
+      },
+      {
+        "step": 2,
+        "action": "pick up a white ceramic sheet"
+      },
+      {
+        "step": 3,
+        "action": "hold the ceramic sheet in both hands"
+      }
+    ]
+  },
+  {
+    "clip_index": 4,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up small white rectangular piece"
+      },
+      {
+        "step": 2,
+        "action": "place small white rectangular piece on foil-covered object"
+      },
+      {
+        "step": 3,
+        "action": "pick up second small white rectangular piece"
+      },
+      {
+        "step": 4,
+        "action": "place second small white rectangular piece on foil-covered object"
+      },
+      {
+        "step": 5,
+        "action": "pick up third small white rectangular piece from white dish"
+      },
+      {
+        "step": 6,
+        "action": "place third small white rectangular piece on foil-covered object"
+      },
+      {
+        "step": 7,
+        "action": "pick up fourth small white rectangular piece from white dish"
+      },
+      {
+        "step": 8,
+        "action": "place fourth small white rectangular piece on foil-covered object"
+      }
+    ]
+  },
+  {
+    "clip_index": 5,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up a white square from a white dish"
+      },
+      {
+        "step": 2,
+        "action": "place the white square onto the aluminum-covered object"
+      },
+      {
+        "step": 3,
+        "action": "pick up a white square from a white dish"
+      },
+      {
+        "step": 4,
+        "action": "place the white square onto the aluminum-covered object"
+      },
+      {
+        "step": 5,
+        "action": "pick up a white square from a white dish"
+      },
+      {
+        "step": 6,
+        "action": "place the white square onto the aluminum-covered object"
+      },
+      {
+        "step": 7,
+        "action": "pick up a white square from a white dish"
+      },
+      {
+        "step": 8,
+        "action": "place the white square onto the aluminum-covered object"
+      }
+    ]
+  },
+  {
+    "clip_index": 6,
+    "actions": [
+      {
+        "step": 1,
+        "action": "point at ceramic sheets on the heated plate"
+      },
+      {
+        "step": 2,
+        "action": "pick up a white bottle"
+      },
+      {
+        "step": 3,
+        "action": "set the white bottle down"
+      },
+      {
+        "step": 4,
+        "action": "turn a knob on the heated plate"
+      }
+    ]
+  },
+  {
+    "clip_index": 7,
+    "actions": [
+      {
+        "step": 1,
+        "action": "Human counts aloud, 'one, two, three'"
+      },
+      {
+        "step": 2,
+        "action": "Human's right hand presses controls on the heating device"
+      },
+      {
+        "step": 3,
+        "action": "Human states they are waiting for ceramic sheets to warm"
+      }
+    ]
+  },
+  {
+    "clip_index": 8,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move gloved hand into the frame"
+      },
+      {
+        "step": 2,
+        "action": "point gloved finger at the ceramic sheets on the warming device"
+      },
+      {
+        "step": 3,
+        "action": "move gloved hand away from the warming device"
+      },
+      {
+        "step": 4,
+        "action": "rest gloved hand on the counter"
+      }
+    ]
+  },
+  {
+    "clip_index": 9,
+    "actions": [
+      {
+        "step": 1,
+        "action": "grab the slurry bottle"
+      },
+      {
+        "step": 2,
+        "action": "shake the slurry bottle"
+      }
+    ]
+  }
+]

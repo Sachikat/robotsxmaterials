@@ -1,0 +1,120 @@
+[
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  {\n    \"action\": \"The person picks up a clear glass pipette with their right hand.\"\n  },\n  {\n    \"action\": \"The person states the instruction: 'Place black cap on end of glass pipette.'\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold a small clear vial in the left hand.\"\n  },\n  {\n    \"action\": \"Hold a dropper with a black bulb in the right hand.\"\n  },\n  {\n    \"action\": \"Position the dropper tip above the vial opening.\"\n  },\n  {\n    \"action\": \"Push down gently on the dropper bulb.\"\n  },\n  {\n    \"action\": \"Dispense liquid from the dropper into the vial.\"\n  },\n  {\n    \"action\": \"Repeat pushing down on the dropper bulb and dispensing liquid into the vial.\"\n  },\n  {\n    \"action\": \"Repeat pushing down on the dropper bulb and dispensing liquid into the vial again.\"\n  },\n  {\n    \"action\": \"Repeat pushing down on the dropper bulb and dispensing liquid into the vial a third time.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear vial with the left hand\"\n  },\n  {\n    \"action\": \"hold a pipette with the right hand\"\n  },\n  {\n    \"action\": \"squeeze the black knob on top of the pipette with the right hand\"\n  },\n  {\n    \"action\": \"lower the tip of the pipette into the clear vial\"\n  },\n  {\n    \"action\": \"dispense liquid from the pipette into the clear vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a small vial in the left gloved hand\"\n  },\n  {\n    \"action\": \"hold a pipette in the right gloved hand with the tip in the solution inside the vial\"\n  },\n  {\n    \"action\": \"release the thumb from the black bulb/nub of the pipette\"\n  },\n  {\n    \"action\": \"observe solution being drawn into the pipette\"\n  }\n]\n```"
+  },
+  {
+    "action": "Lift pipette out of the small clear vial"
+  },
+  {
+    "action": "Place the small clear vial down on the surface"
+  },
+  {
+    "action": "Position the pipette over the spin coater"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold a pipette with a gloved hand\"\n  },\n  {\n    \"action\": \"Position the pipette over the center of the silicon substrate\"\n  },\n  {\n    \"action\": \"Slowly press the black knob at the end of the pipette\"\n  },\n  {\n    \"action\": \"Dispense solution onto the silicon substrate\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"distributing polymer solution onto a wafer using a pipette\",\n    \"start_time\": \"00:00\",\n    \"end_time\": \"00:10\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand, wearing a blue glove, holds a glass pipette containing liquid, positioned over a foil-lined circular depression on a spin coater.\"\n  },\n  {\n    \"action\": \"The hand continues to hold the glass pipette steady over the spin coater.\"\n  },\n  {\n    \"action\": \"The hand lifts the glass pipette away from the spin coater.\"\n  },\n  {\n    \"action\": \"The hand moves the glass pipette to the right and places it horizontally on the surface of the spin coater.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  {\n    \"action\": \"right hand picks up white lid\"\n  },\n  {\n    \"action\": \"left hand picks up solution vial\"\n  },\n  {\n    \"action\": \"right hand places white lid on the solution vial\"\n  },\n  {\n    \"action\": \"left hand places the capped solution vial on the counter\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand reaches for a valve on the wall.\"\n  },\n  {\n    \"action\": \"A gloved hand turns the valve knob to a vertical position.\"\n  },\n  {\n    \"action\": \"The spin coater display lights up and shows 'Initializing...'.\"\n  },\n  {\n    \"action\": \"The spin coater display shows 'Display Software Version 1.00'.\"\n  },\n  {\n    \"action\": \"The spin coater display shows a blank blue screen.\"\n  },\n  {\n    \"action\": \"The spin coater display shows 'SPECIALTY COATING SYSTEMS SPINCOAT 6800HP Version 2.0.5'.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  \"Right hand picks up a white vial\",\n  \"Right hand holds the white vial up to the camera\",\n  \"Right hand holds and slightly turns the white vial\"\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand in a blue glove presses the ENTER button on the SCS 6800 Spin Coater Series machine.\"\n  }\n]\n```"
+  },
+  {
+    "action": "A gloved hand (blue glove) enters the frame from the right"
+  },
+  {
+    "action": "A gloved finger points at the display screen of the 'SCS 6800 Spin Coater Series' machine"
+  },
+  {
+    "action": "The gloved finger remains pointing at the display screen of the 'SCS 6800 Spin Coater Series' machine, monitoring the 'Time Left' countdown"
+  },
+  {
+    "clip_index": 22,
+    "actions": "```json\n[\n  {\n    \"action\": \"A human hand appears on the left side of the frame\"\n  },\n  {\n    \"action\": \"A human hand disappears from the left side of the frame\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 23,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand reaches into the frame towards a valve.\"\n  },\n  {\n    \"action\": \"The gloved hand grasps a black knob on the valve assembly.\"\n  },\n  {\n    \"action\": \"The gloved hand twists the black knob downwards.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 24,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hand (wearing a blue glove) reaches towards tweezers.\"\n  },\n  {\n    \"action\": \"Hand picks up tweezers.\"\n  },\n  {\n    \"action\": \"Hand (wearing a blue glove) uses tweezers to grasp the corner of a silicon wafer in a dish lined with aluminum foil.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 25,
+    "actions": "```json\n[\n  {\n    \"action\": \"Human uses tweezers to hold a silicon wafer over a metal dish.\"\n  },\n  {\n    \"action\": \"Human moves the silicon wafer towards a small clear plastic box.\"\n  },\n  {\n    \"action\": \"Human picks up a small clear plastic sample box with their left hand.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 26,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold an unopened clear plastic sample box in the left hand\"\n  },\n  {\n    \"action\": \"hold tweezers in the right hand\"\n  },\n  {\n    \"action\": \"open the clear plastic sample box with the left hand\"\n  },\n  {\n    \"action\": \"use tweezers in the right hand to pick up a silicon wafer from the open clear plastic sample box\"\n  },\n  {\n    \"action\": \"hold the silicon wafer with tweezers in the right hand\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 27,
+    "actions": "```json\n[\n  {\n    \"action\": \"Hold an open clear plastic sample box in the left gloved hand, revealing an iridescent sample.\"\n  },\n  {\n    \"action\": \"Hold a pair of black tweezers in the right gloved hand.\"\n  },\n  {\n    \"action\": \"Position the tweezers to grasp the sample from the clear plastic box.\"\n  },\n  {\n    \"action\": \"Grasp the iridescent sample with the tweezers.\"\n  },\n  {\n    \"action\": \"Lift the sample out of the clear plastic box using the tweezers.\"\n  },\n  {\n    \"action\": \"Close the clear plastic sample box.\"\n  },\n  {\n    \"action\": \"Place the closed clear plastic sample box on the table.\"\n  },\n  {\n    \"action\": \"Place the sample (held by tweezers) into the silver-lined dish on the table.\"\n  },\n  {\n    \"action\": \"Release the sample from the tweezers.\"\n  },\n  {\n    \"action\": \"Place the tweezers down on the table next to a glass pipette.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear glass vial with a white cap\"\n  },\n  {\n    \"action\": \"twist and remove the white cap from the vial\"\n  },\n  {\n    \"action\": \"place the white cap on the surface\"\n  },\n  {\n    \"action\": \"place the open vial on the surface\"\n  },\n  {\n    \"action\": \"point to tweezers on the surface with the left hand\"\n  },\n  {\n    \"action\": \"point to a glass pipette on the surface with the right hand\"\n  },\n  {\n    \"action\": \"pick up black tweezers with the left hand\"\n  },\n  {\n    \"action\": \"hold and display the black tweezers\"\n  },\n  {\n    \"action\": \"place the black tweezers back onto the surface\"\n  },\n  {\n    \"action\": \"pick up a glass pipette with the right hand\"\n  },\n  {\n    \"action\": \"pick up a black rubber bulb with the left hand\"\n  },\n  {\n    \"action\": \"bring the black rubber bulb towards the top of the glass pipette\"\n  },\n  {\n    \"action\": \"place the black rubber bulb onto the top end of the glass pipette\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 3,
+    "actions": "```json\n[\n  {\n    \"action\": \"place tweezers on the surface\"\n  },\n  {\n    \"action\": \"pick up a black cylindrical cap\"\n  },\n  {\n    \"action\": \"place the black cylindrical cap on the surface\"\n  },\n  {\n    \"action\": \"pick up a clear wafer box with an orange label\"\n  },\n  {\n    \"action\": \"open the clear wafer box\"\n  },\n  {\n    \"action\": \"close the clear wafer box\"\n  },\n  {\n    \"action\": \"place the clear wafer box on the surface\"\n  },\n  {\n    \"action\": \"reposition the clear wafer box\"\n  },\n  {\n    \"action\": \"move hand towards the spin coater\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\n    \"action\": \"Pick up the clear plastic sample box labeled 'Sample A' with the left hand\"\n  },\n  {\n    \"action\": \"Open the clear plastic sample box with the left hand\"\n  },\n  {\n    \"action\": \"Pick up the black tweezers with the right hand\"\n  },\n  {\n    \"action\": \"Hold the tweezers with the right hand above the open sample box\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up silicon wafer with tweezers\"\n  },\n  {\n    \"action\": \"orient silicon wafer shiny side up\"\n  },\n  {\n    \"action\": \"place silicon wafer into the box\"\n  },\n  {\n    \"action\": \"close the box\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"action\": \"A hand, gloved in blue, holds tweezers with a wafer.\"\n  },\n  {\n    \"action\": \"The hand moves the tweezers to position the wafer over the chuck of the spin coater.\"\n  },\n  {\n    \"action\": \"The hand carefully places the wafer onto the chuck using the tweezers.\"\n  },\n  {\n    \"action\": \"The hand adjusts the wafer's position on the chuck using the tweezers.\"\n  },\n  {\n    \"action\": \"The hand retracts the tweezers from the chuck.\"\n  },\n  {\n    \"action\": \"The hand moves the tweezers away from the chuck area.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  \"The human's gloved hand holds tweezers gripping a small, dark, square wafer.\",\n  \"The human lowers the tweezers and wafer towards a circular container lined with aluminum foil.\",\n  \"The human carefully positions the wafer in the center of the foil-lined container.\",\n  \"The human ensures the wafer is shiny side up during placement.\",\n  \"The human slightly lifts the tweezers away from the wafer, leaving it in the container.\"\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\n    \"action\": \"Place down the tweezers\"\n  },\n  {\n    \"action\": \"Pick up the vial labeled PET phenylacetonitrile\"\n  },\n  {\n    \"action\": \"Open the vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear vial with the left hand\"\n  },\n  {\n    \"action\": \"hold a white cap with the right hand\"\n  },\n  {\n    \"action\": \"place the white cap on the surface of the spin coater with the right hand\"\n  },\n  {\n    \"action\": \"pick up a clear plastic pipette with the right hand\"\n  },\n  {\n    \"action\": \"insert the pipette into the clear vial with the right hand\"\n  }\n]\n```"
+  }
+]

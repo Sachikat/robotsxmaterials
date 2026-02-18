@@ -1,0 +1,342 @@
+```mermaid
+graph TD
+A0["pick up tweezers"]
+A1["place tweezers down"]
+A2["pick up two empty vials"]
+A3["hold up the two vials, one labeled acetonitrile and the other cyclohexanone"]
+A4["place the two vials down"]
+A5["hold two sample boxes, each containing two wafers"]
+A6["place two sample boxes on the counter"]
+A7["pick up a measuring cylinder"]
+A8["Hold beaker with white substance and stir bar"]
+A9["Rotate beaker"]
+A10["Set beaker down on foil-covered surface"]
+A11["Pick up large amber bottle labeled Acetonitrile"]
+A12["Set down large amber bottle labeled Acetonitrile"]
+A13["Pick up second large amber bottle (likely Cyclohexanone based on audio)"]
+A14["Set down second large amber bottle"]
+A15["Reach for cap of acetonitrile bottle"]
+A16["Twist blue cap of acetonitrile bottle"]
+A17["place glass cylinder into waste basket"]
+A18["reach for the lid of the acetonitrile bottle"]
+A19["twist the lid of the acetonitrile bottle"]
+A20["place lid down"]
+A21["pick up acetonitrile bottle"]
+A22["tip over acetonitrile bottle"]
+A23["hold a dark bottle with a gloved hand"]
+A24["position a gloved hand near a clear glass beaker"]
+A25["adjust the position of the dark bottle, moving it closer to the glass beaker"]
+A26["adjust the position of the glass beaker with a gloved hand"]
+A27["Hold a large dark brown bottle with the right gloved hand"]
+A28["Grasp the top of the large dark brown bottle with the left gloved hand"]
+A29["Stabilize the large dark brown bottle with both gloved hands over a clear glass beaker"]
+A30["Say "Gemini""]
+A31["Say "Observe""]
+A32["pick up large brown bottle"]
+A33["twist off red cap from the bottle"]
+A34["pour liquid from the bottle into the beaker"]
+A35["pour liquid from a large brown bottle into a beaker"]
+A36["stop pouring liquid once 10 milliliters are achieved"]
+A37["lift the large brown bottle"]
+A38["set the large brown bottle down on the counter"]
+A39["pick up the large brown bottle"]
+A40["pick up the lid of the acetonitrile bottle"]
+A41["move the lid towards the opening of the acetonitrile bottle"]
+A42["place the lid onto the opening of the acetonitrile bottle"]
+A43["twist the lid to close the acetonitrile bottle"]
+A44["twist close cap of large dark bottle"]
+A45["pick up vial labeled acetonitrile"]
+A46["twist open cap of vial"]
+A47["place cap on the table"]
+A48["pick up glass cylinder"]
+A49["move vial over waste basket"]
+A50["tip glass cylinder"]
+A51["transfer solution into vial"]
+A52["hold a small clear vial above a beaker"]
+A53["hold a large brown bottle"]
+A54["transfer solution from the large brown bottle into the small clear vial using a pipette"]
+A55["set the small clear vial into the waste basket"]
+A56["pick up vial"]
+A57["place white cap on vial"]
+A58["twist cap to close vial"]
+A59["place vial down"]
+A60["pick up bottle of isopropanol"]
+A61["squeeze bottle of isopropanol"]
+A62["hold wash bottle of isopropanol"]
+A63["pour isopropanol into graduated cylinder"]
+A64["put down wash bottle"]
+A65["pick up graduated cylinder"]
+A66["swirl graduated cylinder in beaker"]
+A67["hold cylinder over waste container"]
+A68["pour contents from cylinder into waste container"]
+A69["place glass cylinder into a beaker"]
+A70["pick up a brown bottle"]
+A71["twist open the red cap of the brown bottle"]
+A72["twist the cap of the cyclohexanone bottle"]
+A73["remove the cap from the cyclohexanone bottle"]
+A74["place the red cap on the surface"]
+A75["pick up the bottle of cyclohexanone"]
+A76["hold large brown bottle with two hands"]
+A77["hold glass beaker with stirring rod inside"]
+A78["tilt large brown bottle over glass beaker"]
+A79["pour liquid from large brown bottle into glass beaker"]
+A80["put down the small white bottle labeled 'ISOPROPANOL'"]
+A81["pick up the red cap"]
+A82["place the red cap on the large brown bottle"]
+A83["twist the red cap to close the large brown bottle of cyclohexanone"]
+A84["put on blue glove on left hand"]
+A85["put on blue glove on right hand"]
+A86["grab beaker with both gloved hands"]
+A87["adjust stirring rod inside the beaker"]
+A88["hold a clear beaker with the left hand"]
+A89["hold a graduated cylinder with the right hand"]
+A90["pour liquid from the graduated cylinder into the beaker"]
+A91["lift the graduated cylinder out of the beaker"]
+A92["lower the graduated cylinder back into the beaker"]
+A93["lift the graduated cylinder out of the beaker again"]
+A94["hold clear glass beaker with left hand"]
+A95["hold graduated cylinder containing blue liquid with right hand"]
+A96["insert graduated cylinder into beaker"]
+A97["pour blue liquid from graduated cylinder into beaker"]
+A98["lift graduated cylinder out of beaker"]
+A99["hold thermometer with right hand"]
+A100["insert thermometer into glass beaker"]
+A101["adjust thermometer within the beaker"]
+A102["hold a graduated cylinder with liquid in the right hand"]
+A103["lower the graduated cylinder into a beaker"]
+A104["measure 10 milliliters of liquid in the graduated cylinder"]
+A105["place the graduated cylinder down"]
+A106["pick up a small clear vial with a white cap"]
+A107["hold the cyclohexanone vial"]
+A108["unscrew cap from vial"]
+A109["remove cap from vial"]
+A110["place cap on workbench"]
+A111["position vial over beaker"]
+A112["pour contents from graduated cylinder into vial"]
+A113["pour liquid from the amber bottle into the glass cylinder using a pipet"]
+A114["set the glass cylinder down into the waste basket"]
+A115["pick up the lid"]
+A116["place the lid onto the glass cylinder"]
+A117["twist cap onto vial"]
+A118["set vial down"]
+A119["pick up vial"]
+A120["pick up a square sample container"]
+A121["pick up a second square sample container"]
+A122["hold sample box 1 and sample box 2"]
+A123["bring sample box 1 and sample box 2 closer together"]
+A124["open sample box 1"]
+A125["twist open the cap of the vial inside sample box 1"]
+A126["Twist off the cap from the small vial"]
+A127["Remove the cap from the small vial"]
+A128["Place the cap face down on the surface"]
+A129["Place the small vial down on the surface"]
+A130["Pick up tweezers"]
+A131["grab wafer with tweezers"]
+A132["set sample box down"]
+A133["pick up vial"]
+A134["hold a clear vial with a liquid and a wafer inside"]
+A135["hold tweezers in the other hand"]
+A136["insert tweezers into the clear vial"]
+A137["adjust the wafer inside the vial with tweezers"]
+A138["remove tweezers from the clear vial"]
+A139["move the clear vial to the left"]
+A140["move tweezers towards a clear plastic container on the table"]
+A141["use tweezers to pick up a small, orange, rectangular wafer from the clear plastic container"]
+A142["pick up the second wafer from the sample box using tweezers"]
+A143["place the second wafer inside the solution vial labeled Gemini using tweezers"]
+A144["hold vial with left hand"]
+A145["hold black marker with right hand"]
+A146["move black marker towards the white cap of the vial"]
+A147["place black marker onto the white cap of the vial"]
+A148["twist off the white cap of the vial with the right hand"]
+A149["remove the white cap labeled '2' from the vial"]
+A150["place the vial down onto the foil-covered surface with the left hand"]
+A151["place the white cap labeled '2' down onto the foil-covered surface with the right hand"]
+A152["pick up a second vial with the left hand"]
+A153["pick up the black marker with the right hand"]
+A154["move the black marker towards the white cap labeled 'Gemini' of the second vial"]
+A155["place the black marker onto the white cap of the second vial"]
+A156["twist off the white cap labeled 'Gemini' of the second vial with the right hand"]
+A157["open the lid of the clear vial"]
+A158["pick up sample box 2 with the right hand"]
+A159["use tweezers to pick up a wafer from sample box 2"]
+A160["move the wafer with tweezers into the clear vial"]
+A161["hold clear vial with left gloved hand"]
+A162["hold tweezers with right gloved hand"]
+A163["grab wafer from inside clear vial using tweezers"]
+A164["release wafer into clear vial using tweezers"]
+A165["grab wafer from inside clear vial using tweezers"]
+A166["release wafer into clear vial using tweezers"]
+A167["twist and close lid on vial"]
+A168["set vial down"]
+A169["set tweezers down"]
+A0 --> A1
+A1 --> A2
+A2 --> A3
+A3 --> A4
+A4 --> A5
+A5 --> A6
+A6 --> A7
+A7 --> A8
+A8 --> A9
+A9 --> A10
+A10 --> A11
+A11 --> A12
+A12 --> A13
+A13 --> A14
+A14 --> A15
+A15 --> A16
+A16 --> A17
+A17 --> A18
+A18 --> A19
+A19 --> A20
+A20 --> A21
+A21 --> A22
+A22 --> A23
+A23 --> A24
+A24 --> A25
+A25 --> A26
+A26 --> A27
+A27 --> A28
+A28 --> A29
+A29 --> A30
+A30 --> A31
+A31 --> A32
+A32 --> A33
+A33 --> A34
+A34 --> A35
+A35 --> A36
+A36 --> A37
+A37 --> A38
+A38 --> A39
+A39 --> A40
+A40 --> A41
+A41 --> A42
+A42 --> A43
+A43 --> A44
+A44 --> A45
+A45 --> A46
+A46 --> A47
+A47 --> A48
+A48 --> A49
+A49 --> A50
+A50 --> A51
+A51 --> A52
+A52 --> A53
+A53 --> A54
+A54 --> A55
+A55 --> A56
+A56 --> A57
+A57 --> A58
+A58 --> A59
+A59 --> A60
+A60 --> A61
+A61 --> A62
+A62 --> A63
+A63 --> A64
+A64 --> A65
+A65 --> A66
+A66 --> A67
+A67 --> A68
+A68 --> A69
+A69 --> A70
+A70 --> A71
+A71 --> A72
+A72 --> A73
+A73 --> A74
+A74 --> A75
+A75 --> A76
+A76 --> A77
+A77 --> A78
+A78 --> A79
+A79 --> A80
+A80 --> A81
+A81 --> A82
+A82 --> A83
+A83 --> A84
+A84 --> A85
+A85 --> A86
+A86 --> A87
+A87 --> A88
+A88 --> A89
+A89 --> A90
+A90 --> A91
+A91 --> A92
+A92 --> A93
+A93 --> A94
+A94 --> A95
+A95 --> A96
+A96 --> A97
+A97 --> A98
+A98 --> A99
+A99 --> A100
+A100 --> A101
+A101 --> A102
+A102 --> A103
+A103 --> A104
+A104 --> A105
+A105 --> A106
+A106 --> A107
+A107 --> A108
+A108 --> A109
+A109 --> A110
+A110 --> A111
+A111 --> A112
+A112 --> A113
+A113 --> A114
+A114 --> A115
+A115 --> A116
+A116 --> A117
+A117 --> A118
+A118 --> A119
+A119 --> A120
+A120 --> A121
+A121 --> A122
+A122 --> A123
+A123 --> A124
+A124 --> A125
+A125 --> A126
+A126 --> A127
+A127 --> A128
+A128 --> A129
+A129 --> A130
+A130 --> A131
+A131 --> A132
+A132 --> A133
+A133 --> A134
+A134 --> A135
+A135 --> A136
+A136 --> A137
+A137 --> A138
+A138 --> A139
+A139 --> A140
+A140 --> A141
+A141 --> A142
+A142 --> A143
+A143 --> A144
+A144 --> A145
+A145 --> A146
+A146 --> A147
+A147 --> A148
+A148 --> A149
+A149 --> A150
+A150 --> A151
+A151 --> A152
+A152 --> A153
+A153 --> A154
+A154 --> A155
+A155 --> A156
+A156 --> A157
+A157 --> A158
+A158 --> A159
+A159 --> A160
+A160 --> A161
+A161 --> A162
+A162 --> A163
+A163 --> A164
+A164 --> A165
+A165 --> A166
+A166 --> A167
+A167 --> A168
+A168 --> A169
+```

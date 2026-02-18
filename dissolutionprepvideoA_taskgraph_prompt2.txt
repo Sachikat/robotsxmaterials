@@ -1,0 +1,39 @@
+```mermaid
+graph TD
+    start_node[Start] --> A{Initial Setup & Safety};
+
+    A --> A1[Put on gloves];
+    A1 --> A2[Identify and place chemicals, vials, and sample boxes];
+    A2 --> A3[Perform initial speaking / observations];
+
+    A3 --> B{Prepare Main Solution};
+    B --> B1[Open main chemical bottle (e.g., Acetonitrile)];
+    B1 --> B2[Prepare glassware for measurement (beaker, graduated cylinder)];
+    B2 --> B3_loop{Pour & Measure Liquid};
+    B3_loop --> B4[Pour liquid from bottle into beaker/cylinder];
+    B4 --> B5[Stop pouring, place bottle on scale, or observe volume (e.g., 10 ml)];
+    B5 -- "If more liquid needed" --> B3_loop;
+    B3_loop --> B6[Transfer measured liquid to main beaker];
+    B6 --> B7[Mix solution (stirring)];
+    B7 --> B8[Transfer liquid from beaker/cylinder to small vial (if needed)];
+    B8 --> B9[Close main chemical bottle];
+
+    B9 --> C{Prepare Samples (Load Wafers into Vials)};
+    C --> C1[Open sample box(es)];
+    C1 --> C2_loop{For Each Sample Vial};
+    C2_loop -- "No more vials" --> D{Cleanup & Closeout};
+    C2_loop -- "Process next vial" --> C3[Pick up and open vial];
+    C3 --> C4[Pick up tweezers];
+    C4 --> C5[Grab wafer/chip from sample box with tweezers];
+    C5 --> C6[Place wafer into vial];
+    C6 --> C7[Adjust wafer in vial (optional)];
+    C7 --> C8[Close vial with cap];
+    C8 --> C9[Set vial down and set tweezers down];
+    C9 --> C2_loop;
+
+    D --> D1[Dispense cleaning liquid (e.g., Isopropanol) into glassware];
+    D1 --> D2[Clean glassware (rinse/swirl cylinder/beaker)];
+    D2 --> D3[Dispose of waste liquid and used glassware into waste containers];
+    D3 --> D4[Close all chemical bottles and replace caps];
+    D4 --> end_node[End];
+```

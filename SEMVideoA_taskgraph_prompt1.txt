@@ -1,0 +1,22 @@
+```mermaid
+graph TD
+    A(Start) --> B[Put on Gloves]
+    B --> C[Introduce SEM Task & Sputter Coater]
+    C --> D[Gather Tools: Stub, Carbon Tape, Scissors, Tweezers]
+    D --> E[Identify & Retrieve Raw Sample]
+    E --> F[Cut Carbon Tape & Attach to Stub]
+    F --> G[Peel Protective Film & Secure Tape on Stub]
+    G --> H[Place Raw Sample onto Stub with Tweezers]
+    H --> I[Secure Sample by Pressing with Tweezers]
+    I --> J[Introduce Sputtering Goal & Machine]
+    J --> K[Open Sputter Coater Chamber Lid]
+    K --> L[Load Sample Stub into Chamber]
+    L --> M[Close Chamber Lid & Secure Seal]
+    M --> N[Power On Sputter Coater]
+    N --> O[Engage Sputtering Process]
+    O --> P[Wait for Sputtering to Complete]
+    P --> Q[Disengage Sputter Process Lever]
+    Q --> R[Open Chamber Lid]
+    R --> S[Retrieve Sputtered Sample]
+    S --> T(End)
+```

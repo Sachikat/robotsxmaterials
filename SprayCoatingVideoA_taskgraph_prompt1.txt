@@ -1,0 +1,31 @@
+```mermaid
+graph TD
+    Start((Start)) --> Intro(Introduce project and goal);
+
+    Intro --> Prepare_Substrates_Group(Prepare Substrates);
+    Prepare_Substrates_Group --> Pick_Ceramics[Pick up white rectangular ceramic pieces];
+    Pick_Ceramics --> Place_on_Heater[Place ceramic pieces onto heated plate];
+
+    Place_on_Heater --> Preheat_Substrates_Group(Preheat Substrates);
+    Preheat_Substrates_Group --> Turn_on_Heater[Turn on heating plate knob];
+    Turn_on_Heater --> Wait_for_Warm[Wait for ceramic sheets to warm up];
+
+    Wait_for_Warm --> Prepare_Slurry_Gun_Group(Prepare Slurry and Spray Gun);
+    Prepare_Slurry_Gun_Group --> Shake_Slurry[Shake slurry bottles];
+    Shake_Slurry --> Disassemble_Gun[Unscrew spray gun cup from spray gun];
+    Disassemble_Gun --> Pour_Slurry[Pour slurry from bottle into spray gun cup];
+    Pour_Slurry --> Reassemble_Gun[Screw spray gun cup back onto spray gun];
+
+    Reassemble_Gun --> Prep_for_Spray_Group(Prepare for Spraying);
+    Prep_for_Spray_Group --> Grab_Spray_Gun[Grab spray gun];
+    Grab_Spray_Gun --> Shake_Spray_Gun[Shake loaded spray gun];
+    Shake_Spray_Gun --> Put_on_Mask[Put on mask (implied by audio)];
+    Put_on_Mask --> Turn_on_Fan[Turn on fan];
+
+    Turn_on_Fan --> Perform_Spraying_Group(Perform Spraying);
+    Perform_Spraying_Group --> Squeeze_Trigger[Squeeze spray gun trigger];
+    Squeeze_Trigger --> Spray_Material[Spray material onto objects];
+    Spray_Material --> Move_Gun[Move spray gun for even coverage];
+
+    Move_Gun --> End((End));
+```

@@ -1,0 +1,97 @@
+[
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a small white rectangular sample in the left hand\"\n  },\n  {\n    \"action\": \"hold tweezers in the right hand\"\n  },\n  {\n    \"action\": \"use tweezers to break off a small piece of the white sample\"\n  },\n  {\n    \"action\": \"pick up a small metal holder with the left hand\"\n  },\n  {\n    \"action\": \"place the small white sample piece onto the black sticky carbon tape on the metal holder with the right hand\"\n  },\n  {\n    \"action\": \"press the small white sample piece onto the carbon tape using the back of the tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a gold-colored semicircular object with a white circular insert in the left gloved hand\"\n  },\n  {\n    \"action\": \"pick up a small white rectangular piece with tweezers using the right gloved hand\"\n  },\n  {\n    \"action\": \"place the small white rectangular piece onto the white circular insert of the gold-colored object\"\n  },\n  {\n    \"action\": \"adjust the position of the white rectangular piece on the gold-colored object using the tweezers\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 12,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a sample with a gloved right hand\"\n  },\n  {\n    \"action\": \"gesture with a gloved left hand over a sputter coater\"\n  },\n  {\n    \"action\": \"verbally state the intention to cover the surface of the sample with gold using a gold sputtering coater\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold the lid of the chamber with the left hand\"\n  },\n  {\n    \"action\": \"hold a metallic sample with the right hand\"\n  },\n  {\n    \"action\": \"place the metallic sample into the chamber with the right hand\"\n  },\n  {\n    \"action\": \"point at the sample inside the chamber with the right index finger\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 14,
+    "actions": "```json\n[\n  {\n    \"action\": \"place the lid onto the main body of the device\"\n  },\n  {\n    \"action\": \"press down on the red part of the lid with the right hand\"\n  },\n  {\n    \"action\": \"reach for the vacuum valve with the left hand\"\n  },\n  {\n    \"action\": \"turn the vacuum valve with the left hand\"\n  },\n  {\n    \"action\": \"place the right hand on the lid\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[\n  {\n    \"action\": \"place gloved hand on red cover of carbon coater\"\n  },\n  {\n    \"action\": \"remove gloved hand from red cover\"\n  },\n  {\n    \"action\": \"move gloved hand to the side of the carbon coater\"\n  },\n  {\n    \"action\": \"press red power switch on the carbon coater\"\n  },\n  {\n    \"action\": \"observe the pressure gauge on the carbon coater\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"point to the display on the machine\",\n    \"start_time\": 6,\n    \"end_time\": 7\n  },\n  {\n    \"action\": \"press the start button on the machine\",\n    \"start_time\": 11,\n    \"end_time\": 12\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"press a button on the machine\"\n  },\n  {\n    \"action\": \"wait for the countdown to be completed\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  {\n    \"action\": \"place gloved hand on the equipment\"\n  },\n  {\n    \"action\": \"press the red power button on the equipment\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  \"turn off the vacuum valve\",\n  \"place a red rectangular object on top of a silver cylindrical object\"\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up a stub with a gloved hand\"\n  },\n  {\n    \"action\": \"hold the stub\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  \"lift red object with silver lid\",\n  \"open lid of chamber\",\n  \"reach right gloved hand into chamber\",\n  \"grab sample with tweezers from chamber\"\n]\n```"
+  },
+  {
+    "clip_index": 21,
+    "actions": "```json\n[\n  \"A gloved left hand holds a metallic instrument component\",\n  \"A gloved right hand holds a small, circular, metallic sample\",\n  \"The right hand slightly rotates the sample to display it\",\n  \"The person verbally identifies the sample as the final version, coated with gold on top\"\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold sample holder\"\n  },\n  {\n    \"action\": \"place sample holder on surface\"\n  },\n  {\n    \"action\": \"pick up a piece of carbon tape\"\n  },\n  {\n    \"action\": \"hold carbon tape\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 3,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up tweezers\"\n  },\n  {\n    \"action\": \"place tweezers down\"\n  },\n  {\n    \"action\": \"point to scissors\"\n  },\n  {\n    \"action\": \"pick up plastic bag containing a sample\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up carbon tape\"\n  },\n  {\n    \"action\": \"hold carbon tape\"\n  },\n  {\n    \"action\": \"grab scissors\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a strip of carbon tape with a gloved hand\"\n  },\n  {\n    \"action\": \"cut a small piece from the carbon tape using scissors\"\n  },\n  {\n    \"action\": \"hold the small cut piece of carbon tape with one gloved hand\"\n  },\n  {\n    \"action\": \"pick up a metallic stub with the other gloved hand\"\n  },\n  {\n    \"action\": \"stick the carbon tape onto the metallic stub\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold the metallic stub with a white piece on its surface\"\n  },\n  {\n    \"action\": \"firmly press the white piece on the stub for better adhesion\"\n  },\n  {\n    \"action\": \"hold the stub\"\n  }\n]\n```"
+  },
+  {
+    "action": "hold a small, rectangular object with the left gloved hand"
+  },
+  {
+    "action": "pick up tweezers with the right gloved hand"
+  },
+  {
+    "action": "grasp a white protective film on top of the object using the tweezers"
+  },
+  {
+    "action": "remove the white protective film from the object using the tweezers"
+  },
+  {
+    "action": "hold the removed white protective film with the tweezers"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a rectangular object with the left hand\"\n  },\n  {\n    \"action\": \"touch the black surface of the rectangular object with tweezers in the right hand\"\n  },\n  {\n    \"action\": \"hold the rectangular object with both hands\"\n  },\n  {\n    \"action\": \"place the rectangular object on the surface\"\n  },\n  {\n    \"action\": \"pick up a clear plastic bag with the right hand\"\n  },\n  {\n    \"action\": \"open the clear plastic bag with both hands\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\n    \"action\": \"remove white rectangular object from clear plastic bag with left gloved hand\"\n  },\n  {\n    \"action\": \"place white rectangular object onto right gloved hand\"\n  },\n  {\n    \"action\": \"transfer white rectangular object to be held between left and right gloved hands\"\n  },\n  {\n    \"action\": \"break white rectangular object into two pieces using left and right gloved hands\"\n  },\n  {\n    \"action\": \"hold one piece of the broken white object with left gloved hand\"\n  },\n  {\n    \"action\": \"pick up tweezers with right gloved hand\"\n  },\n  {\n    \"action\": \"move tweezers towards the piece of the white object held by the left gloved hand\"\n  }\n]\n```"
+  }
+]

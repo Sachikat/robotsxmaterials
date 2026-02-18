@@ -1,0 +1,120 @@
+[
+  {
+    "clip_index": 0,
+    "actions": "```json\n[\n  {\n    \"action\": \"The human states the intention to spin coat a silicon wafer with polyethylene glycol using a spin coater machine.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 10,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a small clear vial in the left hand\"\n  },\n  {\n    \"action\": \"hold a dropper with a black bulb in the left hand\"\n  },\n  {\n    \"action\": \"hold a clear glass pipette in the right hand\"\n  },\n  {\n    \"action\": \"place the black cap onto the end of the glass pipette\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 11,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a clear vial with the left hand\"\n  },\n  {\n    \"action\": \"hold a glass dropper with the right hand\"\n  },\n  {\n    \"action\": \"dispense liquid from the glass dropper into the clear vial\"\n  }\n]\n```"
+  },
+  {
+    "action": "hold a small clear vial in the left hand"
+  },
+  {
+    "action": "hold a clear glass pipette in the right hand"
+  },
+  {
+    "action": "lower the pipette into a solution in a container"
+  },
+  {
+    "action": "squeeze the black knob at the top of the pipette"
+  },
+  {
+    "action": "transfer liquid from the solution into the small clear vial"
+  },
+  {
+    "clip_index": 13,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold a small clear vial\"\n  },\n  {\n    \"action\": \"place the tip of a pipette into the solution in the vial\"\n  },\n  {\n    \"action\": \"release the black knob at the end of the pipette\"\n  },\n  {\n    \"action\": \"draw solution into the pipette\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 14,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding a small vial\",\n    \"start\": \"00:00\",\n    \"end\": \"00:07\"\n  },\n  {\n    \"action\": \"pipetting liquid from a beaker into a vial\",\n    \"start\": \"00:00\",\n    \"end\": \"00:06\"\n  },\n  {\n    \"action\": \"removing pipette from the vial\",\n    \"start\": \"00:06\",\n    \"end\": \"00:07\"\n  },\n  {\n    \"action\": \"placing the vial down\",\n    \"start\": \"00:07\",\n    \"end\": \"00:08\"\n  },\n  {\n    \"action\": \"holding a pipette\",\n    \"start\": \"00:08\",\n    \"end\": \"00:10\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 15,
+    "actions": "```json\n[\n  {\n    \"action\": \"position pipette over the center of the silicon substrate\"\n  },\n  {\n    \"action\": \"slowly press the black knob at the end of the pipette\"\n  },\n  {\n    \"action\": \"drop solution onto the silicon substrate\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 16,
+    "actions": "```json\n[\n  {\n    \"action\": \"adding solution to a surface using a dropper\",\n    \"details\": \"A person in blue gloves is adding a solution from a dropper onto a black square object (likely a wafer) placed in a foil-lined container, ensuring it is evenly coated in a thin layer.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 17,
+    "actions": "```json\n[\n  {\n    \"action\": \"transfer solution from a pipette into a vial\"\n  },\n  {\n    \"action\": \"place the glass pipette\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 18,
+    "actions": "```json\n[\n  {\n    \"action\": \"pick up lid\"\n  },\n  {\n    \"action\": \"pick up solution vial\"\n  },\n  {\n    \"action\": \"close solution vial with lid\"\n  },\n  {\n    \"action\": \"set down solution vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 19,
+    "actions": "```json\n[\n  {\n    \"action\": \"The user turns on the spin coater by rotating a knob into a vertical position.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 1,
+    "actions": "```json\n[\n  \"The human states, \\\"Here are my materials.\\\"\",\n  \"The human picks up a white vial with their right gloved hand.\",\n  \"The human states, \\\"Here is a vial of the PEG.\\\"\",\n  \"The human holds the white vial to display the label 'PEG' on its cap to the camera.\"\n]\n```"
+  },
+  {
+    "clip_index": 20,
+    "actions": "```json\n[\n  {\n    \"action\": \"press the ENTER button on the Specialty Coating Systems 6800 Spin Coater Series machine\"\n  },\n  {\n    \"action\": \"the spin coater begins its operation\"\n  }\n]\n```"
+  },
+  {
+    "action": "presses the ENTER button on the SCS 6800 Spin Coater Series machine"
+  },
+  {
+    "clip_index": 23,
+    "actions": "```json\n[\n  {\n    \"action\": \"turn knob\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 24,
+    "actions": "```json\n[\n  {\n    \"action\": \"reach for tweezers\"\n  },\n  {\n    \"action\": \"pick up tweezers\"\n  },\n  {\n    \"action\": \"use tweezers to pick up a corner of a silicon wafer from a dish\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 25,
+    "actions": "```json\n[\n  {\n    \"action\": \"using tweezers to manipulate a silicon wafer in a foil-lined container\"\n  },\n  {\n    \"action\": \"transferring a silicon wafer using tweezers\"\n  },\n  {\n    \"action\": \"picking up a sample box\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 26,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold open sample box\"\n  },\n  {\n    \"action\": \"pick up silicon wafer with tweezers\"\n  },\n  {\n    \"action\": \"place silicon wafer in sample box film side\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 27,
+    "actions": "```json\n[\n  {\"action\": \"close sample box\"},\n  {\"action\": \"set sample box down\"},\n  {\"action\": \"set tweezers down\"}\n]\n```"
+  },
+  {
+    "clip_index": 2,
+    "actions": "```json\n[\n  {\n    \"action\": \"hold vial\",\n    \"tool\": \"vial\",\n    \"attribute\": \"clear, with white cap\"\n  },\n  {\n    \"action\": \"remove cap\",\n    \"tool\": \"cap\",\n    \"from_item\": \"vial\"\n  },\n  {\n    \"action\": \"place vial\",\n    \"tool\": \"vial\",\n    \"on_surface\": \"table\"\n  },\n  {\n    \"action\": \"place cap\",\n    \"tool\": \"cap\",\n    \"on_surface\": \"table\"\n  },\n  {\n    \"action\": \"point to items\",\n    \"attribute\": \"various items on table\"\n  },\n  {\n    \"action\": \"pick up tweezers\",\n    \"tool\": \"tweezers\"\n  },\n  {\n    \"action\": \"show tweezers\"\n  },\n  {\n    \"action\": \"place tweezers\",\n    \"tool\": \"tweezers\",\n    \"on_surface\": \"table\"\n  },\n  {\n    \"action\": \"pick up glass pipet\",\n    \"tool\": \"glass pipet\"\n  },\n  {\n    \"action\": \"show glass pipet\"\n  },\n  {\n    \"action\": \"pick up rubber bulb\",\n    \"tool\": \"rubber bulb\",\n    \"attribute\": \"black\"\n  },\n  {\n    \"action\": \"attach rubber bulb to pipet\",\n    \"tool_1\": \"rubber bulb\",\n    \"tool_2\": \"glass pipet\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 3,
+    "actions": "```json\n[\n  {\n    \"action\": \"A gloved hand picks up a black cylindrical object.\"\n  },\n  {\n    \"action\": \"Gloved hands pick up a transparent wafer box with an orange label.\"\n  },\n  {\n    \"action\": \"Gloved hands open the transparent wafer box.\"\n  },\n  {\n    \"action\": \"Gloved hands reveal a wafer inside the box.\"\n  },\n  {\n    \"action\": \"Gloved hands close the transparent wafer box.\"\n  },\n  {\n    \"action\": \"Gloved hands place the transparent wafer box on the table.\"\n  },\n  {\n    \"action\": \"Gloved hands place the black cylindrical object on the table.\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 4,
+    "actions": "```json\n[\n  {\"action\": \"pick up sample box\"},\n  {\"action\": \"open sample box\"},\n  {\"action\": \"pick up tweezers\"},\n  {\"action\": \"use tweezers\"}\n]\n```"
+  },
+  {
+    "clip_index": 5,
+    "actions": "```json\n[\n  {\n    \"action\": \"picking up a silicon wafer with tweezers from a clear box\"\n  },\n  {\n    \"action\": \"holding a silicon wafer with tweezers, shiny side up\"\n  },\n  {\n    \"action\": \"moving the clear box away\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 6,
+    "actions": "```json\n[\n  {\n    \"action\": \"holding tweezers with a blue gloved hand\"\n  },\n  {\n    \"action\": \"holding a wafer with tweezers\"\n  },\n  {\n    \"action\": \"transferring the wafer with tweezers\"\n  },\n  {\n    \"action\": \"placing the wafer onto the chuck of a Specialty Coating Systems 6800 Spin Coater Series\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 7,
+    "actions": "```json\n[\n  \"Using tweezers to hold a wafer\",\n  \"Placing the wafer into a circular container lined with aluminum foil\",\n  \"Centering the wafer in the container\",\n  \"Ensuring the shiny side of the wafer is facing up\"\n]\n```"
+  },
+  {
+    "clip_index": 8,
+    "actions": "```json\n[\n  {\n    \"action\": \"place down tweezers\"\n  },\n  {\n    \"action\": \"pick up the vial labeled PET acetonitrile\"\n  },\n  {\n    \"action\": \"unscrew the cap of the vial\"\n  }\n]\n```"
+  },
+  {
+    "clip_index": 9,
+    "actions": "```json\n[\n  {\n    \"action\": \"setting a vial cap down\"\n  },\n  {\n    \"action\": \"picking up a plastic pipette\"\n  },\n  {\n    \"action\": \"picking up a vial\"\n  },\n  {\n    \"action\": \"inserting the pipette into the vial\"\n  }\n]\n```"
+  }
+]

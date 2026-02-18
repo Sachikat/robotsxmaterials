@@ -1,0 +1,544 @@
+[
+  {
+    "clip_index": 0,
+    "actions": [
+      {
+        "step": 1,
+        "action": "A hand with a blue glove is visible on the left side of the frame"
+      }
+    ]
+  },
+  {
+    "clip_index": 10,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a white rectangular sample in a gloved hand"
+      },
+      {
+        "step": 2,
+        "action": "move tweezers held by a gloved hand towards the sample"
+      },
+      {
+        "step": 3,
+        "action": "pinch the white sample with the tweezers"
+      },
+      {
+        "step": 4,
+        "action": "separate a smaller white piece from the larger sample using tweezers"
+      },
+      {
+        "step": 5,
+        "action": "move the larger sample out of view with the left hand"
+      },
+      {
+        "step": 6,
+        "action": "hold a metallic holder with carbon tape in the left hand"
+      },
+      {
+        "step": 7,
+        "action": "move the small white piece held by tweezers towards the carbon tape on the metallic holder"
+      },
+      {
+        "step": 8,
+        "action": "stick the small white piece onto the carbon tape using tweezers"
+      },
+      {
+        "step": 9,
+        "action": "remove the tweezers from the small white piece"
+      },
+      {
+        "step": 10,
+        "action": "reposition the tweezers"
+      },
+      {
+        "step": 11,
+        "action": "press the white piece on the carbon tape with the back of the tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 11,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved hand holding tweezers moves into view"
+      },
+      {
+        "step": 2,
+        "action": "tweezers pick up a small, rectangular, metallic piece"
+      },
+      {
+        "step": 3,
+        "action": "tweezers place the metallic piece on top of the sample held by the other gloved hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 12,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved right hand holds a round, golden sample"
+      },
+      {
+        "step": 2,
+        "action": "gloved left hand is positioned open, facing the golden sample"
+      },
+      {
+        "step": 3,
+        "action": "gloved right hand slightly rotates the golden sample"
+      },
+      {
+        "step": 4,
+        "action": "gloved left hand slightly moves up and down"
+      },
+      {
+        "step": 5,
+        "action": "gloved right hand continues to hold the golden sample"
+      }
+    ]
+  },
+  {
+    "clip_index": 13,
+    "actions": [
+      {
+        "step": 1,
+        "action": "open the lid of the chamber"
+      },
+      {
+        "step": 2,
+        "action": "locate and place the sample into the chamber"
+      },
+      {
+        "step": 3,
+        "action": "point with the right index finger at the sample in the chamber"
+      }
+    ]
+  },
+  {
+    "clip_index": 14,
+    "actions": [
+      {
+        "step": 1,
+        "action": "lower the cylindrical lid object towards the machine"
+      },
+      {
+        "step": 2,
+        "action": "place the cylindrical lid object onto the machine"
+      },
+      {
+        "step": 3,
+        "action": "release the lid"
+      },
+      {
+        "step": 4,
+        "action": "move left hand towards a blue handle on a valve"
+      },
+      {
+        "step": 5,
+        "action": "grasp the blue handle of the valve"
+      },
+      {
+        "step": 6,
+        "action": "turn the blue handle of the valve"
+      },
+      {
+        "step": 7,
+        "action": "place right hand on the red rectangular part of the lid"
+      },
+      {
+        "step": 8,
+        "action": "press down on the red rectangular part of the lid"
+      }
+    ]
+  },
+  {
+    "clip_index": 15,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved hand rests on a red rectangular object"
+      },
+      {
+        "step": 2,
+        "action": "gloved hand lifts the red rectangular object"
+      },
+      {
+        "step": 3,
+        "action": "gloved hand moves the red rectangular object to the side"
+      },
+      {
+        "step": 4,
+        "action": "gloved finger moves toward a red button on the equipment"
+      },
+      {
+        "step": 5,
+        "action": "gloved finger presses the red button"
+      },
+      {
+        "step": 6,
+        "action": "gloved hand observes the pressure gauge"
+      }
+    ]
+  },
+  {
+    "clip_index": 16,
+    "actions": [
+      {
+        "step": 1,
+        "action": "point finger towards the display of the machine"
+      },
+      {
+        "step": 2,
+        "action": "move hand towards a button on the machine"
+      },
+      {
+        "step": 3,
+        "action": "press a button on the machine"
+      }
+    ]
+  },
+  {
+    "clip_index": 17,
+    "actions": [
+      {
+        "step": 1,
+        "action": "A hand wearing a blue glove presses a button on the machine."
+      },
+      {
+        "step": 2,
+        "action": "The human says 'small screen starts'."
+      },
+      {
+        "step": 3,
+        "action": "The human says 'I wait until the countdown is completed'."
+      }
+    ]
+  },
+  {
+    "clip_index": 18,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place gloved hand on red button"
+      },
+      {
+        "step": 2,
+        "action": "press red button"
+      },
+      {
+        "step": 3,
+        "action": "remove gloved hand from button"
+      }
+    ]
+  },
+  {
+    "clip_index": 19,
+    "actions": [
+      {
+        "step": 1,
+        "action": "rotate blue valve handle to turn off vacuum"
+      },
+      {
+        "step": 2,
+        "action": "remove hand from the blue valve handle"
+      },
+      {
+        "step": 3,
+        "action": "place a red rectangular object on top of a metallic cylindrical object"
+      }
+    ]
+  },
+  {
+    "clip_index": 1,
+    "actions": [
+      {
+        "step": 1,
+        "action": "A gloved hand picks up a stub"
+      },
+      {
+        "step": 2,
+        "action": "A gloved hand holds the stub"
+      }
+    ]
+  },
+  {
+    "clip_index": 20,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved hand holds a red object on top of a metallic lid"
+      },
+      {
+        "step": 2,
+        "action": "gloved hand lifts the red object and the metallic lid from the container"
+      },
+      {
+        "step": 3,
+        "action": "second gloved hand reaches into the container"
+      },
+      {
+        "step": 4,
+        "action": "second gloved hand picks up a small, round, metallic object from inside the container"
+      }
+    ]
+  },
+  {
+    "clip_index": 21,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a metallic cylindrical object in the left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold a small round sample in the right hand"
+      },
+      {
+        "step": 3,
+        "action": "state 'Here is the final version of my sample, coated with gold on top.'"
+      }
+    ]
+  },
+  {
+    "clip_index": 2,
+    "actions": [
+      {
+        "step": 1,
+        "action": "a gloved hand holds a sample holder"
+      },
+      {
+        "step": 2,
+        "action": "the audio states the object is a 'sample holder'"
+      },
+      {
+        "step": 3,
+        "action": "the gloved hand places the sample holder on the surface"
+      },
+      {
+        "step": 4,
+        "action": "the gloved hand picks up a black strip of material"
+      },
+      {
+        "step": 5,
+        "action": "the audio identifies the black strip as a 'piece of carbon tape'"
+      },
+      {
+        "step": 6,
+        "action": "the gloved hand places the black strip of material on the surface"
+      },
+      {
+        "step": 7,
+        "action": "the gloved hand picks up a white strip of material"
+      },
+      {
+        "step": 8,
+        "action": "the gloved hand places the white strip of material on the surface"
+      },
+      {
+        "step": 9,
+        "action": "the gloved hand picks up the black strip of material"
+      }
+    ]
+  },
+  {
+    "clip_index": 3,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up tweezers"
+      },
+      {
+        "step": 2,
+        "action": "set tweezers down"
+      },
+      {
+        "step": 3,
+        "action": "point at a pair of scissors with a gloved finger"
+      },
+      {
+        "step": 4,
+        "action": "point at a black strip of material with a gloved finger"
+      },
+      {
+        "step": 5,
+        "action": "point at a small, round object with a gloved finger"
+      },
+      {
+        "step": 6,
+        "action": "pick up a small clear plastic bag containing a white semi-circular sample"
+      },
+      {
+        "step": 7,
+        "action": "hold up the plastic bag with the sample"
+      }
+    ]
+  },
+  {
+    "clip_index": 4,
+    "actions": [
+      {
+        "step": 1,
+        "action": "reach for carbon tape"
+      },
+      {
+        "step": 2,
+        "action": "pick up carbon tape"
+      },
+      {
+        "step": 3,
+        "action": "grab tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 5,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold carbon tape with gloved hand"
+      },
+      {
+        "step": 2,
+        "action": "hold scissors with gloved hand"
+      },
+      {
+        "step": 3,
+        "action": "cut a small piece from the carbon tape with scissors"
+      },
+      {
+        "step": 4,
+        "action": "hold the cut piece of carbon tape with gloved hand"
+      },
+      {
+        "step": 5,
+        "action": "pick up a stub with gloved hand"
+      },
+      {
+        "step": 6,
+        "action": "bring the cut piece of carbon tape towards the stub"
+      },
+      {
+        "step": 7,
+        "action": "stick the sticky part of the carbon tape onto the stub"
+      }
+    ]
+  },
+  {
+    "clip_index": 6,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a metallic object with a white surface with two gloved hands"
+      },
+      {
+        "step": 2,
+        "action": "press a gloved thumb onto the white surface of the object"
+      },
+      {
+        "step": 3,
+        "action": "rotate the object slightly while still holding it with two gloved hands"
+      },
+      {
+        "step": 4,
+        "action": "press the gloved thumb onto the white surface of the object again"
+      }
+    ]
+  },
+  {
+    "clip_index": 7,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a small object with a white film in the left gloved hand"
+      },
+      {
+        "step": 2,
+        "action": "grab tweezers with the right gloved hand"
+      },
+      {
+        "step": 3,
+        "action": "use tweezers to gently peel off the white protective film from the object"
+      },
+      {
+        "step": 4,
+        "action": "remove the white protective film from the object"
+      },
+      {
+        "step": 5,
+        "action": "hold the removed white protective film with the tweezers"
+      }
+    ]
+  },
+  {
+    "clip_index": 8,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold metallic object with carbon tape in left hand"
+      },
+      {
+        "step": 2,
+        "action": "use tweezers in right hand to adjust carbon tape on the metallic object"
+      },
+      {
+        "step": 3,
+        "action": "remove tweezers from the metallic object"
+      },
+      {
+        "step": 4,
+        "action": "set the metallic object down on the surface"
+      },
+      {
+        "step": 5,
+        "action": "reach for a clear plastic bag with the right hand"
+      },
+      {
+        "step": 6,
+        "action": "grab the clear plastic bag with both hands"
+      },
+      {
+        "step": 7,
+        "action": "open the clear plastic bag with both hands"
+      }
+    ]
+  },
+  {
+    "clip_index": 9,
+    "actions": [
+      {
+        "step": 1,
+        "action": "left gloved hand removes a white piece from a clear plastic bag"
+      },
+      {
+        "step": 2,
+        "action": "right gloved hand moves the clear plastic bag away"
+      },
+      {
+        "step": 3,
+        "action": "left gloved hand places the white piece onto the table"
+      },
+      {
+        "step": 4,
+        "action": "left gloved hand picks up the white piece"
+      },
+      {
+        "step": 5,
+        "action": "both gloved hands hold the white piece"
+      },
+      {
+        "step": 6,
+        "action": "both gloved hands break the white piece"
+      },
+      {
+        "step": 7,
+        "action": "one broken piece falls onto the table"
+      },
+      {
+        "step": 8,
+        "action": "left gloved hand holds the remaining broken piece"
+      }
+    ]
+  }
+]

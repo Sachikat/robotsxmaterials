@@ -1,0 +1,31 @@
+```mermaid
+graph TD
+    A[Start] --> B(Introduce Materials & Apparatus);
+    B --> C(Prepare Tools: Vials, Tweezers, Pipette);
+    C --> D(Assemble Pipette with Rubber Bulb);
+    D --> E(Open Wafer Storage Box);
+    E --> F(Retrieve Silicon Wafer from Box with Tweezers);
+    F --> G(Load Wafer onto Spin Coater Chuck);
+    G --> H(Center Wafer on Chuck);
+
+    H --> I(Uncap Source Solution Vial);
+    I --> J(Prepare Pipette for Solution Transfer);
+    J --> K(Draw Liquid from Source Vial);
+    K --> L(Dispense Liquid into Solution Vial for Mixing);
+    L --> M(Perform Repeated Dispensing/Mixing in Solution Vial);
+    M --> N(Cap Solution Vial);
+
+    N --> O(Draw Prepared Solution for Wafer Application);
+    O --> P(Apply Solution onto Wafer on Spin Coater);
+    P --> Q(Close Spin Coater Safety Lid);
+    Q --> R(Initiate Spin Coater Program);
+    R --> S(Spin Coater Operates Autonomously);
+    S --> T(Adjust Spin Coater Valve for Vacuum/Exhaust);
+
+    T --> U(Remove Processed Wafer from Spin Coater with Tweezers);
+    U --> V(Open Wafer Storage Box);
+    V --> W(Place Processed Wafer into Storage Box);
+    W --> X(Close Wafer Storage Box);
+    X --> Y(Clean Up Tools and Work Area);
+    Y --> Z[End];
+```

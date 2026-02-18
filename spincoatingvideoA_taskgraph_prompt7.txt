@@ -1,0 +1,101 @@
+```mermaid
+graph TD
+  A1[place both hands on the table, palms up] --> A2
+  A2[hold a clear vial with a dropper in the left hand] --> A3
+  A3[hold a glass pipette in the right hand] --> A4
+  A4[bring the dropper and the glass pipette closer together] --> A5
+  A5[remove the black bulb from the dropper] --> A6
+  A6[place the black bulb onto the end of the glass pipette] --> A7
+  A7[hold a small clear vial in the left hand] --> A8
+  A8[hold a dropper in the right hand] --> A9
+  A9[dispense liquid from the dropper into the small clear vial] --> A10
+  A10[continue dispensing liquid from the dropper into the small clear vial] --> A11
+  A11[hold a small clear vial containing a white substance] --> A12
+  A12[hold a glass pipette above the vial] --> A13
+  A13[lower the pipette into the small clear vial] --> A14
+  A14[dispense liquid from the pipette into the small clear vial] --> A15
+  A15[remove the pipette from the small clear vial] --> A16
+  A16[rotate the small clear vial] --> A17
+  A17[place tip of pipette into the solution in the vial] --> A18
+  A18[release the black nub at the end of the pipette] --> A19
+  A19[transfer liquid from pipette into a small clear vial] --> A20
+  A20[remove pipette from the small clear vial] --> A21
+  A21[set the small clear vial down on the surface] --> A22
+  A22[move the pipette over to the spin coater area] --> A23
+  A23[hold pipette with right hand] --> A24
+  A24[position pipette over the center of the silicon substrate] --> A25
+  A25[place thumb on the black knob of the pipette] --> A26
+  A26[begin to press the black knob of the pipette] --> A27
+  A27[Dispense polymer solution onto the wafer using a pipette/dropper] --> A28
+  A28[squeeze the pipette to dispense remaining solution back into the vial] --> A29
+  A29[move the pipette away from the vial] --> A30
+  A30[place the glass pipette down on the counter] --> A31
+  A31[pick up black tweezers] --> A32
+  A32[pick up the lid with the right hand] --> A33
+  A33[pick up the solution vial with the left hand] --> A34
+  A34[close the solution vial with the lid] --> A35
+  A35[set the solution vial down] --> A36
+  A36[reach for a knob] --> A37
+  A37[twist the knob into a vertical position] --> A38
+  A38[turn on the spin coater] --> A39
+  A39[pick up the white vial] --> A40
+  A40[hold the vial of PEG to show the label] --> A41
+  A41[A hand in a blue glove presses the 'ENTER' button on the machine's control panel.] --> A42
+  A42[point at the spin coater display with a gloved finger] --> A43
+  A43[The spin coater machine is observed running, with its display showing a countdown.] --> A44
+  A44[reach gloved hand towards a vertical knob/valve on a wall-mounted pipe system] --> A45
+  A45[grasp the knob/valve] --> A46
+  A46[twist the knob/valve] --> A47
+  A47[reach hand] --> A48
+  A48[pick up tweezers] --> A49
+  A49[move tweezers] --> A50
+  A50[use tweezers to pick up corner of silicon wafer] --> A51
+  A51[The right hand, wearing a blue glove, holds a silicon wafer with tweezers over a foil-lined dish.] --> A52
+  A52[The left hand, wearing a blue glove, picks up a sample box.] --> A53
+  A53[open left hand to reveal a clear sample box] --> A54
+  A54[move tweezers, held in right hand, towards the clear sample box] --> A55
+  A55[use tweezers to pick up a multicolored silicon wafer from the clear sample box] --> A56
+  A56[hold the clear sample box with the left hand] --> A57
+  A57[hold the silicon wafer with tweezers in the right hand] --> A58
+  A58[release the sample box from the right hand] --> A59
+  A59[close the sample box with the right hand] --> A60
+  A60[set the closed sample box down on the counter with the left hand] --> A61
+  A61[set the tweezers down on the counter with the right hand] --> A62
+  A62[hold a clear vial with a white cap] --> A63
+  A63[twist the white cap off the clear vial] --> A64
+  A64[remove the white cap from the clear vial] --> A65
+  A65[place the white cap down on the black surface] --> A66
+  A66[place the open clear vial down on the black surface] --> A67
+  A67[pick up a pair of tweezers] --> A68
+  A68[place the tweezers down on the black surface] --> A69
+  A69[pick up a glass pipette] --> A70
+  A70[pick up a black rubber bulb] --> A71
+  A71[connect the black rubber bulb to the top of the glass pipette] --> A72
+  A72[hold tweezers with right hand] --> A73
+  A73[place tweezers on the table with right hand] --> A74
+  A74[gesture towards the small clear box with left hand] --> A75
+  A75[pick up the wafer box with both hands] --> A76
+  A76[show the wafer box with both hands] --> A77
+  A77[open the wafer box with both hands] --> A78
+  A78[close the wafer box with both hands] --> A79
+  A79[place the wafer box on the table with left hand] --> A80
+  A80[pick up sample box] --> A81
+  A81[open sample box] --> A82
+  A82[pick up tweezers] --> A83
+  A83[use tweezers to pick up a sample from the sample box] --> A84
+  A84[hold silicon wafer with tweezers, shiny side up] --> A85
+  A85[place silicon wafer into clear box] --> A86
+  A86[close clear box] --> A87
+  A87[hold tweezers with a wafer] --> A88
+  A88[transfer wafer over to chuck] --> A89
+  A89[place wafer on chuck] --> A90
+  A90[move a dark, square wafer with tweezers held by a blue-gloved hand towards a metal dish] --> A91
+  A91[place the wafer into the center of the metal dish lined with aluminum foil using tweezers] --> A92
+  A92[adjust the position of the wafer in the dish with tweezers] --> A93
+  A93[lift the tweezers away from the wafer] --> A94
+  A94[place down tweezers] --> A95
+  A95[pick up vial] --> A96
+  A96[twist cap of the vial] --> A97
+  A97[set down vial cap] --> A98
+  A98[pick up plastic pipette]
+```

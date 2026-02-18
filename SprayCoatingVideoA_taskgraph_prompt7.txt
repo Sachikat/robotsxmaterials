@@ -1,0 +1,86 @@
+```mermaid
+graph TD
+    A1["Two hands wearing blue gloves enter the frame"] --> A2
+    A2["Two hands wearing blue gloves are held up with palms facing the camera"] --> A3
+    A3["The right index finger points towards the left hand"] --> A4
+    A4["Shaking a grey cylindrical container"] --> A5
+    A5["Unscrewing the lid of the grey cylindrical container"] --> A6
+    A6["pick up small brown bottle with left hand"] --> A7
+    A7["place small brown bottle down"] --> A8
+    A8["pick up spray gun with right hand"] --> A9
+    A9["pick up white container (spray bottle attachment) with left hand"] --> A10
+    A10["unscrew white container from spray gun with both hands"] --> A11
+    A11["unscrew cap of white container with both hands"] --> A12
+    A12["remove cap from white container"] --> A13
+    A13["place white container cap down"] --> A14
+    A14["hold a bottle of slurry in the left hand"] --> A15
+    A15["hold a spray gun with a white cup in the right hand"] --> A16
+    A16["pour the slurry from the bottle into the white cup of the spray gun"] --> A17
+    A17["pour substance from spray gun cup into a white bottle"] --> A18
+    A18["place a white cap on the white bottle"] --> A19
+    A19["screw the white cap onto the slurry bottle"] --> A20
+    A20["set the white bottle down on the table"] --> A21
+    A21["pick up the white bottle"] --> A22
+    A22["pour substance from the white bottle into the spray gun cup"] --> A23
+    A23["hold the white container (lid) with the left hand"] --> A24
+    A24["hold the spray gun with the right hand"] --> A25
+    A25["place the white container onto the spray gun"] --> A26
+    A26["twist the white container onto the spray gun to secure it"] --> A27
+    A27["state that the spray gun is ready to spray slurry on the ceramic layers"] --> A28
+    A28["state that ceramic sheets are warm enough"] --> A29
+    A29["bring a gloved hand into the frame"] --> A30
+    A30["point at the ceramic sheets on the foil-covered box"] --> A31
+    A31["bring a spray gun into the frame"] --> A32
+    A32["hold the spray gun"] --> A33
+    A33["hold spray gun"] --> A34
+    A34["shake spray gun"] --> A35
+    A35["hold spray gun"] --> A36
+    A36["turn on fan (based on audio statement)"] --> A37
+    A37["hold spray gun"] --> A38
+    A38["position spray gun (towards the object on the table)"] --> A39
+    A39["pull trigger of spray gun"] --> A40
+    A40["spray object (with spray gun)"] --> A41
+    A41["Hold a spray gun"] --> A42
+    A42["Spray samples on a box with the spray gun"] --> A43
+    A43["Move the spray gun back and forth over the samples"] --> A44
+    A44["point to a heated plate covered with aluminum foil"] --> A45
+    A45["pick up an alumina ceramic substrate from a white dish"] --> A46
+    A46["hold up the alumina ceramic substrate"] --> A47
+    A47["hold a white rectangular object"] --> A48
+    A48["pick up a grey bottle"] --> A49
+    A49["shake the grey bottle"] --> A50
+    A50["point at the grey bottle"] --> A51
+    A51["place the grey bottle on the table"] --> A52
+    A52["point at the blue spray gun"] --> A53
+    A53["pick up a small white rectangular object using gloved hands"] --> A54
+    A54["hold the small white rectangular object in gloved hands"] --> A55
+    A55["hold a small white rectangular object"] --> A56
+    A56["place the small white rectangular object onto an object covered with aluminum foil"] --> A57
+    A57["pick up another small white rectangular object from a white dish"] --> A58
+    A58["place the second small white rectangular object onto the aluminum foil-covered object"] --> A59
+    A59["pick up a third small white rectangular object from the white dish"] --> A60
+    A60["place the third small white rectangular object onto the aluminum foil-covered object"] --> A61
+    A61["pick up a small white square from a white dish"] --> A62
+    A62["place the small white square onto a foil-covered rectangular object"] --> A63
+    A63["pick up a small white square from a white dish"] --> A64
+    A64["place the small white square onto the foil-covered rectangular object"] --> A65
+    A65["pick up a small white square from a white dish"] --> A66
+    A66["place the small white square onto the foil-covered rectangular object"] --> A67
+    A67["pick up a small white square from a white dish"] --> A68
+    A68["place the small white square onto the foil-covered rectangular object"] --> A69
+    A69["pick up a small white square from a white dish"] --> A70
+    A70["place the small white square onto the foil-covered rectangular object"] --> A71
+    A71["point at object covered with foil and ceramic sheets with right hand"] --> A72
+    A72["move right hand towards a knob on the front of the object"] --> A73
+    A73["twist the knob on the object to turn on heating"] --> A74
+    A74["vocalize: one, two, three"] --> A75
+    A75["vocalize: And I wait for my ceramic sheets to get warm."] --> A76
+    A76["A human speaks, saying &quot;Gemini, pay attention.&quot;"] --> A77
+    A77["A human hand, wearing a blue glove, enters the frame from the left."] --> A78
+    A78["The gloved hand points an index finger at the heating device, which is covered in aluminum foil."] --> A79
+    A79["A human speaks, saying &quot;While my ceramic sheets are warming up, I will put my slurry into my spray.&quot;"] --> A80
+    A80["The gloved hand gestures with two fingers, moving them from the heating device towards the bottle and spray gun."] --> A81
+    A81["The gloved hand moves out of the frame to the left."] --> A82
+    A82["grab a slurry bottle"] --> A83
+    A83["shake the slurry bottle"]
+```

@@ -1,0 +1,174 @@
+```mermaid
+graph TD
+    A[Right hand picks up a white vial] --> B[Right hand holds the white vial up to the camera]
+    B --> C[Right hand holds and slightly turns the white vial]
+
+    C --> D{Clip 2: Vial & Pipette Setup}
+    D --> D1[hold a clear glass vial with a white cap]
+    D1 --> D2[twist and remove the white cap from the vial]
+    D2 --> D3[place the white cap on the surface]
+    D3 --> D4[place the open vial on the surface]
+    D4 --> D5[point to tweezers on the surface with the left hand]
+    D5 --> D6[point to a glass pipette on the surface with the right hand]
+    D6 --> D7[pick up black tweezers with the left hand]
+    D7 --> D8[hold and display the black tweezers]
+    D8 --> D9[place the black tweezers back onto the surface]
+    D9 --> D10[pick up a glass pipette with the right hand]
+    D10 --> D11[pick up a black rubber bulb with the left hand]
+    D11 --> D12[bring the black rubber bulb towards the top of the glass pipette]
+    D12 --> D13[place the black rubber bulb onto the top end of the glass pipette]
+    D13 --> E{Clip 3: Wafer Box & Coater Prep}
+    
+    E --> E1[place tweezers on the surface]
+    E1 --> E2[pick up a black cylindrical cap]
+    E2 --> E3[place the black cylindrical cap on the surface]
+    E3 --> E4[pick up a clear wafer box with an orange label]
+    E4 --> E5[open the clear wafer box]
+    E5 --> E6[close the clear wafer box]
+    E6 --> E7[place the clear wafer box on the surface]
+    E7 --> E8[reposition the clear wafer box]
+    E8 --> E9[move hand towards the spin coater]
+    E9 --> F{Clip 4: Prepare Sample Box & Tweezers}
+
+    F --> F1[Pick up the clear plastic sample box labeled 'Sample A' with the left hand]
+    F1 --> F2[Open the clear plastic sample box with the left hand]
+    F2 --> F3[Pick up the black tweezers with the right hand]
+    F3 --> F4[Hold the tweezers with the right hand above the open sample box]
+    F4 --> G{Clip 5: Handle Silicon Wafer}
+    
+    G --> G1[pick up silicon wafer with tweezers]
+    G1 --> G2[orient silicon wafer shiny side up]
+    G2 --> G3[place silicon wafer into the box]
+    G3 --> G4[close the box]
+    G4 --> H{Clip 6: Place Wafer on Spin Coater Chuck}
+
+    H --> H1[A hand, gloved in blue, holds tweezers with a wafer.]
+    H1 --> H2[The hand moves the tweezers to position the wafer over the chuck of the spin coater.]
+    H2 --> H3[The hand carefully places the wafer onto the chuck using the tweezers.]
+    H3 --> H4[The hand adjusts the wafer's position on the chuck using the tweezers.]
+    H4 --> H5[The hand retracts the tweezers from the chuck.]
+    H5 --> H6[The hand moves the tweezers away from the chuck area.]
+    H6 --> I{Clip 7: Position Wafer in Container}
+
+    I --> I1[The human's gloved hand holds tweezers gripping a small, dark, square wafer.]
+    I1 --> I2[The human lowers the tweezers and wafer towards a circular container lined with aluminum foil.]
+    I2 --> I3[The human carefully positions the wafer in the center of the foil-lined container.]
+    I3 --> I4[The human ensures the wafer is shiny side up during placement.]
+    I4 --> I5[The human slightly lifts the tweezers away from the wafer, leaving it in the container.]
+    I5 --> J{Clip 8: Open Vial for Solution}
+
+    J --> J1[Place down the tweezers]
+    J1 --> J2[Pick up the vial labeled PET phenylacetonitrile]
+    J2 --> J3[Open the vial]
+    J3 --> K{Clip 9: Prepare Pipette for Vial}
+
+    K --> K1[hold a clear vial with the left hand]
+    K1 --> K2[hold a white cap with the right hand]
+    K2 --> K3[place the white cap on the surface of the spin coater with the right hand]
+    K3 --> K4[pick up a clear plastic pipette with the right hand]
+    K4 --> K5[insert the pipette into the clear vial with the right hand]
+    K5 --> L{Clip 10: Pick Up Pipette}
+
+    L --> L1[The person picks up a clear glass pipette with their right hand.]
+    L1 --> L2[The person states the instruction: 'Place black cap on end of glass pipette.']
+    L2 --> M{Clip 11: Dispense Liquid into Vial (Dropper)}
+
+    M --> M1[Hold a small clear vial in the left hand.]
+    M1 --> M2[Hold a dropper with a black bulb in the right hand.]
+    M2 --> M3[Position the dropper tip above the vial opening.]
+    M3 --> M4[Push down gently on the dropper bulb.]
+    M4 --> M5[Dispense liquid from the dropper into the vial.]
+    M5 --> M6[Repeat pushing down on the dropper bulb and dispensing liquid into the vial.]
+    M6 --> M7[Repeat pushing down on the dropper bulb and dispensing liquid into the vial again.]
+    M7 --> M8[Repeat pushing down on the dropper bulb and dispensing liquid into the vial a third time.]
+    M8 --> N{Clip 12: Dispense Liquid into Vial (Pipette)}
+
+    N --> N1[hold a clear vial with the left hand]
+    N1 --> N2[hold a pipette with the right hand]
+    N2 --> N3[squeeze the black knob on top of the pipette with the right hand]
+    N3 --> N4[lower the tip of the pipette into the clear vial]
+    N4 --> N5[dispense liquid from the pipette into the clear vial]
+    N5 --> O{Clip 13: Draw Solution into Pipette}
+
+    O --> O1[hold a small vial in the left gloved hand]
+    O1 --> O2[hold a pipette in the right gloved hand with the tip in the solution inside the vial]
+    O2 --> O3[release the thumb from the black bulb/nub of the pipette]
+    O3 --> O4[observe solution being drawn into the pipette]
+    O4 --> P[Lift pipette out of the small clear vial]
+
+    P --> Q[Place the small clear vial down on the surface]
+    Q --> R[Position the pipette over the spin coater]
+    R --> S{Clip 15: Dispense Solution onto Substrate}
+
+    S --> S1[Hold a pipette with a gloved hand]
+    S1 --> S2[Position the pipette over the center of the silicon substrate]
+    S2 --> S3[Slowly press the black knob at the end of the pipette]
+    S3 --> S4[Dispense solution onto the silicon substrate]
+    S4 --> T{Clip 16: Distribute Polymer Solution}
+
+    T --> T1[distributing polymer solution onto a wafer using a pipette]
+    T1 --> U{Clip 17: Finish Pipetting & Place Pipette}
+
+    U --> U1[A hand, wearing a blue glove, holds a glass pipette containing liquid, positioned over a foil-lined circular depression on a spin coater.]
+    U1 --> U2[The hand continues to hold the glass pipette steady over the spin coater.]
+    U2 --> U3[The hand lifts the glass pipette away from the spin coater.]
+    U3 --> U4[The hand moves the glass pipette to the right and places it horizontally on the surface of the spin coater.]
+    U4 --> V{Clip 18: Cap Solution Vial}
+
+    V --> V1[right hand picks up white lid]
+    V1 --> V2[left hand picks up solution vial]
+    V2 --> V3[right hand places white lid on the solution vial]
+    V3 --> V4[left hand places the capped solution vial on the counter]
+    V4 --> W{Clip 19: Power On Spin Coater}
+
+    W --> W1[A gloved hand reaches for a valve on the wall.]
+    W1 --> W2[A gloved hand turns the valve knob to a vertical position.]
+    W2 --> W3[The spin coater display lights up and shows 'Initializing...'.]
+    W3 --> W4[The spin coater display shows 'Display Software Version 1.00'.]
+    W4 --> W5[The spin coater display shows a blank blue screen.]
+    W5 --> W6[The spin coater display shows 'SPECIALTY COATING SYSTEMS SPINCOAT 6800HP Version 2.0.5'.]
+    W6 --> X{Clip 20: Press Enter on Spin Coater}
+
+    X --> X1[A hand in a blue glove presses the ENTER button on the SCS 6800 Spin Coater Series machine.]
+    X1 --> Y[A gloved hand (blue glove) enters the frame from the right]
+    Y --> Z[A gloved finger points at the display screen of the 'SCS 6800 Spin Coater Series' machine]
+    Z --> AA[The gloved finger remains pointing at the display screen of the 'SCS 6800 Spin Coater Series' machine, monitoring the 'Time Left' countdown]
+    AA --> BB{Clip 22: Hand Appearance/Disappearance}
+
+    BB --> BB1[A human hand appears on the left side of the frame]
+    BB1 --> BB2[A human hand disappears from the left side of the frame]
+    BB2 --> CC{Clip 23: Turn Valve Downwards}
+
+    CC --> CC1[A gloved hand reaches into the frame towards a valve.]
+    CC1 --> CC2[The gloved hand grasps a black knob on the valve assembly.]
+    CC2 --> CC3[The gloved hand twists the black knob downwards.]
+    CC3 --> DD{Clip 24: Grasp Wafer with Tweezers}
+
+    DD --> DD1[Hand (wearing a blue glove) reaches towards tweezers.]
+    DD1 --> DD2[Hand picks up tweezers.]
+    DD2 --> DD3[Hand (wearing a blue glove) uses tweezers to grasp the corner of a silicon wafer in a dish lined with aluminum foil.]
+    DD3 --> EE{Clip 25: Move Wafer Towards Box}
+
+    EE --> EE1[Human uses tweezers to hold a silicon wafer over a metal dish.]
+    EE1 --> EE2[Human moves the silicon wafer towards a small clear plastic box.]
+    EE2 --> EE3[Human picks up a small clear plastic sample box with their left hand.]
+    EE3 --> FF{Clip 26: Pick Up Wafer from Box}
+
+    FF --> FF1[hold an unopened clear plastic sample box in the left hand]
+    FF1 --> FF2[hold tweezers in the right hand]
+    FF2 --> FF3[open the clear plastic sample box with the left hand]
+    FF3 --> FF4[use tweezers in the right hand to pick up a silicon wafer from the open clear plastic sample box]
+    FF4 --> FF5[hold the silicon wafer with tweezers in the right hand]
+    FF5 --> GG{Clip 27: Transfer Sample to Dish}
+
+    GG --> GG1[Hold an open clear plastic sample box in the left gloved hand, revealing an iridescent sample.]
+    GG1 --> GG2[Hold a pair of black tweezers in the right gloved hand.]
+    GG2 --> GG3[Position the tweezers to grasp the sample from the clear plastic box.]
+    GG3 --> GG4[Grasp the iridescent sample with the tweezers.]
+    GG4 --> GG5[Lift the sample out of the clear plastic box using the tweezers.]
+    GG5 --> GG6[Close the clear plastic sample box.]
+    GG6 --> GG7[Place the closed clear plastic sample box on the table.]
+    GG7 --> GG8[Place the sample (held by tweezers) into the silver-lined dish on the table.]
+    GG8 --> GG9[Release the sample from the tweezers.]
+    GG9 --> GG10[Place the tweezers down on the table next to a glass pipette.]
+```

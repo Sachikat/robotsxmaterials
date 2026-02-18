@@ -1,0 +1,85 @@
+```mermaid
+graph TD
+    Start((Start)) --> A_Hands_Appear;
+
+    subgraph Phase 1: Initial Setup
+        A_Hands_Appear[Hands appear, wearing gloves];
+        A_Hands_Appear --> B_Pick_Vial;
+        B_Pick_Vial[Pick up vial & display label];
+        B_Pick_Vial --> C_Open_Vial;
+        C_Open_Vial[Open vial: Remove cap, place cap down];
+        C_Open_Vial --> D_Pick_Pipette;
+        D_Pick_Pipette[Pick up glass pipette & rubber bulb];
+        D_Pick_Pipette --> E_Attach_Bulb;
+        E_Attach_Bulb[Attach rubber bulb to pipette];
+        E_Attach_Bulb --> F_Pipette_Ready;
+    end
+
+    subgraph Phase 2: Wafer Preparation & Placement
+        F_Pipette_Ready --> G_Pick_Tweezers_1;
+        G_Pick_Tweezers_1[Pick up tweezers];
+        G_Pick_Tweezers_1 --> H_Open_SampleBox;
+        H_Open_SampleBox[Pick up sample box & Open];
+        H_Open_SampleBox --> I_Pick_Wafer;
+        I_Pick_Wafer[Pick up silicon wafer with tweezers];
+        I_Pick_Wafer --> J_Place_Wafer_Chuck;
+        J_Place_Wafer_Chuck[Place wafer onto spin coater chuck & Adjust position];
+        J_Place_Wafer_Chuck --> K_Place_Tweezers_Down;
+        K_Place_Tweezers_Down[Place tweezers down];
+    end
+
+    K_Place_Tweezers_Down --> L_Check_Vial_Content{Is vial filled?};
+
+    subgraph Phase 3: Liquid Transfer to Vial (if needed)
+        L_Check_Vial_Content -- No (needs filling) --> M_Draw_External;
+        M_Draw_External[Lower pipette into external liquid source];
+        M_Draw_External --> N_Draw_Liquid_External;
+        N_Draw_Liquid_External[Draw liquid into pipette from external source];
+        N_Draw_Liquid_External --> O_Lift_External;
+        O_Lift_External[Lift pipette from external source];
+        O_Lift_External --> P_Move_To_Vial;
+        P_Move_To_Vial[Move pipette towards vial];
+        P_Move_To_Vial --> Q_Dispense_Into_Vial;
+        Q_Dispense_Into_Vial[Dispense liquid into vial];
+        Q_Dispense_Into_Vial --> L_Check_Vial_Content; %% Loop to ensure vial is sufficiently filled
+    end
+
+    subgraph Phase 4: Liquid Dispensing onto Wafer
+        L_Check_Vial_Content -- Yes (ready for wafer) --> R_Draw_From_Vial;
+        R_Draw_From_Vial[Lower pipette into vial];
+        R_Draw_From_Vial --> S_Draw_Liquid_From_Vial;
+        S_Draw_Liquid_From_Vial[Draw liquid from vial into pipette];
+        S_Draw_Liquid_From_Vial --> T_Lift_From_Vial;
+        T_Lift_From_Vial[Lift pipette from vial];
+        T_Lift_From_Vial --> U_Move_To_Wafer;
+        U_Move_To_Wafer[Move pipette over wafer on spin coater];
+        U_Move_To_Wafer --> V_Dispense_Onto_Wafer;
+        V_Dispense_Onto_Wafer[Dispense liquid onto wafer/substrate];
+    end
+
+    subgraph Phase 5: Spin Coating Process
+        V_Dispense_Onto_Wafer --> W_Operate_SpinCoater;
+        W_Operate_SpinCoater[Turn knob & Press button on spin coater];
+        W_Operate_SpinCoater --> X_Perform_SpinCoating;
+        X_Perform_SpinCoating[Perform spin coating];
+    end
+
+    subgraph Phase 6: Post-Coating & Cleanup
+        X_Perform_SpinCoating --> Y_Pick_Tweezers_2;
+        Y_Pick_Tweezers_2[Pick up tweezers];
+        Y_Pick_Tweezers_2 --> Z_Pick_Wafer_Chuck_2;
+        Z_Pick_Wafer_Chuck_2[Pick up wafer with tweezers from chuck];
+        Z_Pick_Wafer_Chuck_2 --> AA_Transfer_To_SampleBox;
+        AA_Transfer_To_SampleBox[Move wafer to sample box & Transfer wafer into sample box];
+        AA_Transfer_To_SampleBox --> BB_Close_SampleBox;
+        BB_Close_SampleBox[Close sample box & Place down];
+        BB_Close_SampleBox --> CC_Close_Vial;
+        CC_Close_Vial[Close vial with lid & Place down];
+        CC_Close_Vial --> DD_Place_Pipette_Down;
+        DD_Place_Pipette_Down[Place pipette down];
+        DD_Place_Pipette_Down --> EE_Place_Tweezers_Down_Final;
+        EE_Place_Tweezers_Down_Final[Place tweezers down];
+    end
+
+    EE_Place_Tweezers_Down_Final --> End((End));
+```

@@ -1,0 +1,189 @@
+```mermaid
+graph TD
+  A1[The human's left hand, wearing a blue glove, reaches towards a small clear plastic box labeled 'Test Sample B'.]
+  A2[The human's left hand picks up the small clear plastic box labeled 'Test Sample B'.]
+  A3[The human's right hand, wearing a blue glove, joins the left hand to hold the small clear plastic box.]
+  A4[The human's hands hold the small clear plastic box, displaying its contents and the label 'Test Sample B'.]
+  A5[The human's left hand places the small clear plastic box back onto the table.]
+  A6[hold a small clear plastic box labeled "First Sample B" in the left hand and tweezers in the right hand]
+  A7[place the small clear plastic box on the table]
+  A8[place the tweezers on the table]
+  A9[reach the right hand towards the plasma cleaner]
+  A10[turn the knob on the plasma cleaner door]
+  A11[pull open the door of the plasma cleaner]
+  A12[pick up sample box]
+  A13[pick up tweezers]
+  A14[open sample box]
+  A15[use tweezers to grab a wafer by the edges]
+  A16[lift wafer with tweezers]
+  A17[hold a clear container in the left hand]
+  A18[hold tweezers with a dark square object in the right hand]
+  A19[move the tweezers with the dark square object into the plasma cleaner chamber]
+  A20[place the wafer onto the glass tray inside the chamber using tweezers]
+  A21[release the wafer from the tweezers]
+  A22[retract the tweezers from the chamber]
+  A23[hold a clear plastic container with an orange wafer in the left hand]
+  A24[hold tweezers in the right hand]
+  A25[use tweezers to grab a black wafer by the corners from the clear plastic container]
+  A26[transfer the wafer using tweezers]
+  A27[place the wafer on the glass tray inside the chamber, shiny side up]
+  A28[remove tweezers from the chamber]
+  A29[close the sample box]
+  A30[set the sample box down]
+  A31[set the tweezers down]
+  A32[turn the black knob on the plasma cleaner]
+  A33[move the black knob into a horizontal position]
+  A34[pick up the power strip]
+  A35[turn on the switch labeled Vacuum on the power strip]
+  A36[turn on the switch labeled Plasma on the power strip]
+  A37[move right hand towards blue knob on equipment]
+  A38[grasp blue knob on equipment with right hand]
+  A39[rotate blue knob in counterclockwise direction]
+  A40[move right hand towards the right component on the circular device]
+  A41[move left hand towards the left component on the circular device]
+  A42[grip the right component with the right hand]
+  A43[grip the left component with the left hand]
+  A44[hold two components of the device together]
+  A45[move the right hand away from the device]
+  A46[move a knob on the plasma cleaner]
+  A47[stop moving the knob once pressure is reached]
+  A48[turn RF level knob to high]
+  A49[turn the T-handle valve to vertical position]
+  A50[reach for the power switch on the plasma cleaner]
+  A51[press the power switch on the plasma cleaner]
+  A52[move hand away from the power switch]
+  A53[put on blue gloves]
+  A54[pick up the small orange-tinted square object with the left hand]
+  A55[press the red power button to turn off the Plasma Cleaner]
+  A56[turn the RF Level knob to off]
+  A57[Person places left hand on the left black component of the Varian machinery]
+  A58[Person places right hand on the right black component of the Varian machinery]
+  A59[Person twists the left black component]
+  A60[Person twists the right black component in a clockwise direction]
+  A61[place left hand on power strip]
+  A62[push switch on power strip with left hand]
+  A63[place right hand on power strip]
+  A64[push switch on power strip with right hand]
+  A65[grasp knob on plasma cleaner]
+  A66[rotate knob into horizontal position]
+  A67[slowly rotate knob into vertical position]
+  A68[hold the silver knob on the plasma cleaner]
+  A69[turn the silver knob counter-clockwise very slowly]
+  A70[Place gloved hand on the black handle of the valve on the plasma cleaner]
+  A71[Twist the black handle of the valve clockwise to close it]
+  A72[Remove gloved hand from the valve handle]
+  A73[The human's hand, wearing a blue glove, reaches towards a black valve handle on the 'PLASMA CLEANER' machine.]
+  A74[The human's hand grasps the black valve handle.]
+  A75[The human twists the black valve handle counter-clockwise.]
+  A76[The human continues to hold the valve handle.]
+  A77[open the chamber door]
+  A78[pick up tweezers]
+  A79[pick up sample box]
+  A80[open sample box]
+  A81[pull out glass tray from plasma cleaner]
+  A82[Use tweezers to pick up a wafer from a glass tray]
+  A83[Place the wafer into the clear sample box using tweezers]
+  A84[pick up wafer with tweezers from a clear plastic container]
+  A85[move wafer with tweezers towards the plasma cleaner]
+  A86[place wafer onto the edge of the glass tray inside the plasma cleaner using tweezers]
+  A87[adjust wafer on the glass tray with tweezers]
+  A88[place dark gray sample into sample box with tweezers]
+  A89[close sample box]
+  A90[set sample box down]
+  A91[set tweezers down]
+  A92[push glass tray back into chamber]
+  A93[close the chamber door]
+
+  A1 --> A2
+  A2 --> A3
+  A3 --> A4
+  A4 --> A5
+  A5 --> A6
+  A6 --> A7
+  A7 --> A8
+  A8 --> A9
+  A9 --> A10
+  A10 --> A11
+  A11 --> A12
+  A12 --> A13
+  A13 --> A14
+  A14 --> A15
+  A15 --> A16
+  A16 --> A17
+  A17 --> A18
+  A18 --> A19
+  A19 --> A20
+  A20 --> A21
+  A21 --> A22
+  A22 --> A23
+  A23 --> A24
+  A24 --> A25
+  A25 --> A26
+  A26 --> A27
+  A27 --> A28
+  A28 --> A29
+  A29 --> A30
+  A30 --> A31
+  A31 --> A32
+  A32 --> A33
+  A33 --> A34
+  A34 --> A35
+  A35 --> A36
+  A36 --> A37
+  A37 --> A38
+  A38 --> A39
+  A39 --> A40
+  A40 --> A41
+  A41 --> A42
+  A42 --> A43
+  A43 --> A44
+  A44 --> A45
+  A45 --> A46
+  A46 --> A47
+  A47 --> A48
+  A48 --> A49
+  A49 --> A50
+  A50 --> A51
+  A51 --> A52
+  A52 --> A53
+  A53 --> A54
+  A54 --> A55
+  A55 --> A56
+  A56 --> A57
+  A57 --> A58
+  A58 --> A59
+  A59 --> A60
+  A60 --> A61
+  A61 --> A62
+  A62 --> A63
+  A63 --> A64
+  A64 --> A65
+  A65 --> A66
+  A66 --> A67
+  A67 --> A68
+  A68 --> A69
+  A69 --> A70
+  A70 --> A71
+  A71 --> A72
+  A72 --> A73
+  A73 --> A74
+  A74 --> A75
+  A75 --> A76
+  A76 --> A77
+  A77 --> A78
+  A78 --> A79
+  A79 --> A80
+  A80 --> A81
+  A81 --> A82
+  A82 --> A83
+  A83 --> A84
+  A84 --> A85
+  A85 --> A86
+  A86 --> A87
+  A87 --> A88
+  A88 --> A89
+  A89 --> A90
+  A90 --> A91
+  A91 --> A92
+  A92 --> A93
+```

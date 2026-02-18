@@ -1,0 +1,526 @@
+[
+  {
+    "clip_index": 0,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move two gloved hands into the frame"
+      },
+      {
+        "step": 2,
+        "action": "spread the gloved hands apart with fingers splayed"
+      },
+      {
+        "step": 3,
+        "action": "point the index finger of the right gloved hand"
+      },
+      {
+        "step": 4,
+        "action": "point the index finger of the left gloved hand"
+      },
+      {
+        "step": 5,
+        "action": "spread the gloved hands apart with fingers splayed"
+      },
+      {
+        "step": 6,
+        "action": "move the gloved hands slightly closer together and lower"
+      }
+    ]
+  },
+  {
+    "clip_index": 10,
+    "actions": [
+      {
+        "step": 1,
+        "action": "shake the white cylindrical container"
+      },
+      {
+        "step": 2,
+        "action": "place both hands on the white cylindrical container"
+      },
+      {
+        "step": 3,
+        "action": "unscrew the lid of the white cylindrical container"
+      }
+    ]
+  },
+  {
+    "clip_index": 11,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place the cap from the brown bottle onto the table"
+      },
+      {
+        "step": 2,
+        "action": "pick up the white container of the spray gun"
+      },
+      {
+        "step": 3,
+        "action": "hold the white container with the left hand and the spray gun body with the right hand"
+      },
+      {
+        "step": 4,
+        "action": "unscrew the white container from the spray gun body"
+      },
+      {
+        "step": 5,
+        "action": "separate the white container from the spray gun body"
+      }
+    ]
+  },
+  {
+    "clip_index": 12,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold a bottle in the left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold a spray gun with a white cup in the right hand"
+      },
+      {
+        "step": 3,
+        "action": "tilt the bottle to pour its contents"
+      },
+      {
+        "step": 4,
+        "action": "pour slurry from the bottle into the white cup of the spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 13,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pour substance from bottle into spray gun container"
+      },
+      {
+        "step": 2,
+        "action": "set bottle down on table"
+      },
+      {
+        "step": 3,
+        "action": "pick up white lid"
+      },
+      {
+        "step": 4,
+        "action": "screw white lid onto bottle"
+      },
+      {
+        "step": 5,
+        "action": "remove white lid from bottle"
+      },
+      {
+        "step": 6,
+        "action": "pour substance from spray gun container into bottle"
+      },
+      {
+        "step": 7,
+        "action": "place white lid back onto bottle"
+      }
+    ]
+  },
+  {
+    "clip_index": 14,
+    "actions": [
+      {
+        "step": 1,
+        "action": "hold the lid of a container in the left hand"
+      },
+      {
+        "step": 2,
+        "action": "hold a spray gun in the right hand"
+      },
+      {
+        "step": 3,
+        "action": "place the lid onto the top of the spray gun"
+      },
+      {
+        "step": 4,
+        "action": "twist the lid on the spray gun"
+      },
+      {
+        "step": 5,
+        "action": "hold the spray gun in the right hand"
+      },
+      {
+        "step": 6,
+        "action": "move the left hand"
+      },
+      {
+        "step": 7,
+        "action": "hold the spray gun in the right hand"
+      },
+      {
+        "step": 8,
+        "action": "move the left hand again"
+      }
+    ]
+  },
+  {
+    "clip_index": 15,
+    "actions": [
+      {
+        "step": 1,
+        "action": "move left hand into frame"
+      },
+      {
+        "step": 2,
+        "action": "grab black plastic material with left hand"
+      },
+      {
+        "step": 3,
+        "action": "move black plastic material out of frame with left hand"
+      },
+      {
+        "step": 4,
+        "action": "point left hand at the rectangular object with white squares"
+      },
+      {
+        "step": 5,
+        "action": "move left hand away from the rectangular object"
+      },
+      {
+        "step": 6,
+        "action": "pick up spray gun with right hand"
+      },
+      {
+        "step": 7,
+        "action": "hold spray gun with right hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 16,
+    "actions": [
+      {
+        "step": 1,
+        "action": "the human holds a spray gun"
+      },
+      {
+        "step": 2,
+        "action": "the human shakes the spray gun"
+      },
+      {
+        "step": 3,
+        "action": "the human verbally states 'I put my mask on'"
+      },
+      {
+        "step": 4,
+        "action": "the human holds the spray gun still"
+      }
+    ]
+  },
+  {
+    "clip_index": 17,
+    "actions": [
+      {
+        "step": 1,
+        "action": "speak 'I turn on the fan'"
+      },
+      {
+        "step": 2,
+        "action": "hold spray gun"
+      },
+      {
+        "step": 3,
+        "action": "move spray gun downwards"
+      },
+      {
+        "step": 4,
+        "action": "move spray gun upwards"
+      },
+      {
+        "step": 5,
+        "action": "speak 'And I start spraying.'"
+      },
+      {
+        "step": 6,
+        "action": "point spray gun at the object"
+      },
+      {
+        "step": 7,
+        "action": "spray substance from the gun"
+      },
+      {
+        "step": 8,
+        "action": "move spray gun left to right while spraying"
+      }
+    ]
+  },
+  {
+    "clip_index": 18,
+    "actions": [
+      {
+        "step": 1,
+        "action": "spray a substance onto the squares on top of the brown box-like object using a spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 19,
+    "actions": [
+      {
+        "step": 1,
+        "action": "No observable action."
+      }
+    ]
+  },
+  {
+    "clip_index": 1,
+    "actions": [
+      {
+        "step": 1,
+        "action": "point with gloved left hand towards the foil-wrapped object"
+      },
+      {
+        "step": 2,
+        "action": "pick up a small white rectangular piece from a white dish with gloved left hand"
+      },
+      {
+        "step": 3,
+        "action": "hold the small white rectangular piece with gloved left hand"
+      }
+    ]
+  },
+  {
+    "clip_index": 2,
+    "actions": [
+      {
+        "step": 1,
+        "action": "put a white square object into a small white dish"
+      },
+      {
+        "step": 2,
+        "action": "pick up a grey bottle with a white cap"
+      },
+      {
+        "step": 3,
+        "action": "shake the grey bottle"
+      },
+      {
+        "step": 4,
+        "action": "set the grey bottle down"
+      },
+      {
+        "step": 5,
+        "action": "point at the grey bottle with a gloved finger"
+      },
+      {
+        "step": 6,
+        "action": "move hand away from the grey bottle"
+      },
+      {
+        "step": 7,
+        "action": "move hand toward a blue spray gun"
+      }
+    ]
+  },
+  {
+    "clip_index": 3,
+    "actions": [
+      {
+        "step": 1,
+        "action": "put on blue gloves"
+      },
+      {
+        "step": 2,
+        "action": "move hands towards the white dish"
+      },
+      {
+        "step": 3,
+        "action": "pick up a white rectangular ceramic sheet from the white dish with both gloved hands"
+      }
+    ]
+  },
+  {
+    "clip_index": 4,
+    "actions": [
+      {
+        "step": 1,
+        "action": "pick up a small white rectangular object"
+      },
+      {
+        "step": 2,
+        "action": "place the small white rectangular object onto the foil-wrapped box"
+      },
+      {
+        "step": 3,
+        "action": "pick up a small white rectangular object from the white dish"
+      },
+      {
+        "step": 4,
+        "action": "place the small white rectangular object onto the foil-wrapped box"
+      },
+      {
+        "step": 5,
+        "action": "pick up a small white rectangular object from the white dish"
+      },
+      {
+        "step": 6,
+        "action": "place the small white rectangular object onto the foil-wrapped box"
+      },
+      {
+        "step": 7,
+        "action": "pick up a small white rectangular object from the white dish"
+      },
+      {
+        "step": 8,
+        "action": "place the small white rectangular object onto the foil-wrapped box"
+      }
+    ]
+  },
+  {
+    "clip_index": 5,
+    "actions": [
+      {
+        "step": 1,
+        "action": "right hand picks up a small white square object from a white bowl"
+      },
+      {
+        "step": 2,
+        "action": "right hand moves the small white square object towards a foil-wrapped object"
+      },
+      {
+        "step": 3,
+        "action": "right hand places the small white square object onto the foil-wrapped object"
+      },
+      {
+        "step": 4,
+        "action": "left hand picks up a small white square object from the white bowl"
+      },
+      {
+        "step": 5,
+        "action": "left hand moves the small white square object towards the foil-wrapped object"
+      },
+      {
+        "step": 6,
+        "action": "left hand places the small white square object onto the foil-wrapped object"
+      },
+      {
+        "step": 7,
+        "action": "right hand picks up a small white square object from the white bowl"
+      },
+      {
+        "step": 8,
+        "action": "right hand moves the small white square object towards the foil-wrapped object"
+      },
+      {
+        "step": 9,
+        "action": "right hand places the small white square object onto the foil-wrapped object"
+      }
+    ]
+  },
+  {
+    "clip_index": 6,
+    "actions": [
+      {
+        "step": 1,
+        "action": "place left gloved hand on the foil-covered object"
+      },
+      {
+        "step": 2,
+        "action": "point at the foil-covered object with both gloved hands"
+      },
+      {
+        "step": 3,
+        "action": "move left gloved hand away from the object"
+      },
+      {
+        "step": 4,
+        "action": "pick up a small white bottle with the right gloved hand"
+      },
+      {
+        "step": 5,
+        "action": "set down the small white bottle with the right gloved hand"
+      },
+      {
+        "step": 6,
+        "action": "point at the foil-covered object with the left gloved hand"
+      },
+      {
+        "step": 7,
+        "action": "reach for a red knob on the side of the object with the right gloved hand"
+      },
+      {
+        "step": 8,
+        "action": "turn the red knob clockwise"
+      }
+    ]
+  },
+  {
+    "clip_index": 7,
+    "actions": [
+      {
+        "step": 1,
+        "action": "Right hand, wearing a blue glove, touches the right control knob/button on the heating device"
+      },
+      {
+        "step": 2,
+        "action": "Right hand, wearing a blue glove, adjusts the right control knob/button on the heating device"
+      },
+      {
+        "step": 3,
+        "action": "Right hand, wearing a blue glove, moves away from the heating device"
+      },
+      {
+        "step": 4,
+        "action": "Left hand, wearing a blue glove, raises and spreads its fingers"
+      },
+      {
+        "step": 5,
+        "action": "Right hand, wearing a blue glove, raises and spreads its fingers"
+      },
+      {
+        "step": 6,
+        "action": "Both hands, wearing blue gloves, are held raised with fingers spread"
+      },
+      {
+        "step": 7,
+        "action": "Left hand, wearing a blue glove, points its index finger"
+      }
+    ]
+  },
+  {
+    "clip_index": 8,
+    "actions": [
+      {
+        "step": 1,
+        "action": "gloved hand (blue glove) enters frame from the left"
+      },
+      {
+        "step": 2,
+        "action": "gloved hand moves towards the rectangular device covered with foil"
+      },
+      {
+        "step": 3,
+        "action": "gloved hand points index finger at the rectangular device"
+      },
+      {
+        "step": 4,
+        "action": "gloved hand moves pointing index finger away from the device"
+      },
+      {
+        "step": 5,
+        "action": "gloved hand moves to the lower-left corner of the frame"
+      }
+    ]
+  },
+  {
+    "clip_index": 9,
+    "actions": [
+      {
+        "step": 1,
+        "action": "right hand picks up a grey bottle"
+      },
+      {
+        "step": 2,
+        "action": "right hand shakes the grey bottle"
+      }
+    ]
+  }
+]

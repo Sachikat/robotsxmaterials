@@ -1,0 +1,41 @@
+```mermaid
+graph TD
+    A[Start: Intend to Plasma Clean Samples (approx. 30 seconds)] --> B(Open Plasma Cleaner Chamber Door);
+
+    B --> C{Is Tray Removal/Adjustment Needed?};
+    C -- Yes --> D[Retrieve/Adjust Tray (e.g., for cleaning/positioning)];
+    C -- No --> E[Prepare Sample Box & Tweezers];
+
+    D --> E;
+    E --> F(Open Sample Box);
+
+    F --> G{Load Wafer into Chamber};
+    G --> H[Grasp Wafer with Tweezers from Sample Box];
+    H --> I[Place Wafer on Tray inside Chamber];
+    I --> J[Remove Tweezers from Chamber];
+    J --> K{More Wafers to Load?};
+    K -- Yes --> H;
+    K -- No --> L[Close Sample Box & Set Down Tweezers];
+
+    L --> M(Close Plasma Cleaner Chamber Door);
+    M --> N[Power On Plasma Cleaner & Activate Vacuum/Plasma];
+    N --> O[Set RF Level to HIGH];
+    O --> P{Operate Valves & Adjust Pressure};
+    P --> Q[Monitor Pressure (e.g., "stop moving knob once pressure reaches")];
+    Q -- Pressure OK --> R[Plasma Cleaning in Progress];
+    Q -- Adjust Further --> P;
+
+    R --> S[Shut Down Plasma Cleaner];
+    S --> T[Turn RF Level to OFF];
+    T --> U(Open Plasma Cleaner Chamber Door);
+
+    U --> V{Unload Wafer from Chamber};
+    V --> W[Grasp Cleaned Wafer with Tweezers from Cleaner];
+    W --> X[Place Wafer into Sample Box];
+    X --> Y[Remove Tweezers from Box];
+    Y --> Z{More Cleaned Wafers to Unload?};
+    Z -- Yes --> W;
+    Z -- No --> AA[Close Sample Box & Set Down Tools];
+
+    AA --> BB[End];
+```
