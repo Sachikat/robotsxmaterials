@@ -1,2 +1,0 @@
-This is where all the task graphs generated are. 
-Only video A was used from each procedure, but each one follow a different prompt. 
